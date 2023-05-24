@@ -1,1 +1,2 @@
 # Image-classification-using-Machine-Learning
+In this assignment images were labeled into five classes. Those are classes of 0,2,4,6, and 9 in which the classes labeling was taken from the names of the image folder in which the images were stored. Manually checking and classifying images could be a tedious task especially when they are massive in number and therefore it will be very useful if we could automate this entire process using computer vision. The work below aims to put fundamental principles for that vision.
