@@ -1,0 +1,44 @@
+RCS 8
+
+Gold, D.R., Tager, I.B., Weiss, S.T., Tosteson, T.D., Speizer,
+F.E. "Acute Lower Respiratory Illness in Childhood as a Predictor
+of Lung Function and Chronic Respiratory Symptoms" American Review
+of Respiratory Disease 140: 877-884, 1989.
+
+SUMMARY: This study investigated the relationship of acute lover
+respiratory illness (LRI) to level and change in level of forced
+expiratory volumes in a cohort of 801 children, followed
+Yongitudinally for a maximum of 13 yr. The co-occurrence of
+respiratory illness before 2 yr of age and two or more LRI during
+a single surveillance year was associated with a 20.3% lower mean
+Gross“sectional level of FEF25~75, and with reduced longitudinal
+Change in level of FEF25~75, The effect of LRI on lung function
+was Uniformly stronger for boys than for girls. Of the children
+with illness before 2 yr of age and two or more LRI, six of 14
+Were male asthnatics with mean levels of FEF25-75 that were lower
+than those of other asthmatic children. Pneumonia and/or
+hospitalization for respiratory illnes prior to the onset of study
+were associated with lower cross-sectional levels of forced
+expiratory volumes at entry to the study, even when
+asthnatics/persistent wheezers were eliminated from the analysis
+(6.1% lower level of FEV1 for a nonasthmatic boy with previous
+hospitalization versus a nonasthnatic boy without hospitalization).
+In the longitudinal analysis, pneumonia and/or hospitalization
+were associated with slower increase in level of forced expiratory
+volunes, even after adjusting for "ever diagnosis of asthna/current
+any wheeze" (starting at the same level, after eight years a boy
+with hospitalization would develop a 5.0% lower FEV1 than a boy
+without hospitalization). Acute LRI also was evaluated as a
+predictor of chronic respiratory symptoms. A strong association
+was found between previous hopitalization and subsequent chronic
+cough (Odds Ratio [OR]= 3.8)/chronic phlegm (OR= 7.1) at entry to
+the study: eight years later, smoking was the only significant
+predictor of these symptons, and no hospitalized child had taken
+hp smoking. Future studies may enable us to explore interactions
+between severe respiratory illness in early childhood and the effect
+of cigarette smoke or indoor/outdoor air pollution.
+
+ 
+
+gLeEseezoe
+

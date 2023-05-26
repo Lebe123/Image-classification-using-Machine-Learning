@@ -1,0 +1,149 @@
+FEBS Leters 360 (1995) 106.110
+
+FEBS 15158
+
+Stimulation of vgf gene expression by NGF is mediated through multiple
+signal transduction pathways involving protein phosphorylation
+
+Stephen R.J. Salton**, Cinzia Volonté”**, Gabriella D’Arcangelo“#**
+
+*Ftberg Research Cemer for Newobiologs, Mt Sinai School of Medicine, Box 1068. One Gustae Lexy Place. New York, NY 10020-6574, USA
+“Department of Puhologs and Comer for Newobiology and Behavior. Collegeof Physicians and Surgeons. Cohanbia Universi
+"New York, NY 10032, USA
+“Deparment of Neurobiology and Behavior, State University of New York at Stony Brook, Stony Brook, NY 117045230, USA
+
+Received 7 December 1995
+
+Abstract The raf gene encodes one ofthe most rapidly induced
+‘neuronal mRNAs identified in NGF-treated PCI2 cells. Maximal
+inhibition of VGF mRNA induction was achieved using K-252a,
+an inhibitor of the NGF-receptor Trk tyrosine kinase, and by
+‘mutating both ¥490 (SHC association site) and Y7RS (PLC-y1
+association site) of Trk Inhibitors of the NGF-activated protein
+{kinase N (PKN) were found to partially and in some cases tran-
+siently block VGE induction by NGF while in PKA-deficient
+PCI2 cells, VGF induction by NGF was comparable to that
+‘observed in parental PC12 cells. The binding of NGF to Trk
+‘therefore activates redundant signal transduction pathways which
+converge to regulate raf gene expression,
+
+  
+
+ 
+
+ 
+
+Key words: VGE; NGF; Trk; PC12 cal, Protein kinase Ni
+Protein phosphorylation
+
+ 
+
+otroduction
+
+ 
+
+In the presence of nerve growth factor (NGF) and basic
+fibroblast growth factor (bFGF) but not epidermal growth
+factor (EGF), PCI2 pheochromocytoma cells differentiate into
+sympathetic neuron-like cells (1). Treatment of PC12 cells with
+[NGF results inthe rapid tyrosine phosphorylation of maltiple
+cellular proteins 2] and the stimulation of several second mes-
+Senger pathways through the actions of a number of tyrosine
+and serine/threonine kinases (3). The importance of protein
+phosphorylation in the mechanism of action of NGF has been
+reinforced by the identification of the product of the rk tyro-
+sine kinase protooncogene as the high affinity NGF receptor
+[4.5]. and the demonstration that Tek is a necessary component
+of the NGF signaling pathoray that is required for neurite
+outgrowth and the promotion of PC12 cell survival (6)
+
+NGF-treatment stimulates p21" GTP-binding activity, caus-
+ing protonged p21™ and ERK activation in comparison to
+
+ 
+
+ 
+
+* Corresponding author. Fax: (1) (212) 996 9785,
+
+ 
+
+resent addres: Insitute of Neurobiology, CNR, Vial Mary. 43-18,
+00137 Roma, Tay
+
+*++Presemadivess: Roche lostitute of Moleculae Biology. 4D Kings-
+land St. Nutley. NJ 07110, USA,
+
+Abbresitions: AP, 2-aminopurine: BFGF, basic fibroblast growth
+factor: 6MMPR, rethylmercapiopurie ribose: NGF. nerve
+gronth factor: ODC, rathine decarboxylase: PLC-y1, phospholipase
+CI. PRA. protein kinase A; PKC, protein kinase C) PRN, protein
+kine N-6TG, 6tioguanine
+
+EGF, a growth factor which does not cause neuronal differen-
+tiation of PCI2 cells [7]. Selective inhibition of protein kinase
+activity through the application of purine analogs inhibits
+NGF-promoted neurite regeneration and the NGF-regulated
+serine/threonine protein kinase N (PKN) but does not block
+several other effects of NGF [8-10] suggesting that the develop-
+tment and maintenance of a neuronal phenotype results from
+the complex regulation of « number of protein kinases. Insight
+into the process of neuronal differentiation may be obtained
+through study of gene products such as VGF {11} which are
+rapidly activated more robustly by NGF than by EGF. in
+contrast to transcripts of the immediate early genes fos, un,
+and =i268 (NGFI-A), which appear to be induced similarly by
+cither NGF, EGF, or serum stimulation {12}. In PC12 cells,
+YGF mRNA levels increase atleast 15-30-fold after 3-6 h of
+[NGF treatment and return to basal levels after approximately
+48 h (13,14), Induction of raf gene expression is mimicked by
+activation of a Sre-Ras-Raf cascade in PC12 cells (15), and is
+partially blocked by protein synthesis inhibitors [16,17] and
+downregulation of protein kinase C (PKC)-dependent path-
+ways [14] Here we utilize a numberof protein kinase inhibitors,
+several PC12-derived cell lines that express wildtype or mutant
+forms of Trk, and a PKA-defcient PC12 cell ine to characte
+
+ize the relative contributions of specific signal transduction
+pathways to the regulation of vgf gene expression by NGF.
+
+ 
+
+2, Materials and methods
+
+2d, Cell extare
+
+CID ces PCL2anr5 cell lines expressing wildtype and mutant Tks
+(generously provided by Dr LA. Greene), and PCI? vanant AL26~
+182 cels kindly provided by Br. 1.4. Wagner) were grosn on colt
+tgen-oated dishes (I. Purine analogs were added to cultures from
+‘concentrated stocks as describe (18). Where specified, PCI2 cells were
+tweated with 25S NGE (Boehringer Mannbeim), EGF (Collaborative).
+recombinant bovine DEGF (kindly proved by Dr. A. Baird, Whiter
+Institute), K252a (generous git of G. Gurot), MTA (Sigma). and
+ML (Sima). Folowing treatment, PC12eells were rina tee times
+with iecold phosphate-uffered sine nd RNA was isolated a de
+seribed below
+
+ 
+
+2.2, RNA ioltion and RNase protection analais
+C12 calls were sed, nce and cose ractonatd by cetsfug
+vion (19 and cytoplasmic RNA ieolated (20), Where indicate
+calllar RNA was olated a described 21), RNase protection a
+‘vas peoreed [2) using antisense VGF exon 3 and yslophiin probes
+{11} fo quantify cytoplasmic VGF and cylophin {itera coatrl)
+URNA levels respectively. Samples containing 10 yp of total RNA
+sere analyzed in duplicate or tplicate. and protected RNA fragments
+Were resolved on nondenaturing 8% polyacrylamide gels using Maple
+digested pBRS22 DNA a molecular size markers AMterautoradio
+sraphic exposure, bands were quantified by scintilaion counting oF
+
+  
+
+   
+
+(0014.579395/990.6 1995 Federation of European Biochemical Societies. All ights reserve.
+
+SSDI 0014-5793195)00086-0,
+

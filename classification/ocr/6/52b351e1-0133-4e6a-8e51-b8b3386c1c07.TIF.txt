@@ -1,0 +1,181 @@
+Proc. Natl, Acad. Sci, USA
+Ya 30-0 304-8308, ata 193
+
+ 
+
+General involvement of hypoxia-inducible factor 1 in transcriptional
+
+response to hypoxia
+
+GuANG L. WANG AND GREGG L. SEMENZA*
+Center fr Mesa Ge
+
+ 
+
+Communicated by Vicor A. MeKutick, February 11,1993
+
+ABSTRACT Transcription of the human erythropoietin
+(EPO) gene is activated in Hep3B cells exposed to hypoxia.
+[Hyporia-inducible factor 1 (HIF-1) is # nuclear factor whose
+DNA binding activity induced by hypoula in Hep3B cells, and
+HIF-1 binds ata stein the EPO gene enhancer that Is required
+{or hypoxic activation of transcription. In this paper, we
+demonstrate that HIF-1 DNA binding activity ls also induced by
+!hyponia ina variety of mammalian cll lines in which the EPO
+iene is not transcribed. The composition of the HIF-1 DNA
+
+the
+1 activation appear tobe similar oF Identical
+in EPO-producing and noa-EPO-producing cells. Transcrip-
+tion of reporter genes containing the EPO gene enhancer is
+induced by hypoxia in non-EPO-producing cells and mutations
+{hat eliminate HIF-1 binding. eliminate inducibility, These
+results provide evidence that HIF-L and lis recogaltion se-
+quence are common components of a general mammalian
+cellular response to hypoxia.
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Calls sense and respond to extracellular and intracellular
+stimli (© maintain homeostasis. and hypoxia is one of the
+‘most fundamental of all environmental stimuli. A major
+physiologic mechanism by which mammals respond to tissue
+hypoxia is through stimulation of erythropoiesis resulting in
+fan increased blood Oy-carrying capacity. Erythropoietin
+(EPO) the primary humoral regulator of mammalian eryth-
+Topoiesis. EPO RNA levels increase several hundredfold in
+‘rodent liver and kidney in response to hypoxia or anemia (for
+review. see refs. 1 and 2). Human EPO RNA levels show
+‘similar increases in transgenic mouse liver and kidney (3-6).
+Hypoxia also induces EPO RNA transcription in Hep3B
+‘human hepatoblastoma cells (7), demonstrating thatthe same
+cell type can sense hypoxia and respond by increasing EPO
+RNA levels. The production of EPO and subsequent increase
+in erythropoiesis thus provide a major homeostatic mecha
+nism for maintaining issue oxygenation.
+
+‘A major research objective in our laboratory has been to
+identify the cis-acting DNA sequences and trans-acting pro-
+tein factors that regulate hypoxia-inducible human EPO gene
+expression. Liver-specific DNase -hypersensitive sites have
+been identified in the human EPO gene 3'-flanking sequence
+(8). In addition, a 256-nt fragment that encompasses the
+hypersensitive sites functioned as a hypoxia-inducible en-
+hhancer when cloned 3 toa simian virus 40 (SV40) promoter
+chloramphenicol acetyltransferase (CAT) reporter gene and
+transiently expressed in Hep3B cells (8). Deletion and scan-
+‘ing-mutagenesis studies further delimited the enhancer to 8
+S0-nt sequence that was functionally tripartite: site l(t 4=12)
+and site 2 (nt 19-23) were absolutely required for hypoxic
+induction. whereas site 3 (nt 26-48), a putative thyroid/
+steroid hormone receptor binding site, functioned to amplify
+the induction signal (9). We identified (9) in Hep3B nuclear
+extracts hypoxia-indueible factor 1 (HIF-1), a DNA binding
+
+‘The publication cout of hisaracle were defrayed im prt by page charge
+payment. Thisaricl must therefore be hereby marked "advert
+Im accordance sah IN U.S.C. F173 solely to indicate ti act.
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+   
+ 
+
+804
+
+, Denainens of Pedic and Medicine, The Jobas Hopkin University Schoo of Meine, Balinore. MD 21205,
+
+activity induced by hypoxia that binds specifically to the
+enhancer site 1 sequence but not to a mutant sequence
+containing a 3-nt substitution that eliminated enhancer func-
+tion in transient expression assays. The HIF-1 binding site,
+as established by transient expression and electrophoretic.
+‘mobility-shift assays (EMSAs) (9) is completely conserved
+in the enhancer of the mouse EPO gene (10). Treatment of
+Hep3B cells with cycloheximide inhibited the hypoxic induc-
+tion of both EPO RNA (7) and HIF-1 DNA binding acuvity
+(9), These results provided further evidence for the impor-
+{ance of HIF-1 in EPO gene transcriptional activation by
+hypoxia and suggested that induction of HIF-1 activity
+‘quires de novo protein synthesis.
+
+‘A growing number of other mammalian genes have been
+Feported whose expression is induced by hypoxia (11-15).
+‘The molecular basis for induction has not been established
+for any of these genes, although induction of vascular endo-
+thelial growth factor RNA is inhibited by cycloheximide (14).
+To determine whether HIF-1 plays a general role in the
+hypoxic activation of gene transcription, we have analyzed
+‘mammalian cell ines in which the EPO gene is nat expressed.
+HIF-1 was induced by hypoxia in all cell lines tested,
+including human 293 embryonic kidney and HeLa cervieal
+carcinoma cells, mouse Ltk~ fibroblasts, and C:Cy skeletal
+‘myoblasts, Ratl fibroblasts, and Chinese hamster ovary
+(CHO) cells. The physiological relevance of HIF-1 induction
+was supported by our demonstration that the hypoxia-
+inducible enhancer was functional in CHO and 293 eels,
+whereas the 3-nt mutation that eliminated HIF-1 binding
+rendered the enhancer noninducible. These results implicate
+HIF-Lin the transcriptional regulation of gene expression by
+hypoxia in a variety of mammalian cell types.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MATERIALS AND METHODS
+
+Cell Culture and Nuclear Extract Preparation, Hep3B and
+HeLa cells were maintained in minimal essential medium
+with Barle’s salts, 1 mM sodium pyruvate, 2 mM L-glutamine,
+‘and 1 mM nonessential amino acids. 293, Ratl, C3Ci, and
+LLtk- cells were maintained in Dulbecco's modified Eagle's
+medium. CHO cells were grown in a-modified minimum
+essential medium. Media were supplemented with 10% (vol/
+vol) heat-inactivated fetal calf serum, $0 x 10-) unit of
+Penicillin per ml. and SO yg of streptomycin per ml (all
+purchased from GIBCO). Hypoxia was induced by placing
+ells ina modular incubator chamber flushed with 196 03/59
+CO,/balance Ns for 4 h at 37°C. When used, cycloheximide
+(Sigma) was added to a final concentration of 100M.
+starting 2 h prior to hypoxia treatment. For heat shock
+{eatment. cells were incubated for 1h at42.5°C ina standard
+
+ 
+
+ 
+
+ 
+
+ 
+
+Abbreviations: CAT. chloramphenicol aceiylransferase: EPO.
+Eythropoietin: HIP, hypontacindusible facor 1: SV, simian
+ews 40; EMSA. electrophoreticomabiity-shift asay,
+
+“To whom repnnt requests shouldbe addressed at: CMSC-1004, The
+Johas Hopkins Hospital. 6 North Wole Suet, Baltimore, MO
+

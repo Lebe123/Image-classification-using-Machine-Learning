@@ -1,0 +1,237 @@
+ 
+
+ 
+
+ 
+
+Mouscutan avo Cettirtan Biotooy, June 1995, p. 2907-2915
+(0z70-730695/804.00-+0
+‘Copyright © 1995, American Society for Microbiology
+
+Vol. 15, 80.6
+
+Regulatory Role of MEF2D in Serum Induction of
+the c-jun Promoter
+‘TAE-HEE HAN axp RON PRYWES
+
+Department of Biological Sciences, Columbia Universit, New York, N
+
+York 10027
+
+ 
+
+Received 22 December 1994/Returned for moifcation 3 February 1993/\seeple 27 February 1995
+
+‘Serum induction of jun expression in HeLa cells requires a MEF? site ut ~59 in the cyjun promoter, MEF2
+
+sites fo
+
+ 
+
+   
+
+‘serum response, Deletion analysis of MEF2D showed that its DNA binding domain, when fused to a beeen,
+
+ 
+
+‘ogous transcriptional a
+
+ion domain, was sufficient for serum indu
+
+ 
+
+‘of a MEF2 reporter gene. This is
+
+{he domain homologous to that inthe serum response factor which s required for secum induction ofthe eos
+serum response element, suggesting that serum regulation of cos nd cu may share a comenon miechanicng,
+
+ 
+
+ 
+
+Transcription of cellular immediate-early genes is rapidly
+induced by treatment of cells with serum and many different
+growth factors (reviewed in reference 13). The promoters of
+‘many of these genes, such 3s cos, contain a serum response
+clement (SRE) which is required for regulation by many ofthe
+lucing agents (reviewed in reference 34). Some immediate.
+carly genes, however, do not appear to contain SRE regulatory
+sequences and therefore must be regulated by other elements,
+One such gene that we have examined is the cjun proto.
+‘oncogene (12), Serum induction of eun mRNA peaks within
+30 min of treatment and returns to basal levels after 2 t0 4 8
+(8, 28). Induction of ess oscurs primarily at the transetip.
+‘onal level, as shown by nuclear cun-on assays (27, 29).
+
+‘The ¢,jun promoter region between ~117 and ~50 contains
+binding sites for the transcription factors Spl, CTF, AP-1, and
+MEFZ (I, 11), The MEF? site was found to mediate scrum
+induction of a reporter gene, and the MEF2 binding sequence
+at ~59 in the eum promoter was found to be required for
+
+im and epidermal growth factor (EGE) induction of the
+zit promoter (11, 25). The MEF? site was originally defined
+ng. required clement in the enhancers of several muscle-
+specific genes and is bound by a family of factors termed.
+MEP2A, “B, -C, and -D (also termed RSRFS) (2,3, 10. 15,
+2-25, 38).
+MEF? family of factors have common DNA. binding
+located at the amino termini of the proteins. ‘The
+i similar to that of MADS box proteins, a family of
+DNA-binding proteins comprising serum response. factor
+(SRF), the yeast regulatory proteins MMI and ARG8O, and.
+several plant proteins (reviewed in reference 33). The consen-
+sus DNA binding sequences of MEF2 factors, CTACAY
+T)ATAG. are found in the regulatory regions of many muscle
+specific genes and at least two growth factor-indueible genes
+(€zi and nur7TINEGL-BINI0) (5), The MEF? site has been
+own to be functionally important for the regulation of sev
+era musele-specifie penes (2, 10. 15, 38, 9), Notably, in trans
+eae mize, mutation of the MEF? sie in the inyogenin pro.
+
+ 
+
+ 
+
+  
+   
+
+ 
+
+ 
+
+  
+
+ 
+
+= Corresponding author, Mailing sldros: Department of Biological
+
+‘Sciences. Columbia Universiy, L16th and Broad, New York, NY.
+
+Phone: (212) 8848281" Fans (212) 865-8206, Plecwone ine
+mepodecolunbis ede
+
+  
+
+   
+
+ 
+
+ 
+
+ 
+
+‘moter abolished expression of a reporter gene in a subset of
+‘myogenic precursors, demonstrating the importance ofthis site
+for precise celltype-speciic expression (6, 37). MEF? site
+binding stivity is also induced during differentiation of skele
+tal myoblasts in culture and fibroblasts induced to myogenic
+conversion by MyoT? family members (7, 10, 19). tn Xenopus
+levis, MyoD also induced MEF2A and -D expression, and
+ectopic expression of Xenopus MEF2D was able to stimulate
+cardiac muscle-specific gone expression in eultured blastula
+animal pote extracts (3). These results suggest that MEF?
+proteins act dowastceain of MyoD-like factors 40 drive muscle
+ifferentiation
+
+Expression of all of the MEF2 family members and certain
+specific splice variants is found in muscle cells, Expression of
+MEF2A and -D mRNA, however, has been found in ather celts
+types (25, 38), unk! MEF2C expression was found in cortical
+‘neurons aswell as uifterentiated muscle cells (23. 2+). MET2D
+
+e most ubiquitous (3. 22, MET2D
+
+st in endiferent i
+
+1s arc a splice variant of i
+induced by diferentiaion (3. 4.2
+are found in many diterost cel types. MEF2 ps
+sion has been reported to be restricted to muse!
+lines and nervous tsce, suggesting posttranscriptional tegula,
+tory mechanisms (3, 38). Several groups, however. have found
+‘MEF? site binding activity in other cell types (11. 16, 23). The
+reasons for this contradiction are uncles
+
+‘The role of MEF? proteins in growth factor regulat
+on-musclespecific genes has not been previously invest
+gated. It has becn uriclear which. if any. of these proteins ate
+expressed in nonmuscle cells and how they are involved in gene
+regulation. Buch ct the MEE2 family member: 22 activate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+   
+
+  
+  
+  
+
+    
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+   
+
+   
+
+         
+ 
+
+   
+
+  
+
+ 
+
+ion frou 4 reporter gene contsining M
+iS also not Saocr sce Tus
+
+among these factors Bt
+
+© previously found. ing gel nce ity shi <
+
+eal bind tothe ©
+whether the facto
+the cloned MEF? yes an
+sponsible foe gratin
+
+We snow that ane ol
+
+ 
+ 
+  
+
+ 
+
+   
+
+atin of exe
+
+MEF? factors MEE2D,
+
+ 
+
+= may
+
+50554037. —~CO*~S~S
+

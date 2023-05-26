@@ -1,0 +1,146 @@
+ 
+
+nz. 176e0/ia-or90200/9,
+‘Tar Joona. or bMewoLoY
+Conyrehto 86 by The Wir Wilkins Co.
+
+‘Vol. 124, No, 1 Jansary 1860
+Pred in USA.
+
+THE RESPONSE OF MURINE SPLENIC LYMPHOCYTES TO
+CONCANAVALIN A AND TO CO-STIMULATOR'
+
+RICHARD J. SANDERSON, KATHLEEN RULON, ELLY G. GROENEBOER, anp DAVID W. TALMAGE,
+
+“From the Department of Microbiology and the Webb- Waring Lung Institute, University of Colorado Health Sciences Center,
+‘Denver, Colorado 80882
+
+‘The blastogenic and mitogenic response of murine
+splenic lymphocytes to concanavalin A and the response
+of the resulting blasts to a lymphokine co-stimulator
+preparation was cxamined with an electronic particle
+counting and sizing apparatus (Coulter Counter and
+Channelizer). Mitogenesis, as determined by increase in
+cell number, correlated well with the time-integrated
+uptake of tritiated thymidine. It was found that co-stim-
+ulator was highly mitogenic to the lectin-induced blasts,
+and that the cells appearing in response to it were uni-
+formly large (co-stimulator blasts). Furthermore, the
+eventual increase in cell number was proportional to the
+co-stimulator concentration, at least for the concentra-
+tions, cell numbers, and incubation times examined. This,
+relatively simple assay that uses the Coulter Counter
+and Channelizer is therefore capable of substituting for
+serial measurements of tritiated thymidine uptake and
+yields additional information on the volume spectra of
+responding cells, as well as forming the basis for assay-
+ing co-stimulator activity.
+
+‘The co-stimulator blasts were found to be capable of
+killing a wide variety of allogenele as well as syngeneic
+concanavalin A induced blasts. The level of killing in a
+Sehr “'Cr release assay varied between 9% (for the syn-
+geneic caso) and 24% of the maximum obtained by water
+lysis.
+
+ 
+
+ 
+
+ 
+
+‘The proliferation oflymphocytes in eeponse to concanavalin
+‘A (Con A) has been shown to be mediated by the release of a
+|ymphokine (co-stimulator) (1). Although it has been shown to
+‘be nonmitogenic to resting lymphocytes (1), we wil show here
+that co-timulator causes a strong proliferation ina cell popt-
+lation previously stimulated by Con A, and that this prolifer-
+ating population contains cytotoxic cells. Its now that when
+spleen oF lymph node cells are mixed with allogeneic tumor
+call, membranes, or normal calls, killer cells may ar may not
+‘be produced (2-10), depending presumably on the ability of the
+allogeneic calls to stimulate the production of co-stimalator in
+the responding cell population. The addition of previously
+prepared co-stimulator leads to # cytotoxic response to the
+
+Otherwise nonstimulatory allogeneic eels (2) or membranes (3),
+
+Received for publication June 28, 1979
+
+Accepted for publication September 27, 1979.
+
+‘The cost of publication ofthis article were defrayed in part by the
+payment of page charges. Ths article must therefore be hereby marked
+‘advertisement in accordance with 18 US.C. Section 1734 solely to
+fniate this face.
+
+"This work was supported in part by National Cancer Institute
+Grant CA 20744 and National Institute of Allergy and Infectious
+Disoases Grant Al 02047.
+
+It seems likely then, that the proliferation of killer cells in
+response to elther the nonspecific stimulus of a mitogen, or to
+‘the specific stimulus of an allogeneic call, requires co-stiraulator,
+In this paper, we have used a Coulter Counter to show the
+change in volume spectra and numbers of spleen or lymph node
+cells present in a response to Con A, and in the numbers of
+large cells that follow a subsequent addition of co-stimulator.
+Results have been correlated with tritiated thymidine uptake.
+It is shown that the most substantial cell proliferation is in
+response to co-stimulator, and is limited to the large cells in the
+volume spectrum. Furthermore, it appears that these large
+cells, which we term “co-stimulator blasts,” include populations,
+‘that ae capable of rapid killing ofboth allogeneic and syngeneic
+“Con A blasts.”
+
+ 
+
+MATERIALS AND METHODS
+
+Mice. Two to 4-month-old male C57BL/6 (H-2"), BALB/c
+(1.24), DBA\(H-29, A?/J (H.2"), SIL (H-2), and C3H (H-25)
+‘ice bred in our animal care facility were used.
+
+‘Medium. Eagle minimum essential medium (No. 410-1500,
+Grand Ialand Biological Co., Grand Island, N. ¥.) supplemented,
+with 100 units penicillin and 100 ug streptomycin per ml, 36
+mM NaHCO,, 10“ M 2-mereaptoethanol, and 10% fetal calf
+‘serum (FCS) was used. This medium will be referred to as
+MEM.
+
+Preparation of co-stimulator. Co-stimulator was prepared
+from BALB/c spleen cells (SC)? by a modification of the
+‘method of Shaw et al. (11), Briefly, 8 x 107 SC from normal
+BALB/c mice were suspended in 8 ml MEM containing 2-
+‘mereaptoethanol minus FCS, and placed in a 75-cm Falcon
+flask containing 80 pg Con A (Sigma Chemical Co., St. Louis,
+Mo) in an additional 8 mi of MEM. Flasks were incubated at
+37°C for 2 hr in an atmosphere of 79.5% Nz, 8.5% O;, and 12%
+CO,, then rinsed with three 10-ml aliquots of MEM. Twelve
+rililiters of MEM minus FCS were then added to each flask,
+‘and they were cultured an additional 18 hr at 37°C.
+
+‘The cell supernatants were then pooled and centrifuged 10
+‘in at 1200 x G. One percent FCS was added to the superna-
+tant, which was then concentrated to 10% of its original volume.
+‘The co-stinulator preparation was filter sterilized and stored
+at -20°C,
+
+Con A stimulation. BALB/c and C57BL/6 SC were cultured
+{or periods of 1 to 6 days with Con A. The cells were suspended
+at 25 x 10° calls plus 8 xg Con A/ml/well in Falcon multi-well
+tisoue culture plates (No. 2008, Oxnard, Calif) and incubated at
+37°C im the gas mixture described previously.
+
+Co-stimulator-treated cultures. Ten- to 240-fold dilutions of
+
+* Abbreviations used in this paper: SC, spleen cells; FOS, fetal calf
+serum; MM, aemethyl-mannoside; LU, ite unit 7H, titiated thy-
+‘midine.
+
+zr
+
+ 
+
+50282338
+

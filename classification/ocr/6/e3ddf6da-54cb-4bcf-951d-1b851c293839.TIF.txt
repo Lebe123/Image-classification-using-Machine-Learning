@@ -1,0 +1,140 @@
+Phorbol ester and okadaic acid regulation of Na-2Cl-K
+cotransport in rabbit tracheal epithelial cells
+
+CAROLE M. LIEDTKE AND LINDA THOMAS
+Cystic Fibrosis Center, Department of Pediatrics at Rainbow Babies and Children Hospital,
+and Department of Physiology and Biophysics, Case Western Reserve University,
+
+Cleveland, Ohio 44106
+
+Liedtke, Carole M., and Linda Thomas. Phorbol ester
+‘and okadaic acid regulation of Na-2CI-K cotransport in rabbit
+tracheal epithelial cells.Am. J. Physiol. 271 (Cell Physiol. 40):
+‘C838-C346, 1996.—We evaluated a role for protein kinase C
+(PKC) in the regulation of rabbit tracheal epithelial Na-Cl(K)
+cotransport, Short-term treatment with phorbol 12-myristate
+S-avetate (PMA) dose dependently increased bumetanide-
+sensitive Na and Cl efflux and elevated staurosporine- and
+>bumetanide-sensitive Na, Cl, and K uptake. PMA and the
+ayvadrenergic agonist guanabenz both induced cotransport
+with a stoichiometry of 2 Cl:1 Na and 2 Cl:1 Rb and elevated
+staurosporine-sensitive PKC activity in cytosolic and particu-
+late fractions. Prolonged PMA treatment did not sustain
+bumetanide-sensitive 2 Cl:1 Na and 2 Cl:1 Rb transport but
+did block stimulation of bumotanide-sensitive transport by
+PMAor guanabent and elevation of PKC activity by PMA and
+guanabenz in a particulate fraction. Cells treated with oka-
+daic acid exhibited a staurosporine- and bumetanide-sensi-
+tive 2 Cl:1 Na and 2 CL: Rb uptake. In cultured monolayers,
+basolateral perfusion with epinephrine, isoproterenol, or
+PMAincroasod ehort-cirouit eurrent ([y)-Basolateral applica-
+tion of bumetanide reduced elevated J. to baseline levels,
+indicating a role for Cl secretory cells in a reconstituted
+tracheal epithelium, Pretreatment of transmonolayer cul
+‘tures with PMA diminished the stimulatory response to
+epinephrine. These results indicate that, in rabbit tracheal
+epithelial cells, a-adrenergic stimulation activated Na-2C1-K
+
+at PKG is a critical effector in this process.
+‘a-adrenergic receptors; loop diuretics; bumetanide; protein
+phosphatase; guanabenz; epinephrine; clonidine; transmono-
+layer cultures; staurosporine; protein kinase C
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘ONE MODE OF TRANSPORTING the electrolytes Na and Cl
+‘that is common to many cell types is cotransport of the
+electrolytes Na and Cl, which is directly coupled to the
+inwardly directed Na electrochemical gradient as the
+driving force for Cl uptake. An additional requirement
+for K is seen in some cells under specific stimulatory
+conditions, such as, for example, vasopressin stimula
+tion of mouse medullary thick ascending limb (82). We
+have previously shown that Na-Cl cotransport in hu-
+man and rabbit tracheal epithelial cells is activated by
+a-adrenergic agonists (15) and hyperosmotic challenge
+(16). The Ca ionophore ionomycin mimics the response
+too-adrenergie stimulation. Other studies show second-
+ary activation of cotransport in canine tracheal epithe-
+lial cells, which is mediated by agents that stimulate
+cal Cl channels to induce Cl secretion (10, 11). These
+studies correlated stimulation of salt secretion by isopro-
+terenol, ATP, and UTP to the equilibrium level of
+saturable, basolateral bumetanide-binding sites. The
+
+caa8
+
+ 
+
+ 
+
+finding of increased bumetanide binding with induction
+of Cl secretion was interpreted as upregulation of
+cotransport in Cl secretory cells.
+
+Our finding of direct activation of cotransport by a
+adenosine 3',5'-eyclic monophosphate (cAMP)-indepen-
+dent mechanism led to detailed studies of the intracel-
+lular signaling of the a-adrenergic stimulation. The studies
+first focused on effectors involved in Ca-dependent mecha-
+nisms for signal transduction. The results demonstrate
+a-adrenergic activation of phosphatidylinositol 4,5-
+bisphosphate (Ptdins(4,5)Pz}-specific phospholipase C
+with subsequent hydrolysis of Ptdine(4,5)P, to two
+intracellular second messengers, inositol phosphate
+(17) and diacylglycerol (18). The transient nature of
+mediator release within a time frame that coincides
+with cotransporter activation suggested a link between
+Ca and diacylglycerol. These two intracellular media-
+tors are activators for some isotypes of protein kinase C
+(PKC; Ref. 31).
+
+PKC subsumes a family of at least 10 subtypes, some
+of which require Ca for activation (26, 31), PKC has
+been linked to the regulation of other electrolyte trans-
+porters, including cation and anion exchangers that
+operate during cell volume regulation, salt absorption,
+and pH regulation and ion channels that are required
+for secretion, in particular an apical Cl channel (2, 4,6).
+‘A useful tool in identifying and characterizing PKC
+regulation is phorbol 12-myristate 13-acetate (PMA),
+phorbol ester that activates PKC (31). The effects
+PMA often show a time dependence that is interpreted
+as resulting from activation (early) or downregulation
+Cate) of PKC. For example, with some ion exchangers,
+such as Na/H or CVHCO, (of thyroid and Vero cells,
+respectively), short-term treatment with PMA acti-
+vates ion exchange, whereas long-term treatment with
+PMA, which chronically activates PKC, fails to alter
+electrolyte transport through ion exchangers (22, 34).
+In the latter instance, chronic activation of PKC leads
+‘to downregulation due to increased sensitivity to prote-
+lysis (81). Short-term PMA treatment can induce
+opposing responses, as seen in intestinal and renal
+epithelial cells (35). In these cells, Ne/H exchangers
+found on apical membranes are inhibited by PMA,
+which produces an opposite effect of stimulation on
+cation exchangers in the basolateral surface.
+
+PMA also influences the activity of Na-Cl-K eotrans-
+porters in epithelial and nonepithelial cells. Fibro-
+blasts (27, 30), endothelial cells (26), and osteoblasts
+(88) express a cotransporter that is sensitive to PMA,
+‘thus suggesting regulation through PKC. Phorbol ester-
+stimulated cotransporters of cell lines derived from
+epithelia, such as colonic HT-29 (1) and T84 cells (12),
+
+ 
+
+ 
+
+(0365-61496 $5.00 Copyright © 1996 the American Physiological Society
+

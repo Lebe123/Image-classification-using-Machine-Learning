@@ -1,0 +1,164 @@
+ 
+
+Jounvat of Vixotoay, Jan, 190, p 458-462
+‘22-S2axc90010858-05802 900
+Copyright © 1990, American Society for Microbiology
+
+Vol. 68, No. 1
+
+Selective Killing of Transformed Rat Cells by Minute Virus of Mice
+Does Not Require Infectious Virus Production
+
+ESTHER GUETTA.? MICHAL MINCBERG,} SUZANNE MOUSSET,* CLAIRE BERTINCHAMPS,*
+JEAN ROMMELABRE,** axb JACOV TAL™
+
+Biology Department, Ben-Gurion University of the Negev. Beers
+Université Libre de Bruxelles, B 1540 Rhode St. Genese, Belgium
+
+eva 84105, Israel; Department of Molecular Biology,
+"sand Molecular Oncology Unit, Institut National de la
+
+  
+
+Santé et de la Recherche Médicale UI86 and Centre National de la Recherche Scientifique URA O136, Institut Pasteur de
+Lille, $9019 Lille Cédex, France?
+
+Received 6 July 1989/Accepted 1 October 1989
+
+Fischer rat fibroblasts, naturally resistant to killing by the fibrotropic strain of minute virus of mice
+
+Lpacvovirus MVM(p)], became sensitive to MVM when transformed by polyomay
+
+ 
+
+rus. This sensitization did
+
+ 
+
+‘nat involve an inerease in the pereentage of cells which synthesized viral capsid antigens or in the percentage
+Of cells which produced infectious virus. The addition of anti-MVM antiserum to the growth medium of
+‘MVMGinfected cells had only a small effect on theic survival rates, indicating that the majority of the killing
+ifec of MVM occurs in a single cycle of infection, The data indicate that cell killing by MVM is independent
+‘of infectious virus production and thus support the notion that the preferential cytolytic effect is affected by
+‘ral eylotoxic gene products which accumulate to intolerable levels in transformed cells but not in normal ones.
+
+Fi
+
+   
+
+iy, using cells transformed with polyom:
+
+'as and genomic and subgenomic clones of polyomavirus, we
+
+showed that the extent of sensitization to killing by MVM depended on the transforming agent used.
+
+Certain parvoviruses possess the intriguing capability to
+destroy oncogenically transformed cells selectively in cule
+ture while having litle or no effect on the viability of the
+parental, untransformed cells. This preferential toxicity to
+Transformed cells may account forthe inhibition of intuced
+tumorigenesis (oncosuppression), reported to occur in Vivo
+2.6, 8, 11, 22, 25-27).
+
+"a variety of ells have been used to study the preferential
+killing effect of autonomous parvoviruses. These include
+tmouse 313 eels (13-15), several at lroblast cel ines (13),
+and human Rbroblasis and epithelial cells (3,4). A variety of
+transforming agents have also been used, including simian
+virus 40 (1, 4 10, 14, 13), avian erythroblestosis vins (3),
+human ras'oncogene (18), and radiation and chemical ca
+inogens (1,4). These studies show that (the killing efect.
+of transformed cells is dependent neither on the type of cell.
+for on the transforming agent used and (i) the preferential
+Killing of transformed cells is correlated with clevated
+expression of the viral genome. In this study, we invest-
+faled the question of whether the production of infectious
+Virus was required forthe selective iling effect of minute
+Virus of mice (MVM),
+
+“The Fischer rat embryo fibroblast cell line (F-11) chosen
+for this study is subject to astringent contact inhibition, its
+anchorage-independent grovih i extremely low, and it has @
+very typieal broblastc appearance. These properties allow
+relatively easy isolation of cells with transformed pheno-
+types (2), The F-lLL and F-L1UVPy (polyomavirus-trans.
+formed F-1L1) cell lines used in this study were obtained
+from T. Benjamin, Additional polyomavirus-ransformed
+cell lines, established in our laboratory by using the method
+of Fluck and Benjamin (7), were also examined and yielded
+essentially identical results. ll the transformed cell lines
+Wwere showin to express the polyomavirus middle-T antigen
+‘The F-II1ecllline was useful fortis study because of is
+exceptionally tight resistance to killing by the flrotropic
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Corresponiting author.
+
+ 
+
+488
+
+ 
+
+strain of MVM [MVM(p)]. MYM(p) iofection caused a
+transient and slight cytopathic effect at days 1 and 2, after
+which the culture recovered and a normal growth rate was
+resumed. In contrast, the polyomavirusetransformed deriv-
+ative cell lines were destroyed completely by MVM(p)
+infection within 24 h (Fig. 1). The total yield of infectious
+virus produced in polyomavirus-transformed cells was 10°
+to 10%-fold higher than that produced in similarly infected
+‘untransformed cell lines (Table 1). This difference range in
+virus yield is comparable with those of other permissive!
+restrictive systems for MVM (9, 20, 21, 24). A subline of
+mouse L-cells, A9 [which is used as a standard permissive
+cell line for MVM(p)], was also included in all our experi
+ments for comparison. Table 1 shows that virus production
+in A9 cells was only slightly lower than in F-111/Py cells.
+To investigate the relationship between the killing effect
+and virus production, cell killing during a single cycle of
+infection was quantitated by using an infectious center
+lassay. This assay was performed as follows. At 4 h post
+fection the cells were washed twice with phosphate-buffered
+saline to remove unattached and unabsorbed virus,
+trypsinized, suspended in Dulbecco modified Eagle medium
+containing 35 mM HEPES (N-2-hydroxyethylpiperazine-N'=
+2ethanesulfonic acid) buller (pH 7.3) supplemented with
+10% fetal calf serum, and counted. Serial dilutions were
+prepared in the above medium, poured onto 60-mm dishes
+Containing monolayers of § X 10° A9 indicator cell, and
+incubated for 4 10 8 h {0 allow all cells to attach. The
+monolayers were overlaid with agar, incubated for 5 to 6
+days at 37°C, and then stained with 0.2% neutral red in
+Hanks salts solution containing 0 mM HEPES buffer, pH
+7.3, and 0.45% Bacto-Agar (Difco Laboratories). Plaques
+were counted 20 later. These assays consistently showed
+that the MVM(p) permissive fraction in F-111 cells was
+nearly identical to that found in the polyomavirus transfor
+mmants (Table 1), alhough the lethal effect of MVM(p) was
+fitch more pronounced on the latter. Furthermore, irmm
+nofluorescence staining revealed similar percentages of cells
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

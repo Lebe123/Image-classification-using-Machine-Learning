@@ -1,0 +1,142 @@
+Leukocyte Adhesion-deficient Neutrophils Fail to Amplify
+Phagocytic Function in Response to Stimulation
+Evidence for CD11b/CD18-dependent and Independent Mechanisms of Phagocytosis,
+
+Hattie D. Gresham,” Irene L. Graham,* Donald C. Anderson, and Eric J. Brownt
+
+“Department of Pharmacology. University of Missourl-Columbia, Columbia, Missouri 65212; SDepanment of Pediatrics,
+Baylor College of Medicine, Houston, Texas 77030: and ‘Departments of Medicine, Celt Biology, and Physiology.
+
+‘and Microbiology and Immunology, Washington University, St.Louis, Missouri 63110
+
+Abstract
+
+‘Stimulation of PMN with inflammatory mediators markedly
+‘augments Fe and CRI receptor-mediated ingestion. However,
+‘CDI1/CD18-deficeat PMN from three patients with complete
+leukocyte adhesion deficiency (LAD) failed to recruit phago-
+‘ytic function in response to phorbol estes, cytokine, or Arg-
+Gly-Asp-containing ligand stimulation. Because stimulated i
+gestion i protein kinase C (PKC)-dependent, our data indicate
+that LAD PMN exbibit only PKC-independent phagocytosis.
+‘The defect in PRC-dependent ingestion is specific for CD11b/
+‘CDIB and not secondary (the chronic or recurrent infections
+which occur in this disease. The LAD phenotype for phagocytic
+function can be reproduced in normal PMN by the anti-CD11b
+MAbs OKMI and OKMIO. In contrast, MAb Mol (anti~
+COLD) and MAD 1B4 (anti-CD18) inhibie both CDITb/
+(CD18 dependent and -indepeodent rechanisms of ingestion by
+normal PMN. Theie ability to inhibit CD11b/CD18-indepen-
+deat ingestion may be mediated by cAMP, as shown by experi
+‘meats with a protein kinase A inhibitor HA1004 and by direct
+‘measurement of AMP levels in immune complex-and FMLP-
+‘stimulated PMN. These data indicate that CD11b/CD18 inde-
+pendent and dependent mechanisms of phagocytosis exist and
+that some effects of anti-CD116/CD18 MAbs may be me-
+diated by alterations in cAMP levels. (J. Clin, Invest. 1991.
+88:588-597.) Key words: CDIN6/CDIB + cyclic adenosine
+‘monophosphate + phagocytosis
+
+ 
+
+ 
+
+ 
+
+ 
+
+Introduction
+
+Phagocytassis a complex biological process of specialize cells
+which is essential for normal host defense. It is necessary not
+‘only for the uptake and destruction of pathogens but also for
+the clearance of immune complexes, removal of damaged tis-
+sue, and initiation of wound repair. Despite its central role in
+hhost defense, knowledge of the regulation of phagocytic func-
+tion at inflammatory sites has lagged behind understanding of
+activation of the respiratory burst and exocytosis, other func-
+
+ 
+
+‘This work was presented ia part atthe annual meeting ofthe Amesian
+Federation for Clinical Research, Washington, DC, May 1989, and.
+also appeared in abstract form (1989. Clin. Res. 37:364A).
+‘Address reprint requests to Dr, Gresham, Roos $17B, 1 Hospital
+Dive, University of Mizour-Columbia, Columbia, MO 65212.
+‘Received for publication 30 July 1990 and in revised form 28 Febru
+ary 1991.
+
+ 
+
+ 
+
+2.Gln. Tavest
+© The American Society for Clinical Investigation, Ine,
+(0021-9738/91/08/0588/10_ $2.00
+Volume 88, August 1991, 588-597
+
+588 Gresham era
+
+tions of profesional phagocytes required for the maintenance
+‘of homeostasis. Recent investigations from our group into the
+regulation of human neutrophil (PMN) phagocytosis have led
+us to hypothesize that phagocytosis by PMN is primarily a
+recruited function at inflammatory sites (1-5). Stimulation of
+PMN with various inflammatory mediators markedly aug-
+‘ments both Fe- and CRI-mediated ingestion (1-8) This re-
+cruitment of phagocytic function i reflected not only in the
+total numberof ingested targets but also in the percentage of
+PMN participating in the phagocytic process (1,2). Presum-
+ably, this regulation of ingestion acts to limit the damsging
+products of PMN activation, such as toxic oxygen metabolites
+and sereted lysosomal products, tothe ste of inflammation.
+‘We and others have found that PMN can recruit several
+<istnet molecular mechanisms for phagocytosisin response to
+inflammatory signals, which may be regulated further by the
+specific opsonin (IgG, Cab, C3, and C3) and opsonin recep-
+tor(FeRIl, FeRIIT, CR, and CR3) engaged (1-9). In addition,
+‘monocytes and macrophages employ quite different molecular
+rechanisms for phagocytosis from those employed by PMN,
+‘even when the same opsonin or opsonin receptor is involved
+(1, 10), In this manner, at inflammatory sites where PMN and
+macrophages encounter pro-inflammatory cytokines, interfr-
+‘ons, interleukins, chemotactic peptides, and components of
+ion isnot only augmented, but
+‘the molecular mechanism involved in phagocytosis may be
+alteced. Asan example, we have shown recently that ingestion
+of IgG -opsonized targets by nonstimulated PMN is not depe
+dent upon protein kinase C(PKC)' activation. However, when
+PMN are simulated with tumor necrosis factor (TNF-2),
+not only is ingestion ofthe IgG-opsonized targets markedly
+increased, but PKC translocation is also greatly augmented
+over the minimal amount observed with either IgG or TNF-«
+alone (11). This synergism inactivation of PKC is essential for
+the increased ingestion by PMN exposed to TNF-a (11). The
+Jmportance ofthese dat tohost defense is demonstrated by the
+fact that PMN from patients with chronic granulomatous dis-
+case (CGD), which lack the ability to generate a respiratory
+‘bust, s well as PMN from patients with paroxysmal nocturnal
+hemoglobinuria, which lack expression of FeRIL, fail to am-
+plify ingestion of gG-opsonized targesin respons to cytokine
+(CENF-x) stimulation (4,12). Therefore, defects the diferent
+
+  
+
+ 
+
+  
+
+ 
+
+{Abbreviations wed inthis paper: CGD, chronic granulomatous dis
+case; DIBGAM, dibutyl cAMP; E, sheep enthrocytls), ECAD and
+IgG, sheep enthoeytes) opsonized with Cab o¢ Tei tespectively,
+Fo, Sbronectn: BMX, isobutylmethynanthine; LAD, leukocyte ad
+sion defciensy; PDBU, photboleiburate Pl, phagocyte index,
+PRA and PKC, protein Kitase A and C; RGD, Arg-Sii-asp: TNFa
+tumor necrosis aetna, Vn, vitonetin
+
+ 
+
+ 
+

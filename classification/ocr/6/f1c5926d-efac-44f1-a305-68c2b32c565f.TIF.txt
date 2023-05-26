@@ -1,0 +1,244 @@
+ 
+
+ 
+
+Reprinted from Nature, Vol. 326, No. 6LTL, pp, SHEAY6, 26 Match 1987
+Mucmilan Journals Lu, 1987
+
+@ Need for DNA topoisomerase activity as
+
+ 
+
+a swivel for DNA replication and
+for transcription of ribosomal RNA
+
+Steven J. Brill, Stephen DiNardo*,
+
+Karen Voelkel-Meiman & Rolf Steraglanrt
+
+  
+
+Depanment of Biochense, State University of New York,
+‘Stony Brook, New York 11796, USA
+
+ 
+
+‘Yeast staios with mutations inthe genes for DNA topolsomerases
+Vand IL
+
+cereisiae
+TW ematants (4092)
+
+  
+  
+ 
+
+ 
+
+repleate and transcribe DNA noraally. Topolsomerase
+Tinutats(9p1),fclulngsirais with null mutations are viable
+and exhibit no obslous geonth defects, demonstrating that DNA
+pens“, Ie
+ingle mutants top tp? ts double mutants from
+both Schizesaccharompces pombe and Saccharomyces cerevs
+fron poorly atthe permisive temperature and stop growth rapidly
+tthe woo-permlsine temperatures. Here me report that DNA
+tnd ribosomal RNA syathests are drastically abibited in an S,
+
+rtopt top? ts double mutant at the restive temperature,
+ot thatthe rate of poly(A)” RNA spathesis is reduced only about
+Ahvcefold and transfer RNA syathesis reas telatively normal.
+‘The resats suggest that DNA replication and at least ribosomal
+RNA sothess require an active toposomerase, presumably to act
+asa sive torellee torsional stress and tha lier topolsomerase
+an perform the requlredfonclon (except in ernoation of DNA
+replication where topoisomerase It is required),
+
+ithad been shown that a (op? (s mutants capable of under
+sping one, and only one, complet round of DNA replication
+the nonpermissive temperature? As a tpt mutant grows
+normally, it obviously has no significant defect in DNA repica-
+tion 1a conteast, DNA replication Is severely affected in a
+top! top? ts double mutant. Figure 1 shows the results of an
+experiment with a culture synchronized inthe GL phase ofthe
+call cycle by tcatment with the yeast pheromone, o-factr.
+‘When celisae released from the a-factor block athe permissive
+temperature, 25°C, they progress through the eel eyele, albeit
+slowly, and DNA synthesis during § phase is notmal. On the
+‘other hand, ifthe cells are released ftom the GI block at the
+ron-pecmissive temperature, 37°C, no significant DNA syn.
+thesis i seen, This does not by itself indicate a specific block
+in DNA replication, asthe double mutant acest in G1 with
+this protocl (ref. 7 and our unpublished data. A similar resol,
+isfound when eils ate shifted to 37°C just tthe Beginning of
+S phase, Moreover cultures shifted to 37°C at anytime during
+Sphase cease DNA synthesis rapidly (Fig. 1). The results suggest
+thattopolsomeras activity is equired continuously for contine-
+ing DNA replication nd that either topoisomerase can perform
+the necessary function. Only when the activity ofboth enzymes
+is abolished, in the double mutant a 37°C, does DNA syathesis
+stop.
+
+“The simplest interpretation of these data is that one or the
+other topoisomerase ean function asa swivel tallow replication
+fork movement. Without such a swivel point the continued
+‘unwinding of DNA strands during DNA synibesis quickly
+causes positive superhelical turns t0 build up infront of the
+fork. Such torsional strain is expected to stop fork movement
+rapidly. I should be emphasired thatthe 80 topoisomerases
+Go not necessarily relieve torsional strain in the same way.
+
+Posner smarty anal
+
+ 
+   
+
+ 
+
+ 
+
+   
+
+    
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+é
+
+ 
+
+OMA syntnesi
+
+ 
+
+Flat DNAsyaiesisin
+
+ 
+
+7 tp? muta, Sain SDN MATS
+top p21 wan gown at 28°C, anested with oat, and
+released rom a containing {8.6
+Siorat 928°C (0) on 37°C ime Arows, ies at
+sthch portions af the 25°C cltate were shiled to 37°C (@ oF
+12) TreamountalH-uralisomporatednto DNA was measred
+5 determing the amount of aka resin, acd precipitable
+{Gort at he idieated mes
+
+Method Cele were grown at 25°Cin Y minimal medium supple
+meted wih idone, yea extinct and amino cast a density
+G1 eit mi The pH ofthe mediom wa hen towered 10
+GS sith HC, and yeast stator (Sigma) was ade (oa Fal
+oncetation of 10pm Cel wee he ip this medi for
+1 doubling times, pelleted, washed once mith one volume ¥
+tneium, apd resapended in est medium cotaning 205:
+mi" feoHaract (ICN) The eure was ap and hal mot
+placed i 25°C and hal at 37°C: Fonion of the 28°C clare
+tere hited 37°C at he begining or ball way through pase,
+Ihe nae of which wat judged bythe appearance of smal bud
+‘Avarous times Ol agus wer removed and placed in 08m
+{St astop solution (18% ehoroscee ai, 20009 al" hymine
+fd 50 matsodimpyrophosphate)conaining® ttf labeled
+ationary phase yest cls cater The samples were pleted,
+{evsspendedin 0 pof06M NaOH, an placedst37C overnight
+{or RNA bysroyas Samples were seuzlaed with 6 MCT and
+Drecpratea with stop solution on efor IN The peeps
+tere collected on O4S:um nitrocellulose files, andthe Bers
+‘othe ded, paced in toluene Omnifuar (NEN), and radio.
+
+acy ermine’ in smlon couter
+
+    
+
+       
+
+ 
+
+   
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Topoisomerase II may act behind the replication fork, passing
+teplicated double-strand DNA segments through each other to
+disentangle them, whereas topoisomerase I acts by nicking and
+closing DNA ahead of the fork’
+
+‘We also tested whether the double mutant was defective in
+RNA synthesis. The rate of RNA synthesis was compared for
+‘wild-type strain, the topoisomerase single mutants and the
+‘double mutant, Figure 2 shows that all fou strains show a rapid
+decrease in the rate of RNA synthesis after a shift (0 37°C. This
+inhibition is transient and due to heat shock. The wild-type
+strain and exch of the single top mutants recover from heat
+shock in about one hour and resume normal RNA synthesis.
+‘After (wo houes at 37°C the top? ts mutant shows another
+‘eduction inthe rate of RNA synthesis. This occurs atthe time
+cells begin to die a they atempt to segregate their intertwined
+{chromosomes at mitosis". The top! 10p? double motant, on the
+‘other hand, never resumes a normal rate of RNA synthesis,
+levelling off at 10% of the initial rate (Fig. 2)
+
+‘As an intial attempt to discover which transcription units
+were most affected in the double mutant, RNA pulse-labelied
+with "Heuracil was fractionated into poly(A)” and poly(A)’
+pools on an oligo(4T)-cellulose column. The poly(A)" poot
+ontaias mainly RNA polymerase Il transcripts and the
+poly(A)” pool contains RNA polymerase I and III transerpts
+(ribosomal RNA and tRNA). The rates of RNA syathesis for
+these two types of RNAS in the double mutant were compared
+‘The rate of poly(A) RNA synthesis is more severely affected
+than is poly(A)” RNA synthesis, For example, after 100 min at
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+50295660
+

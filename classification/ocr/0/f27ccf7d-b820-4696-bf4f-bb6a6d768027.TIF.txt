@@ -1,0 +1,32 @@
+Mp Interoffice Memorandum
+
+‘Phacco Company
+Subject: Market Share Study Date: November 8, 1991
+To: Ms. R. H. Steele From: Tory Payne
+
+Objective: To investigate the relationship between mutagenicity and weight of tobacco
+burned, tar, cigarette length, and air dilution for RJR products.
+
+Summary: Mutagenicity estimates using a nonlinear regression model were obtained on
+a sample of 24 RJR products, Correlations between mutagenicity (estimated from linear
+and nonlinear regression models) and weight of tobacco burned, tar, cigarette length and air
+dilution were determined. Preliminary regression analyses were performed to investigate
+the relationship of the above-mentioned variables to mutagenicity.
+
+Conclusions: Tar and air dilution were the best single predictors of mutagenicity on a
+revertants/mg tar basis. Tar was the best single predictor for mutagenicity on a
+revertants/cigarette basis, followed by weight of tobacco burned. Various combinations of
+weight, length, tar and air dilution predicted mutagenicity better than any variable by itself.
+However, variables other than these influence mutagenicity since the percent of variability
+explained ranged from only 48% to 82%.
+
+ 
+
+ 
+
+8
+3
+2
+
+ 
+

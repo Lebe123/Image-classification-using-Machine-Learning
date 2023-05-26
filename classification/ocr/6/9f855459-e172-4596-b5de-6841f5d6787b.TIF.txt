@@ -1,0 +1,212 @@
+ 
+
+‘Pini Tie Aenses St eli an oleae Bs
+
+‘ide
+
+Intracellular Trafficking of Cell Surface Sialoglycoconjugates*
+
+rk 22,1988)
+
+ 
+
+ved for publication, Apr
+
+ 
+
+Jonathan 8. Reichner$, Sidney W. Whiteheart§, and Gerald W. Hart!
+
+‘From the Department of Bslaical Chemistry, The Johns Hopkins University Schou! t Sivsin
+
+Recent reports have suggested that the majority of
+the molecular traffic through the Golgi apparatus is
+comprised of recycling, rather than newly synthesized,
+‘molecules. To evaluate the importance of this recycling.
+pathway in greater detail, we examined the internali-
+zation and reveling of cell surface glycoproteins on
+EL-4 cells, a murine T-cell lymphoma, using sialic
+acids as covalent markers. Sialic acids were removed
+from the surface of living cells by exhaustive treatment
+with Vibrio cholerae sialidase at 4 °C and shown to be
+derived primarily from glycoproteins (93%), with only.
+‘4 small amount from glycolipids (7%). Cells were r
+cultured at 37 °C over time and monitored for the
+resialylation of the cell surface using a sensitive high
+pressure liquid chromatography adaptation of the thio-
+barbituric acid assay for sialic acids. The return of
+sialic acid to the cell surface was found to be contingent
+‘upon de novo protein synthesis indicating that the bulk
+of plasma membrane sialogiycoconjugates do not re-
+eycle to an endogenous sialyltransferase-containing
+compartment for oligosaccharide reprocessing. Iden~
+tical results were found for K562 cells, a human eryth
+roleukemia cell lin
+
+‘The movement of specific glycoproteins was followed
+using the enzyme rat liver a2~GGald1-4GIeNAc sialyl-
+transferase together with CMP-[*H)NewAc as an im-
+bermeant probe of the cell surface, Surface sialogly-
+coproteins were internalized slowly, a process unal-
+fected by eyeloheximide treatment. Only a few of tese
+internalized glycoproteins were found to return to a
+trans-Golgi compartment followed by reeyeling to the
+cell surface. Taken together, these data indicate that
+the majority of replacement of sialic acids on the cell
+surface is due to de novo synthesis of glycoproteins and
+that only a small number of glycoproteins recycle
+through a trans-Golgi compartment.
+
+OO
+
+‘The intracellular trafficking of macromolecules packaged
+in membrane vesicles is « highly dynamic and complicated
+process which has come under intensive investigation. It
+consists basically of two opposed directions of trensport: 1)
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+= Thie investigation was supported by Grants CA 42498 fom the
+National Caner Insite and HD-13969 awarded by the S
+rtitates of Cid Health and Human Developmen Depar
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+“Hole and Human Services. The casts of plication of this article
+were delrayed in pare by the payment of page charges This article
+‘must therefore be hereby marked “advertisement” in eccoréance with
+
+1BUSC. Section 1734 solely to indieate this fat.
+
+‘¥ Recipient of National Cancer Institute Fellowship Award CA,
+
+ones
+‘Supported by National Institutes of Health Training Grant GM-
+aan,
+
+This work was performed during the tenure of an Established
+Investigator of the American Heaet Assocation and with funds ene
+‘uibuted in purt by the Maryland Heart Atzocation, To whom cor.
+respondence shoul be addressed
+
+   
+
+Baltimore, Marsand 21205
+
+the outward movement of uewly synthesized proteins along
+the biosynthetic pathway; and 2) the inward movement of
+molecules collected from the extracellular environment as
+well as plasma membrane molecules, A number of studies
+hhave implicated the ¢rars-Colgi network as a common com.
+Partment through which newly synthesized as well as inter-
+‘alized proteins pass (reviewed in Farquhar, 1985; Fishman
+‘and Fine, 1987; Griffith ca, 1986; Herzog, 1961; Romagnoli
+and Herzog, 1987; van Douts vt al, 1988; Yamashiro etl.
+1984).
+
+‘The internalization ot plasma membrane glycoproteins and
+their subsequent return zo the cell sueface has beon observed
+in many laboratories (reviewed in Brown eta, 1989; Fishman
+‘and Cook, 1986). At present, both the mechanisms which
+induce the internalization of cell surface glycoproteins and
+the intracellular pathways they may take are unclear. For
+example, the igand-induced endocytosis of cell surface recep.
+tors has been shown to include the return of some of these
+78 to the cell suciace atter deposition of ligand in an
+intracellular compar ment (reviewed in Goldstein et a,
+1985). However, binding ut specific ligand may not be the sole
+signal for internalization, Endocytosis of receptors for trans-
+ferrin, low density lipoprotein, «,-macroglobaiin, T-lympho.
+exte antigens (T3/Ter), and asialoglycoproteins has been
+demonstrated to occur in the absence of corresponding ligand.
+(Ajioka and Kaplan, 1985: Anderson et al, 1982; Kaplan and
+Keogh, 1981; Krangel, 1951; Schwartz et al, 1984; Watts,
+1985). The specific itinerary followed by an internalized recep.
+tors another complexity. asa given reeeptor may follow more
+than one intracellular puciway (Fishman and Cook, 1986;
+Stein and Sussman, 1956). The transport of internalized
+molecules to the Goigi cisternae has been demonstrated for
+transferrin receptor, and total cellular glycoproteins, resulting
+in biochemical reprocessing of their associated oligosacchas
+ides (Regoecei et a 1954: Snider and Rogers, 1985, 1986),
+‘The question then arises as so whither all cell surface glyco.
+proteins are similarly intemalized or whether internalization
+‘and oligosaccharide reprocessing includes only a selected pop-
+ulation,
+
+We designed experiments to elaborate on three aspects of
+cell surface glycoprotein movement. First, to what extent is a
+Golgi-mediated reprocessiny pathway utilized hy the cell to
+maintain steady-state levels of cell surface sialylation? Sec.
+‘ond, to what degree is internalization selective? Third, can a
+functional correlation be drawn between those glycoproteins
+Which are reeyeled and those which remain resident on the
+cell surface?
+
+Sialic acids are added in the Golgi cisternae at a late stage
+of glycoprotein processing (Kornfeld and Kornfeld, 1985). In
+our studies, sialic acids were used as a covalent marker by
+which the movement of cell surtace glyeoproteing could be
+traced, We used two novel techniques to assess the silylation
+state of the cell surface anc of individual glycoproteins on the
+plasma membrane: 1) to:il cell surface sialie acid was quan.
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+16316
+
+ 
+
+50576001
+

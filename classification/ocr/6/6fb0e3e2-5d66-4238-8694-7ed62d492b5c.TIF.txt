@@ -1,0 +1,186 @@
+antering the
+ss should by
+& maximus
+sensitization
+
+typically
+‘m*/year, a3
+ould be but
+aped with an
+ibe prepare
+ald, howe,
+a signitian
+
+ 
+
+ble, since al
+tuding seven!
+‘materials iy
+seemed toe
++ Presumably
+are cylinden
+lorinated by.
+
+ 
+
+vansing «gu
+‘xing ration
+trap become,
+
+ 
+
+ans
+
+‘Gas Chromatographic Determination of Nicotine in Gases and
+Liquids with Suppression of Adsorption Effects
+
+Otto Grubner and Melvin W. First*
+
+‘Harvard School of Pubic Heath, 665 Huntington Avenue, Boston, Massachusetts 02115
+
+Gary L. Huber
+
+ervard Medica! School, 25 Shattuck Street, Bosion, Massachusetts 02115
+
+prior reports have indicated that snslysis of nicotine at plco-
+am por milter levels was unreliable. Significant and
+‘arlable nicotine adsorption on the diferent materials used
+‘uring analysis was recognized as a source of error, and
+suppression of nicotine adsorption phenomena during sample
+preparation by addition of NH,OH was found to be a crfical
+{actor In obtaining rellable resuits at this concentration. We
+have adapted ths method, using # trogen sensitive detector
+‘and gas chromatographic techniques, to determine nicotine
+reproducibly In at, water, and blood plasma, The lowest
+detectable amount Is 2-5 pg of nicotine Injected into the
+‘column, and the calibration curve is linear up to 2000 ng/mL.
+‘The relative standard error of estimate of peak area depen-
+dence on concentration is 8%,
+
+ 
+
+  
+
+In the past 2 decades several gas chromatographic tech-
+sigues forthe determination of nicotine have been described
+U-9). The determination of nicotine in biological fluids
+(plasma urine, milk) has been of particular interest to in-
+estigators studying the biologic effects of tobacco smoking.
+In almost all cases, prior to the introduction of gas chroma-
+‘ographic (GC) techniques, nicotine had to be extracted from
+ological fluids by relatively complex procedure which were
+‘less than fully quantitative. Futhermore, the final extract
+‘represented a complex mixture of organic compounds that
+‘ave many peaks in the gas chromatogram which were difficult
+{o interpret
+
+‘This complexity was reduced substantially bythe intro
+duction of a nitrogen-sensitive detector into the GC procedure.
+As the nitrogen-sensitive detector does not respond to organic
+compounds containing only C, H, and O atoms, it yields a
+relatively simple GC spectrum. Compared to flame ionization
+‘detectors (FID), the higher sensitivity of the nitrogen-sensitive
+‘detector has made it easier to analyze solutions where nicotine
+‘apresent in minute concentrations (for example, in te blood
+‘of human smokers). On the other hand, the increased sen-
+sitivity introduced by these techniques makes it more difficult
+‘to achieve an acceptable level of reproducibility of the ex-
+‘taction and determination procedures, partiularly for sam-
+les that contain a low concentration of nicotine. For this
+teason, many investigators adopted the use of internal
+‘Standards and evaluated their samples relative to this internal
+standard, expressing their resulta as “nicotine ratios". To
+‘improve analytical results, Feyerabend (4) suggested the use
+‘of quinoline as an internal standard, but Hengen and Hengen
+(7) were unable to obtain good results using his method.
+
+In our experience, even simple nicotine solutions in water
+organic solvents at concentration level of tens of nanograms
+Der milliliter were difficult to analyze reliably by gas chro-
+‘atography using Feyerabend's method. Disturbing phe-
+‘Romena, such as ghost peaks of nicotine, were observed. In
+
+ 
+
+ 
+
+¢
+Pp
+e
+>
+e
+
+ 
+
+ 
+
+tion, unexpected losses of nicotine occurfed. Similar
+difficulties seem to have been encountered by olher authors.
+For example, Dow and Hall (6) presented a calibration curve
+for nicotine in terms ofa “nicotine internal standard response
+ratio" that showed a distinct value ofthis ratio even for 270
+concentrations of nicotine. They therefore developed a com-
+bined technique employing gas chromatography-mass spec-
+trometry (GC-MS) (9) forthe determination of nicotine.
+
+‘The objective of our present study was to investigate the
+sourees of interferences observed in previously described gas
+chromatographic methods and to develop a gas chromoto-
+graphic method for reliably measuring concentrations of
+Dicotine less than 1 ng/mL in gases and liquids.
+
+EXPERIMENTAL SECTION
+
+Preparation of Standard Solutions of Nicotine. Known
+scutions of nicotine were prepare from liquid nicotine (purchased
+{rom Sigma Chemical Co, St. Louis, MO). According to the
+manufacturer’ specifications, the purchased product contained
+5% water. Isopropyl ether Fisher Scientific Co.) was purified
+before use by repeated sheking with an equal volume of con-
+centrated ammonium hydroxide until the hydroxide layer showed
+to coloration. Heptane and ammonium hydroside were “Beker
+“Analyzed” reagents. Standard solutions of niotine were prepared
+by dissolving 5 ul of liquid nicotine in § ml. of (a) water, (b)
+heptane, (¢) isopropyl ether, and (d) a 0:50 mixture of heptane
+tnd isopropyl ether using @ 10uL, Hemilton ayringe. Heptane
+tnd isopropyl ether were aay Kept above a water layer saturated
+‘with ammonium hydroxide. ‘The solutions, containing 1 mg of
+Bicotine/mL., were diluted 100x to obtain a concentration of 10
+g/ml. and diluted « further 100x to obtain a solution of 100
+‘g/mL. Calbration curves were prepared for various concen
+teations of nicotine, When 100 ng/ml. concentrations in different
+solvents were analyzed by gas chromatography, the areas of
+nicotine peaka produced by a 7-nL injection agreed within 10%,
+‘The following important conclusions can be drawn fom a tSpical
+nicotine calibration curve constructed from standard solutions
+of nicotine in isopropyl ether and heptane: (a) the calibration
+curve using peak height or peak area is linear over 8 concentation
+ange upto 2000 ng/L with standard errr of eatimate of peak
+‘rea dependence on concentation of 8% and (b) it intersecta the
+1 point of coordinates indicating that no loses or guns (ghost
+‘peaks) were present. Standard solutions stored at room tem-
+Perature gave constant readings (less than 19% standard error of
+the mean from 23 meamurements) over periods of many weeks
+‘when a drop of § N'NH,OH was added on a weekly basis to
+Ginplace nicotine adsorbed on the walls of the glass container.
+Chromatographic Analyses, Ges chromatographic analyses
+were performed on a Hewlett Packard gas chromatograph, Model
+5730'A, equipped with a nitrogen-senstive detector. Nitrogen
+wwas used asa cartier gas. Flow rates of nitrogen (35 ml/min),
+© hydrogen (8 mL/min), and air (50 mL/min) were adjusted ac-
+C2 carding to manufacture’ specifications forthe detector. Nicotine
+> determinations were performed with a6 ft long glass column fled
+with 80-100 mesh Chromosorb W coated with 10% Apiezon L
+Containing 3% of KOH. Column temperature was 190 °C, in-
+‘ection port temperature was 250°C, detector temperature was
+
+ 
+
+ 
+
+    
+
+ 
+
+(9003-2700/80/0352-178850'.00/0 © 1880 Amarin Choma! Sociaty
+

@@ -1,0 +1,145 @@
+‘Reprinted from Biochemistry, 1993, 22 .
+Copyright © 1983 by the American Chemical Society and repriated by permission of the copyright owner.
+
+The Leptomonas collosoma Spliced Leader RNA Can Switch between Two
+Alternate Structural Formst
+
+Karen A. LeCuyer and Donald M. Crothers"
+Department of Chemistry, Yale University, New Haven, Connecticut 06511
+Received November 12, 1992; Revised Manuscript Received February 10, 1993
+
+ApsTract: We have used a combination of physical and motecular biological techniques to examine the
+structure of Leptomonas collosoma spliced leader RNA. We confirm the general features of the previously
+proposed structure for the 3’ half of the RNA, in which a single-stranded region is flanked by two stem
+loops. However, we find that the 5’ half of the RNA, which contains the spice site, has two competing
+secondary structures which differ only slightly in stability and which can interconvert on a fast (<1 s) time
+scale, In the favored conformation, a stable hairpin helix is augmented by conserved complementarity
+between the splice site and the S’end ofthe SL RNA. This putative helix has anomalous nuclease sensitivity
+and thermal stability features, suggesting that itis probably coupled by unknown tert
+
+other nucleotides in the 5? half-molecule, The structure offers intriguing parallels with RNA-RNA.
+
+ 
+
+ 
+
+    
+
+5301
+
+interactions in the mammalian splicing system.
+
+Pre-mRNA splicing sa processby which anintron sexcised
+and the exons are then ligated [reviews: Padgett etal. (1986);
+Maniatis and Reed (1987)]; intermediates in the cs splicing
+reaction have been well characterized. The trans splicing
+reaction of trypanosomes and nematod
+involves the transfer of a 5’ exon (22-41 nuclot
+froma short (<200 nucleotide) spliced leader transcript onto
+4 preexisting mRNA (Konarska etal, 1985; Murphy eta,
+1986; Sutton & Boothroyd, 1986). In trypanosomes all of
+themature mRNAs contain the spliced leader at their ends.
+A trans spliced leader is also found in a small pereentage of
+nematode mRNAs (Kraus & Hirsh, 1987; Blumenthal &
+‘Thomas, 1988).
+
+‘The proposed secondary structure for the kinetoplastid
+spliced leader (SL) RNAS (Bruzik et al, 1988) was based
+upon relative free energies predicted by the Fold program
+(Zuker, 1989) and upon conservation ofthe folding pattern
+for several SL RNAs. This structural conservation among
+the trypanosomatid SL RNAs is striking due tothe lack of
+length and sequence homology ouside ofthe spliced leader
+exon portion of the molecule, The proposed secondary
+structure contains three stem loops, the second and third of
+which flank a single-stranded region which has the sequence
+ofa binding ste for Sm proteins (Mattaj, 1988). The latter
+arecommon splicing proteins that areimmunoprecipitable by
+antibodies found in the serum of certain autoimmune patients
+(Lemer & Stcitz, 1979). In vitro assembly of SL RNA
+snRNPs with HeLa cell Sm proteins, followed by immuno-
+precipitation with anti-Sm antibodies (Bruzik eta, 1988),
+shows that the putative Sm protein binding site of the SL
+RNAsisactiveinproteia binding. U! independenceof splicing
+the trans spliced leader to an adenovirus exon in cis has also
+been demonstrated using Ul-depleted HeLa cell extracts
+(Bruzik & Steitz, 1990). This result led to the proposal that
+{he functional domain for 5 splice site identification in trans
+splicing resides in the SL sa RNP itself and not ina UI RNA
+sa RNP.
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+" Supported by Grants GM 21966 and AL 28778 from the National
+Instttes of Health and bythe Yale MacArthur Center for Molecular
+Parasitology.
+
+(0006-2960/93/0432-5301804.00/0 © 1993 American Cher
+
+ 
+
+Ourstrategy for investigating the structure of the SL RNA.
+begins with tests ofthe global features of the proposed model
+(Bruzik et al, 1988), primarily by determining the stability
+and binding kinetics of DNA oligonucleotides hybridized to
+the putatively single-stranded regions which ae predicted by
+the model. This approach yielded the predicted results for
+the 3 but not the 5’ half of the molecule. We also examined
+the thermal unfolding equilibria and kinetics for the molecule,
+‘using the temperature-jump (T-jump) technique, in which
+‘thesampleis rapidly heated and the optical changeis measured
+asa function of time. We found a low-temperature thermal
+transition which could not be accounted for by unfolding of
+Ihelies in the model of Bruzik et al. (1988), Subsequent
+experiments localized this effect to the 5’half of the molecule.
+We then employed mutagenesis and polyacrylamide gel
+clectrophoresis methods such as ribonuclease mapping (Douth-
+waite & Garrett, 1981; Celander & Cech, 1990) and base
+rmodification/interference experiments (Peattie, 1979; Conway
+& Wickens, 1989; Weeks et al., 1990) to probe the structure
+ofthe S‘halfof LeptomonascollosomaSLRNA. We propose
+anew structure in which a stable hairpin helix is augumented
+by pairing of the 5’ end of the SL RNA with the spice site.
+‘The hairpin helix has a measured Ty about 6 °C higher than
+the analogous helix proposed by Broziketal. (1988). However,
+the putative splice site helix bas unusual properties, including
+‘anomalously small thermal stability changes upon mutation,
+single-strand nuclease sensitivity a the splicesite,and apparent
+tertiary interactions with additional nucteotides in the 5" half
+of the SLRNA. We speculate that the internal spice site
+pairing may be analogous to pairing ofthe 5’ end of Ul with
+the 5’ splice site in mammalian pre-mRNA splicing (Zhuang
+& Weiner, 1986),
+
+  
+
+ 
+
+ 
+
+MATERIALS AND METHODS
+
+DNA Oligonucleotides. All DNA oligonucleotides were
+synthesized onan Applied Biosystems 380B DNA synthesizer.
+Oligonucleotides <15 bases ong were dialyzed into the buffer
+used for temperature-jump experiments. Oligonucleotides
+> 1S bases long were purified on 10-15% denaturing poly-
+‘acrylamide gels. Gel-purified DNAs were eluted in a
+Schleicher & Schuell elutrap device in 0.5% TBE buffer and
+
+ 
+
+ical Society
+
+ 
+

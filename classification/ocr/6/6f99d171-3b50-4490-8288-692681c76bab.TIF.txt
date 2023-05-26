@@ -1,0 +1,185 @@
+ 
+
+ 
+
+Proc, Natl. Acad. Sei, US
+Gol app. T1T45-1IND, December 1992
+Irmmunstoy
+
+ 
+
+Expression of hepatitis B surface antigen in transgenic plants
+
+(oral vaccine /forelgn genes /panis)
+
+Huan S. Mason*?, Dominic Man-Krr Last#, anp CHARLES J. ARNTZE
+
+ 
+
+“agra Ine. 10 Hawthorn, Comoe, TX 70: Nasiat of Biosiences and Techology, Cents fr unt techie, Teas ABM University
+
+ 
+
+Howson, TX 770903303
+Contributed by Charles J. Arntzen, September 16,1992
+
+ABSTRACT Tobacco plants were genetically transformed
+with the gene encoding hepatitis B surface antigen (HBSAg)
+linked to a nominally constitutive promoter. Enzyme-linked
+Immunoassays using a monoclonal antibody directed against
+hboman serum-derived HBsAg revealed the presence of HBsAg
+im extracts of transformed leaves at levels that correlated with
+‘mRNA abundance. This suggests that there were no major
+‘inherent limitations of transcription or translation of this
+foreign gene in plans. Recombinant HBsAg was purified from
+‘transgenic plants by immunoaffinity chromatography and ex-
+amined by electron microscopy. Spherical particles with an
+average diameter of 22 nm were observed in negatively stained
+preparations. Sedimentation of transgenic plant extracts in
+swerose and cesium chloride density gradients showed that the
+recombinant HBsAg and human seruoderived HBsAg had
+similar physical properties. Because the HBsAg produced in
+transgenic plants is antigenically and physically similar to the
+HBsAg particles derived from human serum and recombinant
+‘yeast, which are used as vaccines, we conclude that transgenic
+plants hold promise as low-cost vaceine production systems,
+
+  
+
+Hepatitis B virus infection is one of the most widespread viral
+infections of humans and causes acute and chronic hepatitis
+and hepatocellular carcinoma (1). The infectious viral particle
+(Dane particle) isa 43-nm double-shelled sphere that consists
+of a core containing the 3.2-kilobase (kb) DNA genome
+‘bound to the core protein, surrounded by the viral envelope
+containing phospholipids and the major surface antigen [hep-
+atitis B surface antigen (HBsAg)] (2). In addition to Dane
+particles, the serum of infected individuals also contains
+22-nm subbvral particles in great excess over virions. These
+‘noninfectious particles contain the elements of the viral
+envelope, including the major 24-kDa peptide that occurs in
+alycosylated and unglycosylated forms (2).
+
+‘Because the host range of hepatitis B virus is limited to
+humans and chimpanzees, and since the virus cannot be
+propagated in cell culture, HBsAg for use in vaccines was
+purified from the serum of infected ingividuals until a recom-
+binant form (rHBsAg) was produced in yeast (3). The immu:
+nogenic yeast-derived rHBsAg occurs in the form of spher
+ical particles with an average diameter of 17 nm. Integration
+‘of the peptides into the phospholipid-containing particles
+greatly enhances their immunogenic properties (4). Subse-
+quent work showed that the peptides present in the yeast
+derived particles were much less extensively disulfide-linked
+than ia the human material but that such linking could be
+induced in vitro (5).
+
+Intramuscular injection of serum-derived HBsAg or yeast-
+derived rHBsAg in healthy individuals results in effective
+immunization and protection from viral infection (6, 7). In
+‘many areas of the developing world, however, the expense of
+imanization programs for large segments of the population
+
+ 
+
+ 
+
+ 
+
+ 
+
+“The publication costs of his atte were defayed in part by page charge
+payment. This article mst therefore be hereby marked "adveiement
+In accordance with 18 U-S.C. 1738 solely 1 nda ths fc.
+
+ums
+
+‘erech Indust, Ci, 10 asthorm, Cone, TX 77301
+
+is prohibitive, ‘his has led us to attempt the expression of
+HBsAg in plants vith the hope of developing a less expen-
+sive production system. Further, we hope to find a way to
+present the rHBsAx in edible plant tissues in a form that
+‘would be useful as un oral vaccine. In this paper we describe
+the transformation of bacco withthe gene encoding HBsAg
+and its expression in leaf tissue in the form of an antigenic
+spherical particle with an average diameter of 22 am. This
+plant-derived rHBsAg is directly analogous to the rHBsAg
+from yeast that is now used for commercial vaccines. We
+view this as a successful first step in a long-term project
+dedicated to developing technologies for low cost “edible
+vaccines” for the developing work.
+
+MATERIALS AND METHODS
+
+Construction of Plasmids for Plant Transformation. The
+HBsAg coding region on the Pst 1/Hindlll fragment from
+PMT-SA (kindly provided by Liche Guo, Chinese Academy
+fof Sciences) was subcloned into pBluescript KS (Stratagene)
+to form pKS-HBS. The HBsAg gene in pKS-HBS was
+‘opened 116 base pairs (bp) 3 to the termination codon with
+BsiBI and the resalting ends were blunted by filing with
+Klenow enzyme und dCTP/AGTP. The entire coding region
+was then excised 16 bp upstream ofthe PstI site with BamHI
+
+pBII21 (ref. 8; obtained from Clontech) was digested with
+Sac I and the ends were blunted with mung bean nuclease
+
+‘The GUS coding region was then released with Bamlil and
+the vector was isolated. The HBsAg coding fragment was
+ligated into the GUS-less pBI21 to yield pHBIO1 (Fig. 1),
+where its expression is driven by the cauliflower mosaic virus
+(CaMV) promoter derived from pBI21,
+
+‘The CaMV 355 promoter with duplicated enhancer linked
+to the tobacco eich virus (TEV) 5* nontransiated leader
+sequence, which acts as a translational enhancer (9), was
+excised from pRTT 2-GUS (10) as follows. pRTL2-GUS was
+digested with Neo { and the ends were blunted with mung
+bean nuclease. The promoter-leader fragment was then re-
+leased by digestion with HindIMl, pHBIOI was digested with
+HindIT and Sma Lo release the 35S promoter fragment, and
+the vector was purified. The promoter-leader fragment was
+then ligated into the MindI1I/Sma T-digested pHB101 to yield
+pHB102 (Fig. 1). {he HBsAg coding region lies upstream of
+the nopaline synthase terminator in both constructs. The
+plasmids contain the left and right border regions, which
+denote the limirs o the DNA that is integrated into the plant
+‘genomic DNA via Agrohacterium tumefaciens-mediated
+transformation, ss well as the neomycin phosphotransterase
+zene, which allows selection with kanamycin
+
+Plant Transformation. Agrobacterium strain LBAMO4
+cells were transformed by the direct method (11) with the
+plasmids prepared trom Escherichia coli clones, and the
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+    
+
+ 
+
+ 
+
+ 
+
+‘Abbreviations: CaMV, cauliflower mosaic virus; HBsAg, hepatitis B
+Surface antigen 18s hg. recombinant HBsAg. TEV. tobacco etch
+{fo whom reprint requests should be addressed.
+
+ 
+
+50618732
+

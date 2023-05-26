@@ -1,0 +1,99 @@
+Invern immunology, Vol 8, No. 4. pp. 491-497 © 1994 Oxtors Unwersty Press
+
+Expression of |,-C, hybrid germline
+transcripts subsequent to immunoglobulin
+heavy chain class switching
+
+Suzanne C. Li’, Paul B. Rothman?, Jue Zhang‘, Christina Chan®, David Hirsh?
+and Frederick W. Alt*
+
+Departments of Pediatrics, “Microbiology and Medicine and “Biochemistry, 630 West 168th Steet,
+Now York, NY 10032, USA
+
+‘The Howara Hughes Medical Institute, The Chikren's Hospital and The Department of Genetics and
+Center for Blood Research, Harvard Medical School, Boston, MA 02115, USA
+
+Key words: class switching, heavy chain, immunoglobulin
+
+ 
+
+Germline Cy transcripts initiate from a non-coding | exon and terminate downstream of the
+associated C, exons. 1g heavy chain class switch recombination from the VDJ~C, gene to
+particular downstream C,, genes appears to be regulated by a process that involves mitogen and/or
+eytokine induction of germline C;, transcripts from the downstream genes. We have examined the
+expression of germline C, transcripts (,-C, transcripts) in splenic B cells and pre-B cell lines
+after cytokine and mitogen stimulation. In contrast to the expression of the germline transcripts
+from downstream C, genes, expression of germline C, transcripts was constitutive and unaffected
+by mitogen and cytokine treatment. After a primary switch recombination event, the germline |,
+promoter, which is now associated with a downstream C, gene, continues to be active—leading
+to the generation of a novel germline transcript consisting of the I, exon spliced to the Cy exons
+of the switched C, gene. We discuss the potential role of the expression of hybrid |,-containing
+transcripts in the class switch process. We also describe a novel and sensitive assay, based on
+
+ 
+
+    
+
+the detection of the hybrid L-containing transcripts, that allows detection of class switch
+
+ 
+
+Introduction
+
+During 8 cell devetopment, the antigon binding domain of the
+ig molecule sintialy associated wih the «and 6 constant region
+genes allowing the Ig 0 be expressed as an IgM oF IgD protein
+B calls have the potential to change the effector function of
+ther ig molecules by undergoing a recombination event, termed
+Ig heavy chain class switching (reviewed in 1-3). Class switch
+recombination occurs between repettve sequences caled
+simteh regions (S regions) located 5 to all of the Cy, genes
+(except 3). Evidence suggests that class switching usually
+involves recombination between the S region of C, and that
+of a downstream C, gene and subsequent deletion of the
+intervening sequences (4 - 6). Once B cells have undergone a
+primary swtch recombination, they have the potential to undergo
+adaitional itching events to one ofthe remaining downstream
+C.. genes (7-16)
+
+ll Cy. genes (except C,) are organized into characteristic
+‘ermine tanseristion units which begin 5" to a non-cading exon
+
+ 
+
+ 
+
+Covespondence fo: S.C.
+
+Transinting odor: C. Terhorst
+
+ 
+
+scombination events even in heterogeneous populations of cells.
+
+(Gormed | exon) that les several klobases 5! 10 the S region
+Gexmiine C, transcripts run through the S region and terminate
+al the normal stes downstream of the C,, gane. The primary
+‘germine Cy transcripts sre processed 10 |uxtapose the | oxon
+to the downstream C, exons to generate a mature transcrint
+nat is incapable of encading a protein product (reviewed in 3).
+Stimuiation of B ces wih mitogens and cytokines causes speciic
+patterns of switching (eviewed in 17) that correlate with induction
+‘of germline ranscrits rom the targeted Cy genes prior to the
+DNA recombination evens. The correlation between germine
+transcription of and switching to the various downstream C,,
+‘genes suggests that vanscription andlor the resuking transcripts
+lay a role in targeting the swich recombination process.
+‘The consorvaton of the germline C, transcriton unt (18 ~ 20)
+suggests that it may function similaly to the downstream Cy
+transcrioton unis with respect te functon in class switch
+recombination. If so, then we would expect that germline «
+
+ 
+
+ 
+
+ 
+
+ 
+

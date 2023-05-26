@@ -1,0 +1,180 @@
+(COMPARISON BETWEEN THE METHOD OF CHOU AND TALALAY AND A NEW METHOD FOR THE ASSESSMENT
+(OF THE COMBINED EFFECTS OF DRUGS: A MONTE-CARLO SIMULATION STUDY
+
+ 
+
+Kenneth Cyrus and Wi
+
+‘A Bethod has been developed and
+tested for determining whether the combi-
+nation of two agente is synergistic, ad-
+ditive or antagonistic. The method con
+sists of fitting a set of equations in =
+hierarchical manner to dose-response data
+with nonlinear regression, choosing the
+model which best fits the data, and in-
+terpreting the resulting parameter eati-
+mates. Our method ie compared with that
+of Chou and Talalay (Adv. Enz. Regul
+
+22: 27-85, 1984) by conducting Monte-
+Carlo simulations with both methods.
+
+‘The Monte-Carlo simulations showed a
+clear superiorty of our method over that
+of Chou and Talalay for making decisions
+regarding the nature of the interaction
+between two drugs. The anjor problens of
+the latter wethod stem from: (1). the
+forced fitting of a straight line to a
+nonlinear function; (2) an incorrect
+extrapolation step from the above fitt
+‘and (3) an incorrect equation for
+calculating @ combination index (CI). Our
+method performed well under many con-
+ditions, and can be easily extended to
+nore complex situations.
+
+ 
+
+ 
+
+    
+
+Introduction
+
+‘The assessment of the combined ef-
+fects of drugs is a field with a long,
+rich history and a profound importance
+for the present and future, The introd-
+uctory sections of three recent articles
+trace the development of the field
+(Kedel1 and Pounds, 1983; Chow and
+Talelay, 1984; Berenbaum, 1985). For the
+sake of brevity the history will not be
+included in thie paper.
+
+‘The effect models presented in this
+paper are only applicable to situations
+Where effect is a continuous, monotonic
+function of the drug dose. Thus, situ-
+ations where the effect variable is quan-
+tal, or not monotonic, or where data can
+be Censored are not covered here.” Note
+that the Nonlinear regression method will
+hereafter be denoted as NLR, while the
+
+yethod of Chou and Talalay will be
+denoted as CAT.
+
+Method:
+Lor a For
+single drug data, this mothod consiate of
+fitting equation'1 to the data with non—
+linear regression. (The definitions of
+‘the nymbola used in all of the equations
+in this paper are presented in Table 1.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+
+lam. Greco, Ronwel Park Meri ie
+
+ 
+
+z
+
+9 True effect
+
+B Concentration (dose) of a dru
+
+Cinput)
+
+Concentration (dose) of drug 1
+
+Concentrations (dose) of drug 2
+
+Maximus effect
+
+Median effective dosage of = drug
+
+(parameter)
+
+Median effective dose of drug 1
+
+Da, Median effective dose of drug 2
+
+Duy, Median effective dose of the
+combination of drug 1 and drug 2 at
+‘a constant ratio of a concentrations
+
+= Slope parameter (paraneter)
+Slope paraneter for drug 1
+
+Slope parameter for drug 2
+
+Slope parancter for the combination
+
+of drug I and drug 2 at constant
+
+ratio of concentrations
+
+aq -Synergisn-antagoniam parameter
+
+fa Fraction of effect affected. It is
+equal to I-E/Enax for an inhibitory
+rox
+
+fu Fraction of effect unaffected. Tt
+is equal to E/Raax for an inhibitory
+rug
+
+fu,, Fraction of effect unaffected
+resulting from the combined action
+of drug 1 plus drug 2. Tt ts equal
+to B/Emax for an inhibitory drug.
+
+R Constant ratio of concentration of
+D,/D,
+
+CI Combination index of Chou & Talalay
+
+ 
+
+ 
+
+ 
+
+For the date from drug combinations this
+method consists of fitting a set of
+models, equations 1-7 to the date in a
+Merarchienl sanner with nonlinear
+regression, then determining which model
+best fits the data, For data containing
+proportional error (constant coefieient.
+Of variation), weighted nonlinear regres
+sion is also used with the weighting
+factor for cach data point equal to the
+‘squared reciprocal of the predicted
+dependent variable.
+
+A single drug
+
+row [85 |”
+
+Reprinted trom the 1986 Proceedings of the Blopharmaceutical
+Section of tho American Statistical Agsocletion
+
+50574158
+

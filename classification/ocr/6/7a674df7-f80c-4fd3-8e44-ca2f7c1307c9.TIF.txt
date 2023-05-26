@@ -1,0 +1,83 @@
+rs
+omer eProenroL
+
+@ ‘eourvey-izss wr 25387
+
+   
+
+i i Analysis of Gene-Smoking Interaction in
+Lung Cancer
+
+W. James Gauderman,* John L, Morrison, Catherine L. Carpenter, and
+] Duncan C. Thomas
+
+Department of Preventive Medicine, University of Southern California,
+Los Angeles
+
+ 
+
+‘The Louisiana Lung Cancer Dataset, consisting of 337 extended pedigrees. is
+analyzed to determine whether a major Mendelian gene interacts with cumula-
+tive tobacco smoking (pack-years). The proportional hazards model is utilized.
+as itis a natural framework for estimating relative risks while adjusting for vari-
+ability in age of disease onset. Segregation analyses show evidence that a Men-
+delian gene is segregating in these families, with the most parsimonious madel.
+including sex. pack-years, pack-years squared. and a dominant major gene. The
+estimated frequency of the high-risk allele is 2% and carriers are estimated 10
+hhave relative risk of 173 for developing lung cancer. compared to noncarriers.
+‘The addition of a gene x pack-years interaction does not significantly improve
+the fit of the model, indicating that on a multiplicative scale, these two factors
+independently influence lung cancer risk. Smoking history is missing for 235 of
+the study subjects and degree of “missingness” depends on disease status.
+age, and birth-year. To account for the nonrandomness of the missing data.
+Markov chain Monte Carlo method for covariate imputation is proposed and
+implemented. Results from this analysis also support a nonsignificant gene
+‘smoking interaction and an allele frequency of 2%, but a lower genetic rela-
+live risk (9.0) compared to the “complete ease” analysis. Genet, Epidemiol,
+14:199-214, 1997, 01997 Wiley-Liss
+
+ 
+
+ 
+
+ee
+
+ 
+
+OZLBE9E902
+
+—
+
+Key words: Mende
+
+ 
+
+inheritance: Gibbs sampling: missing dat
+
+ 
+
+imputation
+
+‘Contract grant sponsor: U.S. Public Health Service, Nationa lstutes of Health: Contract grunt num:
+bers CA 52862
+
+—
+
+‘Correspondence to: Dr, W. James Gauderman, Department of Preventive Medicine, University of
+9 Southern California, 1510 Alcazar Steet. Los Angeles, CA 90033. USA. Email: jimy@refusc.edu
+
+Received 19 March 1996: Revised 5 November 1996: Accepted 29 November 1996
+
+ 
+
+i repo as oUt
+para gra ate
+He eeaesat areas
+
+i Bee Panes Sun
+
+t ORIEN iit oath
+
+—=— =
+al
+

@@ -1,0 +1,112 @@
+1216,
+
+Thrombin Modulates Phosphoinositide
+Metabolism, Cytosolic Calcium, and Impulse
+Initiation in the Heart
+
+ 
+
+Susan F. Steinberg, Richard B, Robinson, Howard B, Lieberm:
+David M. Stern, and Michael R. Rosen
+
+‘Thrombin stimulates phosphoinositide hydrolysis and increases cytosolic
+types of cells. To determine whether thrombin exerts similar stimulatory a
+and whether this mechanism is linked to changes in cardiac electrical activity, the effects of
+thrombin on several biochemical and electrophysiological parameters were examined. In
+neonatal rat ventricular myocyte cultures freed of fibroblast contamination by irradiation,
+thrombin rapidly induced the breakdown of phosphoinositides. Formation of inositol trisphos-
+phate was detectable within 5 seconds and was followed by the sequential accumulation of
+inositol bisphosphate and inositol monophosphate. The effect of thrombin to stimulate
+phosphoinositide hydrolysis was inhibited by hirudin, but not by propranolol, prazosin, or
+pretreatment with pertussis toxin. The inositol phospholipid response was unassociated with
+changes in intracellular cAMP levels. To determine the electrophysiological effects of thrombin,
+‘we used microelectrode techniques to study canine Purkinje fibers. Thrombin increased the
+beating rate of fibers depolarized using barium, but not those at normal maximal diastolic
+potential, In addition, thrombin prolonged the action potential duration in fibers driven at a
+constant cycle length, This response was inhibited by hirudin and nisoldipine, but not by
+propranolol, prazosin, or pretreatment with pertussis toxin. Thrombin also augmented
+cesium-induced early afterdepolarizations. Using the fluorescent calcium indicator fura-2, we
+demonstrated that thrombin increased the beating rate, diastolic calcium, and peak systolic
+calcium of spontaneously contracting cultured ventricular myocytes. Cytosolic calcium also
+increased in both rat ventricular myocytes and canine Purkinje myocytes that were electrically
+driven at a constant basic cycle length, indicating that thrombin modulates cellular calcium
+
+independent ofits actions fo enhance automaticity. Taken together, these ndings
+trate several novel biological actions of thrombin in the mammalian heart that may
+functionally related. The actions of thrombin to enhance automaticity and prolong revolute
+tion may contribute to the clectrical abnormalities observed in the setting of myocardial
+ischemia and infarction, (Circulation Research 1991;68:1216-1229)
+
+ 
+
+ 
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+  
+
+pathway, is an important regulator of a vari-
+
+ety of cellular events. Thrombin interacts
+dircetly with specific high-affinity surface receptors
+‘on several cell types, including platelets, endothelial
+cells, and fibroblasts.' In fibroblasts, thrombin ini
+
+Tks the final enzyme in the procoagulant
+
+  
+
+  
+
+From the Depariments of Medicine, Pharmacology, Peat,
+and Physiology and the Center for Radiological Research, Colum
+bia Unversity, New York NY.
+
+‘Supported by US Public Hleaith Service, National Heart, Lung,
+and Bod Insite gran HL-28988, HL38976, nd HL-AS73
+
+"Address for correspondence: Susan F Steinderg, MD, Assistant
+Profesor of Medicine and Pharmacology, Department of Medi-
+‘ine, Columbia Universiy, College of Physicians and Surgeons,
+160 West 168 Steet, New York, NY 10032
+
+Received May 1, 190; accepted December 3, 1990
+
+50597032
+
+tiates DNA synthesis and cell proliferation? Al-
+though the precise intracellular signaling system un-
+derlying the mitogenic response to thrombin is,
+unknown, one of the earliest events detected in
+thrombin-stimulated fibroblasts is the activation of a
+phospholipase C that hydrolyzes phosphatidylinositol
+45-bisphosphate to inositol 1,4,5-trisphosphate (IP,)
+and diacylelycerol.** These two products act as in-
+tracellular second messengers. IP, mobilizes calcium
+from intracellular, nonmitochondrial stores and ele-
+vates intracellular calcium ion concentration,
+‘whereas diacylglycerol activates protein kinase C,
+Which in turn stimulates Na’-H" exchange and alka
+linizes the eytoplasm.* These ionie responses to IP,
+and diacylglycerol are believed to play an important.
+role in the proliferative response to thrombin.”
+
+ 
+

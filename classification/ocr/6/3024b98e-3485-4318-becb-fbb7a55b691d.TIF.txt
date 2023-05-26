@@ -1,0 +1,127 @@
+Homophilic Binding of PTPy, a Receptor-Type Protein
+Tyrosine Phosphatase, Can Mediate Cell-Cell Aggregation
+
+‘Susann M. Brady-Kalnay, Andrew J. Flint, and Nicholas K, Tonks
+(Cold Spring Harbor Laboratory, Cold Spring Harbor, New York 11724-2208
+
+Abstract. The receptor-like protein tyrosine phosphe-
+tase, PTPy, displays structural similarity to cell-cell
+adhesion molecules of the immunoglobulin superfam-
+ily. We have investigated the ability of human PTPy to
+function in such a capacity. Expression of PTPy, with
+‘or without the PTPase domains, by recombinant
+baculovirus infection of Sf9 cells induced their aggre-
+gation, However, neither a chimeric form of PTPy.,
+containing the extracellular and transmembrane seg-
+‘ments of the EGF receptor and the intracellular seg-
+‘ment of PTPy, nor the intracellular segment of PTPy
+expressed as a soluble protein induced aggregation
+PTPy mediates aggregation via a homophilic mecha-
+nism, as judged by lack of incorporation of uninfected
+‘9 cells into aggregates of PTPh-expressing cells
+
+ 
+
+Homophilic binding has been demonstrated between
+PTPy-costed fluorescent beads (Covaspheres) and en-
+dogenously expressed PTPs: on MvLu cells. Addition-
+ally the PTPu-coated beads specifically bound to a
+bacterially expressed glutathione-S-transferase fusion
+protein containing the extracellular segment of PTPy.
+(GSTIPTPy) adsorbed to petri dishes. Covaspheres
+coated with the GST/PTPx. fusion protein aggregated
+in vitro and also bound to PTPy expressed en-
+dogenously on MvLu cells. These results suggest that
+the ligand for this transmembrane PTPase is another
+PTPy molecule on an adjacent cell. Thus homophilic
+binding interactions may be an important component
+of the function of PTPy in vivo.
+
+ 
+
+ 
+
+proteins is an essential component of the modulation
+
+‘of signal transduction processes involved in cell
+‘growth and differentiation. The dynamic balance of cellular
+phosphotyrosine levels is achieved by the opposing actions
+of the protein tyrosine kinases (PTKs): and protein tyrosine
+phosphatases (PTPases). The PTKs are a structurally di-
+‘verse group that includes growth factor receptors and a sub-
+stantial number of oncogene products, including members of
+the sre family. It is now apparent that PTPases rival the PTKs
+in structural diversity and complexity. PTPases have the
+potential to oppose the effects of kinases as illustrated by
+their ability to suppress the transforming potential of onco-
+genic PTKs (Brown-Shimer et al., 1992; Woodford-Thomas
+et al., 1992; Zander et al., 1993). However, the PTPases
+should not be viewed simply as PTK antagonists. Overex-
+pression of PTPa leads to dephosphorylation and activation
+of e-sre and induces cell transformation (Zheng etal., 1992).
+In addition, CD4S has been showa to play an essential role
+in signal transduction through the T cell receptor, also poten-
+tially exerting its effect through the dephosphorylation and
+activation of sre-amily PTKs such as fck and fin (reviewed
+
+Te reversible phosphorylation of tyrosyl residues in
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘Riess corespondence to N.K. Tonks, Cold Spring Harbor Laboratory,
+‘DemerecBlig 1 Bungoun Rd, Cold Spring Harbor, NY 11724-2208
+
+ 
+
+ 
+
+Abbreviations used inthis paper: GST, sutationeSransterase; PTK,
+prtein tyrosine kinase; PTPases, prin frosne phosphatases
+
+© The Rocefler University Press, 00213825838961/12 $2.00,
+‘Te aural of Cl Boog, Volum 122, Naber Aap 1993 961-972
+
+in Trowbridge, 1991). Current evidence clearly indicates an
+essential role for the PTPases in cellular signaling
+
+PTPases exist in both soluble and transmembrane, re-
+cceptor-like forms, (Charbonneau and Tonks, 1992). "The
+structural features of some of the enzymes suggest a role for
+subcellular localization in the regulation of activity, In the
+‘case ofthe receptor PTPases, similar to the receptor PTKs,
+there is the potential for regulating activity by the binding of
+ligands to the extracellular segment of the protein. Several
+of the transmembrane PTPases are members of the immuno-
+globulin superfamily and display structural motifs in their
+extracellular segments that are suggestive of a role in
+cell-cell adhesion (Streuli et al., 1989; Fischer etal, 1991),
+
+Cell-cell adhesion molecules are grouped into two major
+families on the basis of homology and conditions for bind-
+ing: the immunoglobulin superfamily (generally calcium-
+independent) and the cadherin family (caleium-dependen}
+N-CAM is prototypical ofthe immunoglobulin superfamily
+‘of adhesion molecules. It contains five immunoglobulin do-
+mains and two fibronectin type-II repeats in the extracellu-
+lar segment (reviewed by Edelman and Crossin, 1991),
+‘Cadherins are calcium-dependent cell-cell adhesion mole-
+cules that associate with the actin cytoskeleton by interac-
+tions of their cytoplasmic domains with proteins termed
+‘catenins (Ozawa et al., 1989). Both N-CAM and the cadhe~
+rins bind by a homophilic mechanism (Edelman etal, 1987;
+Hall et al., 1990; Rao et al., 1992; Takeichi, 1991)
+
+ 
+
+961
+
+ 
+
+ 
+

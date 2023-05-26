@@ -1,0 +1,234 @@
+ 
+
+Per WY Asus AppGialbion
+
+ 
+
+Stimulation of Macrophage Urokinase Expression by Polyanions Is
+Protein Kinase C-dependent and Requires Protein and RNA Synthesis*
+
+Utec've for publication, May 2, 1992)
+
+Domenick J. Falcone$§$, Timothy A. MeCaffrey|**, and Jo-Anne Vergiliot $¢
+
+From the Departments of Pathology, $Cel Biotgy and Anatomy, and YMedicine, Cor
+
+‘Neu York, New York 10021
+
+Highly charged polyanionic ligands of the scavenger
+receptor trigger macrophage secretion of urokinase-
+type plasminogen activator (uPA). In experiments re-
+Ported here, we have investigated the intracellular and
+extracellular regulation of polyanion-induced macro-
+phage plasminogen activation. Exposure of a macro-
+phage cell line (RAW264.7) to either fucoidan ot phor-
+‘bol myristate acetate (PMA) stimulates the secretion of
+UPA, whereas calcium ionophore or dibutyryl eyelic
+AMP had no effect. Moreover, preincubation of mac-
+rophages with inhibitors of protein kinase C reduced
+(60-60%) the ability of both fucoidan and PMA to
+trigger the secretion of uPA, whereas aspirin and ei
+eosatetraenoic acid had no effect. Both PMA and fu.
+‘coidan treatment of RAW 264.7 ceils resulted ina rapid
+‘and transient increase in the steady state levels of uPA,
+mRNA. However, in marked contrast to that observed
+with PMA, fucoidan-induced expression of RAW264.7,
+UPA activity was partially insensitive to cycloheximide
+and actinomycin D. In addition, fucoidan-induced uPA
+activity was detected in conditioned media in as little
+
+6 15 min, whereas PMA-induced uPA activity did not
+increase until 2 h. [n addition to stimulating macro:
+phage seeretion of uPA, fucoidan bound uPA and had.
+small stimulatory affect on uPA activity, The binding,
+does not interfere with the catalytie site on the B chain,
+or require the receptor binding or kringle domains on
+the A chain.
+
+OO
+
+Macrophage generation of plasmin is tightly regulated by
+the secretion of a specific neutral protease, uPA,’ that con
+| aes sais were supported by retearch grants HL-A0810, HI
+18828 (Specilined Center of Research in Thrombosis), HI-4640s,
+
+Wd HL-AST24 from th ang, and Blood Institute
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+ 
+ 
+
+ 
+
+fore be hereby
+“advertisement” in aceondance with 18 USC. Section 1734
+iy to indicate this fac
+‘VRecipient of National Institutes of Health Research Career De
+velopment Award HL-01962. To whom correspondence should be
+addressed: Dept. of Pathology (C-440), Connell Medial College, New
+York, NY 10021. Tel: 212-746-6457 or 6466
+Tevipient of National Institutes of Health FIRST Award HL:
+
+42606,
+
+$4 Recipient of the Ross Reid
+ship from the New York City A
+
+The abbreviations used are: uPA, ut
+activator, sPA, tissue plasminogen activator, PA, plasminogen ati
+valor, HEPES, 4-(2-bydrowvethsI)-L-piperarineethanesulfnic aid,
+‘MOPS, ¢-morpholinepropanesulfonie ack, SDS, sodium dodecyl sul
+fate; HMW, heavy molecular weight; LMW, low molecular weight,
+PMA, phorbol 12-myristae 13-acetate; aorenofin tetraacetlthio:
+D-alucopyranosato-S)triethyIphosphine)ealé; HL (Sisoquinol
+resulfons)-2-methylpiperszine dihydrochloride, PCS, etal cat
+serum; ETYA,58.11,]-eiosatetruenole; LDL, low density lippro
+‘ein; DPBS, Dulheceo's phosphate-buffered saline
+
+   
+
+ 
+
+    
+
+  
+ 
+
+ 
+
+vorial Medical Student Flow
+inte of the American Heart Asso-
+
+ 
+
+ 
+
+inase-type plasminogen
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+3 Cole
+
+ 
+
+ctive plasminogen (0 1 serine protease possessing
+broad substrate speciticities (1, 2). Cellular conversion of
+plasminogen to plasmin isan important regulator of migration
+(6-5), connective tissue remodeling (6), and the activities of
+other hydrolases (7) and yrowth factors (8, 9)
+
+‘UPA has been demonstrated to exist in several molecular
+forms. Itis secreted by a variety of cells as single-chain uPA
+(10), hich is converted to two chain, heavy molecular weight
+UPA (HMW-uPA) by a single cleavage between amino acids.
+168 and 159 (11, 12). The catalytic site is on the B-chain,
+whereas the uPA receptor binding sequence is in the amino.
+
+ 
+
+ 
+
+ 
+   
+
+ 
+
+terminal segment of the A-chaia (13, 14). HMW-uPA can be
+‘modified further by limite! cteava; a low molec:
+ular weight form (I.MWuP A) chat is catalytically active (11)
+
+Dut does not express cell binding activity (15). In addition to.
+‘UPA, macrophages secrete the serie protease inhibitor plas.
+‘minogen activator inhibitor 2 (16, 17), which rapidly’ and
+reversibly inactivates uP A (18). As expected, the proportions
+of plasminogen activator and inhibitor secreted by different
+‘macrophage populations varies and is effected by in vitro
+exposure to a diverse array uf stimuli (16, 17, 19, 20).
+
+{a previous studies, we and others have demonstrated that
+acetyl-LDL and polyanionic inhibitors of acety'-LDL binding.
+to the scavenger receptor stimulated the secretion of plasmin.
+‘gen activator activity by activated peritoneal mactophages
+and a macrophage-like celine (22-23), In later studies, we
+demonstrated that the sevretion of plasininogen activator
+activity by the macrophage cell line, RAW264.7, was stime
+lated by heparin (24). Alchouga heparin is not reported to be
+4 ligand of the scavenger receptor, fucoidan blocks heparin
+binding to RAW264.7 cells, and heparin partially inhibits
+Doth binding of acetyl-LDI. ro RAW264.7 cells and acetyl
+LDL-induced cholestery! wster synthesis (24). The observa-
+tion that a fraction of total heparin binding by RAW264.7
+cells appeared to be via the seuvenger seveptor suggested that
+‘another cellular receptor/inding site may’ be responsible for
+polyanion induced-ul’A secretion, However, neither heparin
+nor fucoidan were able to stizvulate the release of uPA activity
+from U937 cells, a monocyte-like cell line devoid of scavenger
+receptor activity (25)."These findings suggest that endocytosis
+of a diverse group of polyxnions by the scavenger receptor
+may play a role in the regulation of macrophage-dependent
+plasminogen activation,
+
+In experiments reported here, we have sought to define the
+regulatory mechanisms involved in polyanion-induced uPA
+expression by macrophages, First, we have identified the
+rajor cell signaling patiscay operational in polvanion-in-
+duced expression of macrophage uPA activity. Second, we
+hhave determined the effee: of inhibitors of protein and RNA
+synthesis on polyanion-induced uPA activity, as well as qua
+titating time-dependent alterations in the steady state levels,
+of uPA mRNA. ‘Third, we hove determined whether polyan-
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+22726
+
+ 
+
+ 
+

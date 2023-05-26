@@ -1,0 +1,187 @@
+ 
+
+Prac, Nal. Acad. Sci USA
+ASAD pp, DATIISL, November 1985
+Miochemty
+
+ 
+
+Partial purification of an en:
+that cleaves Holliday junctions*
+
+(ceucitoem structures /fgu
+
+ 
+
+8 molecules genetic recombination
+
+LORRAINE S. SYMINGTONT AND RICHARD KoLODNER
+
+Labomtoy of
+Boston, WA 0
+
+Communicoted by Charles C. Richardson, July 8, 1985.
+
+  
+
+ABSTRACT An enzyme from Saccharomyces cereisoe
+‘that cleaves Holliday junctions was partially purified ~S00- (0
+1000-fold by DEAE-celllose chromatography, gel ftration on
+‘Sephacry1 $300, and chromatography on slag stranded DNA
+cellulose. The partaly purified enzyme did not have any
+detectable nuclease activity when tested with single-stranded or
+double-stranded bacteriophage T7 substrate DNA and did not
+have detectable endonuclease activity” when tested with
+bacterlophage M13 viral DNA or plasmid pBR322 covalently
+closed circular DNA. Analysis ofthe products ofthe cruciform
+Cleavage reaction by lerophoreis on peyacrylamie ees
+under denaturing conditions revealed thatthe eruelform struc:
+ture was cleaved at elther of two sites present in the stem of the
+‘eruelform and was not cleaved at the end of the stem, The
+‘rucform cleavage enzyme was able to cleave the Hollidsy
+Junction present in bacteriophage G4 figure-S molecules.
+Eighty percent of these Holliday Junctions were cleaved Inthe
+proper orientation to generate intact chromosomes during
+enctic recombination.
+Ic has been proposed that genetic recorsbinaton ofenin-
+volves the formation of an intermediate structure that con-
+tains a reciprocal single-stranded crossover between (wo
+homologous duplexes, the Holliday junction (1-3). When the
+ing genomes are circular, the Holliday intermediate
+has a figure-8 configuration. DNA molecules containing
+Holliday structures have been observed in recombining
+phage and plasmid DNA molecules isolated (com Escherichia
+coli and yeast cells and in chromosomal DNA isolated from
+yeast 4-10). The enzymology ofthe formation and resolution
+of Holliday structures is not well understood, but the RecA.
+and Recl proteins, from E. coli and Ustlago maydis,
+respectively, probably play a role in the formation of
+Holliday junctions in these organisms (11.12), Resolution of
+the Holliday junction requires cleavage of the crossed
+strands, realignment, and ligation to generate an intact
+recombinant duplex. The bacteriophage 17 gene 3 and
+bacteriophage 4 gene 49 endonucleases cleave arificialy
+constructed Holliday structures (13, 14). Conditionally eth
+‘tuations in these genes lead to an ace
+branched DNA after infection, suggesting
+products may resolve branched recombin
+(3, 15-17). Artificial Holliday junctions containing. the
+bacteriophage A ait sites within the crossover repion ate
+cleaved by the A Int protein (28). The 14 and 7 enzymes.
+differ from the Int protein in that they have endonuclease
+activity on single-stranded substrates and lack sequence
+specificity whereas the Int protein has no single-stranded
+DNA-specific endonuclease activity and only cleaves
+Halliday junctions constructed from d at sites (14, 18, 19).
+We have recently demonstrated that DNA, molecules having
+
+ 
+
+ 
+
+ 
+
+   
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The publication costs of this article were defrayed in part by pug haree
+pusment Thin article must hersfore he herchy mi hed “aventneme!
+fn scconfance with 1S U.S.C. A173 solely t0 ndcate thie fact.
+
+)
+
+na
+
+me from Saccharomyces cerevisiae
+
+leclar Gents, Dana-Farber Cancer Ist, Boston, MA O11: and Deparment logical Chis, Harvard Medial Sho
+
+a figure-8 configuration are generated in a Saccharomyces
+cerevisiae cell-free recombination system and that these
+molecules appear tobe processed during the reaction (20, 21).
+Here we deseribe an enzymatic activity from yeast that
+cleaves Holliday structures.
+
+ 
+
+EXPERIMENTAL PROCEDURES
+
+Strains. The E.coli strain 1C10287[A(srIR-recA)304, thr-1,
+lew, thi, lacYl, galK2, ara-l4, x5, mil-l, proA2, his,
+‘argE3, kdgKSI, rpsLil, tsx-33, supB44) used to propagate
+plasmids was obtained from A. J. Clark (University of
+California, Berkeley), An iaital sample of pBR322::PALI4
+DNA @2) was obtained from G, Warren (Advanced Genetic
+Sciences, Oakland, CA) and was used to transform E. coli
+3C10287 to yield E” coli RDK1S67, A partial restriction map
+of this plasmid is presented in Fig. 1. The diploid yeas strain
+AP-1 (MATa/MATa, ade1/ADEI, ade2-I/ade2-8, ural/
+URAL, his?/HIS7, Wys2/LYS2, irl TYRI, gall /GALI,
+CYE2jeyh2, CANi{cant, LEUI/leul) was obtained from
+B. Byers (University of Washington, Seattle, WA) (23)
+
+‘Nucleic Acids. Plasmid DNA was'purfied essentially as
+described (24). To convert pBR322:PALI14 DNA to the
+‘cruciform-containing form, it was incubated at $5°C for 1 hr
+in 10 eM Tris IC (pH 8.0)/1 mM EDTA/200 mM NaCl.
+‘This treatment converted 60-80% of the molecules to the Hg!
+resistant eruciform-containing form (22), To remove the
+‘cruciform structure the DNA was heated to 85°C for 5 min in
+30 mM Tris HCl (p11 8.0)/1 mM EDTA and quenched on ice.
+‘This converted >9%6 of the molecules tothe Bel Il-sensitive
+non-cruciform-containing form (22). Bacteriophage T7
+PHIDNA (44.6 epm/pmol) was prepared as described (25)
+‘17 DNA was denatured by incubating it at 100°C for 10 min
+followed by chilling on ice. Bacteriophage Ge figure-8 DNA
+(26) was. gift from R. C. Warner Univ. of California, Irvine,
+CA). Salmon sperm DNA (ype TI) was from’ Sigm
+Bacteriophage MI3mp11 viral DNA was the gift of
+Howard of this laboratory. DNA concentrations are ex:
+pressed in moles of nucleotide equivalents unless otherwise
+specified,
+
+Chemicals [methyl2HJThyaidine (80 Cifmmal, 1 Ci = 37
+Gig) was from New England Nuclear. (P]ATP (3000
+Ci/mmol was from Amershuns, Spermidine ICI, dithiothrei
+tol, and phienylmethylsulfony) uoride were from Sigma
+Ulicapure Tris, ammonium sulfate, and ammonium acets
+were from Schwarz/Mann. Zymmolyase-10QT and crystallized
+bovine serum alluimin were from Miles, Media components
+
+   
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+Ableton: Kb, biloba).
+“A plimimiry account ofthis work was presented at the IS Cold
+Spring Hare Symposium oa Genetic Recombination snd he
+1984 International Conference on Yeast Genetics and Molecule
+Miolopy al Véinburgh
+
+tresent mttness” Department of Molecule Genetics snd Cell
+iology, University of Chicago, Chicago, IL ON.
+
+ 
+
+ 
+

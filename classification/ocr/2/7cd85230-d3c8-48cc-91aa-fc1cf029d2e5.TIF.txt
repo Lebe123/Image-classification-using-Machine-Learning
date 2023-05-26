@@ -1,0 +1,64 @@
+From: Edwards, Timmy A.
+To: Martin, Timothy G.
+
+  
+
+ 
+  
+
+BC
+
+Primary Date: 10/21/1998 6:38:58 AM
+Last Modified Date: 1998-Oct-21 06:38:59
+Last Touched Dat
+
+Sent Date: 1998-Oct-21 06:38:57
+Received Date: 1998-Oct-21 06:38:58
+Subject: Zenith Pump Test
+
+ 
+
+Attachments:
+EmbeddedObject
+
+ 
+
+Tim,
+
+‘The results from the first two production runs of H613 and D637 on C&C line 4 using the
+new Zenith pump,
+
+indicates statistically that both the Batch Report % Difference in Top Dressing and the
+Standard Deviation of the
+
+ifference between Top Dressing Flow Actual and Top Dressing Flow Setpoint are better
+than the original top
+
+dressing delivery system.
+
+‘The Top Dressing Flow Rate Standard Deviation during the H613 Blend using the Zenith
+pump was
+2.25 versus an average 2.76 using the original system. Also, the D637 run showed an
+
+improvement
+in top dressing flow standard deviation of 2.49 versus a 3.31 average.
+
+Next Steps:
+
+1,) Continue to monitor regular Top Dressing runs on C&C line 4. Note, there
+are no additional regular runs scheduled this week,
+
+2.) Address any issues production has with top dressing change over during a run.
+3.) Continue to monitor the filter before the Zenith pump.
+
+4.) Disassembly the Zenith pump after several regular top dressing runs and
+check for any signs of excessive wear,
+
+e986 96/25
+
+RJR0000000054013206
+
+70019 3126
+
+ 
+

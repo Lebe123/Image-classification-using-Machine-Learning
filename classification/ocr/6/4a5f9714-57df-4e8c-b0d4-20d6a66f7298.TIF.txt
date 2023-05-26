@@ -1,0 +1,174 @@
+Cat, vot 70, 251-265, July 26.1992, Copyright © 1952 by Col Press
+
+ 
+
+Genetic Isolation of ADA2: A Potential
+Transcriptional Adaptor Required for Function
+of Certain Acidic Activation Domains
+
+Shelley L. Berger,” Benjamin Pits,” Neal Sliverman,*
+Gregory A. Marcus,” Julie Agapite, Jeffrey L. Regier,t
+Steven J. Triezenberg,tt and Leonard Guarente*
+“Department of Biology
+
+Massachusetts Insitute of Technology
+
+Cambridge, Massachusetts 02139
+
+sDepatment of Biochemistry
+
+"Genetics Program
+
+Michigan State University
+
+East Lansing, Michigan 48824
+
+  
+
+‘Summary
+
+We have devised agenetic strategy tolsolate the target
+of acidie activation domains of transcriptional active
+tors based on toxicity in yeast cells of the chimeric
+‘activator, GALA-VP16. Toxlelty required the Integrity
+‘of both the VP16 acidic activation domain and the
+GALA DNA-binding domain, suggesting that Inhibition
+resulted from trapping of general transcription factors
+‘at genomic sites. Mutations that break the Interaction
+between GAL4-VP16 and general factors would allev!-
+ate toxlelty and identity transcriptional adaptors, it
+‘adaptors bridged the interaction between activators
+‘and genoral factors. We thus identified ADA1, ADA2,
+‘and ADA3. Mutations in ADA2 reduced the activity of
+GAL4-VP16 and GCN4 In vivo. ada2 mutant extracte
+‘exhibited normal basal transcription, but were defec-
+tive in responding to GALS-VP16, GCN&, or the dA:aT
+activator. Strikingly, the mutant extract responded ike
+wild type to GAL4-HAP4. We conclude that ADA2 po-
+tontlates the activity of one class of acidic activation
+domain but not a second class.
+
+ 
+
+ 
+
+  
+
+‘Transcription of eukaryotic genes often requires sites that
+fact at great distances from the promoter, termed en-
+hhancors in mammalian co's (Banerj etal. 1981; Moreau
+
+aL. 1981) and UASS in yeast (Guarente etal, 1982)
+Enhancers or UASs are bound by transcriptional activator
+proteins that contain two functional domains, one that die-
+{ales ONA binding, and a second that activates transcrip-
+tion (Brent ang Ptashne, 1985) The uctivation domains of
+several yeast activators are characterized by a high con-
+tent of acigic amino acids (Hope and Struhl, 1986; Ma and
+Ptashne, 19872). Activation domains from metazoans are
+‘of several classes, including acidic, glutamine rich, and
+proline rich. The acidic activators, such as yeast GALA,
+will activate transcription in many eukaryotic organisms,
+Including mammals (Ptashne, 1988). Thus, the mecha:
+nism by which acidic activation domains funetion must
+be conserved in most or all eukaryotes. Metazoan acidic
+activators can work in yeast, while nonacidic activators
+‘such 8s the glutaminevich activator, Spt (Courey and
+
+ 
+
+ 
+
+ 
+
+50661561
+
+‘Tian, 1988), appear not to function in yeast (8. Pita ane
+L Guarente, unpublished data),
+
+‘Acentral question in eukaryotic transcriptions how act-
+vators can transmit their signalto the general transcription
+factors that comprise the transcription initiation complex,
+‘even when the activator binds to DNA at significant di-
+
+0S from the initiation ste. Several mechanisms have
+‘been proposed for activation ata distance. none model,
+‘activators are thought to prevent the repressive effect of
+histones on promoters. n vito studies show that the mag-
+‘nitude of activation is actualy increased ifthe transcription
+‘wactioniscaried out in competition wth the assembly of
+the DNA template into chromatin (Workman etal, 1991;
+Leybourne and Kadonaga, 1991). This increase in the
+‘magnitude of activation is due toa strong repression of the
+basal levelof the in vitro transcription reaction by chroma-
+tin. In yeast cells, a reduction inthe synthesis of histones
+3 and H4 results inthe partial activation of several cellu-
+Jar genes Han and Grunsiein, 1989) These in vio andin
+Vivo studios suggest that histones are required to repress.
+basal transcriptontoavery owleveland hat acidic activa
+tion domains can counteract this repression.
+
+Howover, activators are also capable of functioning by
+‘amechanism that does not involve histones. Invitro, even.
+‘when the ONA template has not been assembiedinto chro-
+‘matin, activation is stil robust, This fact has been shown
+‘leartyin both mammalian and yeastinvirosystems.using
+the GAL4-VP16 fusion protein (Sadowski et al. 1988) in
+which the acidic activation domain of the herpes simplex.
+Virus protein, VP16 (Triezenberg et al. 1988; Gerster and.
+Roeder, 1988; OF: 1988; Preston ota, 1988),
+{i fuged to tho DNA-binding domain of GALA (ohnston
+‘and Dover, 1987).
+
+‘Most models fr activation that do no involve chromatin
+invoke protein-protein interactions between activators
+bound st UASs and general factors bound at the TATA,
+box, with the looping out of intervening DNA (Ptashne
+1988). These general factors include the TATA box-bind-
+Ing protein (TBP) inthe TFIO rection, as well as TFIA,
+“£,-F,-G,-Hy,J, and RNA polymerase! the absence
+fof any activator, the general factors will cary out basal
+transcription in viro (Matsui tal, 1980). The function of
+‘TBP intne besa! reactionis also conserved across spacios
+‘boundaries, The yoast TBP has been puriied by vitue of
+its siliy to substitute for the mammalian TBP fraction
+‘this basal reaction (Buratowsk’ et al, 1988; Cavalini eta
+1988). Because the general factors bindto the TATA box-
+Initiation region of the promoter in an ordered pathway
+(Buratowskiet a. 1989). any one of these factors couldbe
+the target of activators In fac, chromatographic studies
+indicated a direct interaction between the acicic acivation
+domain of VPIG and TBP (Stringer et al., 1980; Ingles ot
+aL, 1991). A soparate study concluded that a potentially
+‘stronger intoracton exists between VP16 and TFIB (Lin
+‘and Green, 1981). The role played by these interactions
+In the normal function of activators i stil uncertain
+
+  
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

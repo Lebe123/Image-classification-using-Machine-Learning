@@ -1,0 +1,129 @@
+JOURNAL OF VinoLogy, May 1989, p. 2098-2107
+‘n2-s3430891052069.09802.0000
+Copyright © 1989, American Society for Microbiology
+
+Vol. 63, No.5
+
+Transcriptional Activation of Bovine Leukemia Virus in Blood
+Cells from Experimentally Infected, Asymptomatic Sheep with
+Latent Infections
+
+DONNA M. LAGARIAS AND KATHRYN RADKE*
+Department of Avian Sciences, University of California, Davis, California 95616
+
+Received 14 September 1984/Accepted 8 February 1989
+
+Infection by bovine Jeukemia virus (BLV) Is characterized by a long latency period, after which some
+individuals develop B-cell mors. The behavior of BL and related retroviruses during the latency period
+Detween initial infection and subsequent tumorigenesis Is poorly understood. We used in situ hybridization to
+detect BLV transcripts In individual peripheral bloed mononuclear cells from experimentally infected,
+‘asymptomatic sheep with latent infections. Viral RNA was not found in most peripheral blood cells that had
+been isolated as rapidly as possible from circulating blood, but it was. present in rare cells. BLY RNA
+transcripts increased in a biphasic manner within a few hours after the blood cells were placed in culture.
+Exposure to fetal bovine serum was identified as the principal cause of this transcriptional activation, which
+‘occurred in fewer than 1 in 1,000 cells. Agents knovn to activate immune cells polyclonally caused a further
+increase inthe numberof cells containing BLY RNA within §h. In some cases, the numbers of vial transcripts,
+within individual cells also increased. Thus, BLY is not detectably expressed io most resting lymphocytes,
+‘ireulating in the blood, but its transcription is activated by components of fetal bovine serum and can be
+augmented by molecules that mine activation of immune cells. This activation, which might occur in lymphoid
+{Ussue during an imouune response, may lead to the synthesis of viral regulatory proteins that are thought (o
+
+ 
+
+ 
+
+Initiate tumorigenesis through host cell genes.
+
+ 
+
+ 
+
+Bovine leukemia virus (BLY), human T-cell leukemia
+virus types I and Il (HTLV-I and HTLV-lI, respectively),
+and human immunodeficiency virus (HIV) ate all retrovi-
+rises that replicate in cells of the immune system. Infection
+by these viruses is followed by a long latency period, and a
+certain proportion of infected individuals then rapidly prog-
+ress to terminal disease. Because these viruses integrate
+essentially at random into the host genome and do not
+contain cell-derived oncogenes, it is thought that the viral
+gene products themselves lead to development of disease
+‘The genomes of BLV, HTLY, and HIV encode crans-acting
+factors that regulate viral transcription, but litle is known
+about how viral transcripts that encode these regulatory
+proteins are initially induced. For HIV, recent evidence
+‘Suggests that immune responses to unrelated antigens trigger
+virus replication and contribute (o disease progression (re-
+viewed in reference 15).
+
+BLY, HTLY-I and HTLV-t are tumorigenic retroviruses
+that cause leukemia and lymphoma (reviewed in references 4
+‘and 53) and are distinet from HIV, a lentivirus that causes
+fatal immunodeficiency and neuropathy of the central ner-
+‘vous system (reviewed in reference 15). BLV and HTLV-I
+share numerous features of infection and pathology. They
+also have similar genomic structures (43) and use common
+‘strategies for gene expression. The 3” ends ofthe genomes of|
+HTLV and BLY contain the X sequences encoding a set of|
+novel proteins (30, 39, 41, 45) that are necessary for ecient
+transcription from the viral promoter (7, 11, 40) and that
+determine the relative proportions of spliced and unspliced
+transcripts (12, 25, 27). Aside from host range, a notable
+difference between the two viruses is that BLV infection is
+associated with malignancy of B cells, whereas HTLV
+affects T cell.
+
+ 
+
+ 
+
+ 
+
+‘Corresponding author.
+
+‘Tumor cells contain at least part of one provirus, but the
+viral genome is not detectably expressed (16, 28), which
+suggests that viral gene products are not necessary 10
+maintain the transformed state. The X proteins encoded by
+the virus may set in motion a series of events leading 10
+secondary genetic changes that result in malignant transfor-
+mation (54). Its important for two reasons to know where
+‘and under what conditions viral genes are expressed before
+tumor development begins. () Intermittent production and
+spread of the virus would favor transformation simply by
+increasing the population of cells at risk for such a genetic
+change. (i) It is possible that the X-encoded proteins, tax
+and rex, could be produced from a subgenomic message
+without production of virions and that tax itself is responsi
+ble for changes in cells that could lead to uncontrolled
+srowth (19, 26, 33)
+
+BLV-specific RNAS have not previously been detected in
+RNA extracted from populations of monontclear cells newly
+purified from the blood of infected animals (20,29), but BLY
+Ueanscripts were detected once these cells’ had been ia
+short-term culture (20). However, low-level transcription in
+«few cells might escape detection unless individual cells
+were examined for viral transcripts, Virion proteins and
+particles have been detected in a few cells as early as 3 to 6
+bb after initiation of blood cell cultures but were most
+abundant after 24 to 48 h of culture (3, 14, 49).
+
+To examine infected cells during the latency period, when
+virus expression is likely to be important in disease devel-
+opment, we studied transcriptional activation of the BLY
+provirus in peripheral blood mononuclear cells (PBMCs)
+from infected but asymptomatic sheep that had no elevation
+of lymphocyte counts. We have found that the number of
+cells that act as infectious centers in culture is extremely low
+during latency. typially about 1 in 10* cells (submitted for
+publication), Here, the single-cell sensitivity of in situ by~
+
+  
+
+ 
+
+  
+
+ 
+

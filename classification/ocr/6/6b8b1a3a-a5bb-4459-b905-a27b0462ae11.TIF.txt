@@ -1,0 +1,187 @@
+Isercmion AND Isunry, Apr. 1996p L73-1180
+OD193567 967504040
+‘Copyright © 1996, American Society for Microbiology
+
+Vol 68, Nod
+
+Differentiation-Associated Toxin Receptor Modulation,
+Cytokine Production, and Sensitivity to Shiga-Like
+Toxins in Human Monocytes and
+Monocytic Cell Lines
+
+BELAKERE RAMEGOWDA axp VERNON L. TESH™
+
+Department of Medical Microbiology and Immunology, Texas A&M Univesity Health Science Center,
+College Station, Texas 77843-1114
+
+Received 22 August 1995/Returned for modification | November 199SiAccepted 24 January 1996
+
+ 
+ 
+
+{SL1)-producing Esch-
+cricha coli cause blood an increased risk of acute renal failure and severe
+neurological complications. Histopathological examination of human and animal tissues suggests that the
+target cells for toxin action are vascular endothelial cells. Proinflammatory cytokines regulate endothelial cell
+membrane expression of the glycolipid globotriaosylcerumide (Gb,) which serves as the toxin receptor, sug
+esting that the host response to the toxins or other bacterial products may contribute to pathogenesis by
+
+ 
+
+ 
+
+ 
+
+regulating target cell sens
+blood monocytes (PBMn) and two mono
+“Treatment ofthe cells with a number of aiferent
+
+  
+
+ 
+
+associated with decreased toxin receptor expression. U-937 cells irrespect
+
+ls expressed law levels of Ghyy and toxin receptor expression was not
+‘Treatment of monocytic cells with tomor necrosis factor alpha (TNF-a) did not
+or alter toxin receptor expression. Undifferentiated monocytic cells failed to
+
+‘were resistant to the toxins. U-937
+
+   
+ 
+ 
+
+‘markedly increase sen
+
+vit to the toxins. We exa
+cel Hines. Undilferen
+
+io factors resulted in increased toxin re
+
+ 
+
+d the effects of purified SLTs on human peripheral
+ted THP-1 cells were sensitive to SLT.
+
+race which was
+
+f maturation state, and PBMn
+
+ 
+
+ 
+
+ 
+
+synthesize TNF and interleukin 1f when treated with sublethal concentrations of SLY type f (SLT-1), whereas
+
+cells treated with 12-0-tetradecanoylphorbol-13-acetate acquired the ability to produce eytokines when st
+SLT-L. When stimulated with SLT-1, U-937 cells produced lower levels of TNF than PBMn snd
+
+ulated
+‘THP-L cells did.
+
+ 
+
+“The Shiga toxin family is composed of bacterial proteins that
+{G) share an AB, holotoxin molecular structure, (i) neta 288.
+FRNA N-glycosidases to inhibit eukaryotic protein synthesis,
+and (ji) utilize the neutral glycolipid globotriacsylceramide
+(Gb, asthe primary functional toxin receptor (fr reviews, see
+references 1, 20, and 22). The prototype toxin of the family,
+Shiga toxin, is produced by Shigeliadjsemteriae type 1. A lim-
+ited number of serotypes of Escherichia coi, collectively re-
+ferred to as enterohemporthagic E.coli, synthesize one oF more
+toxins designated Shiga-like toxins (SLTs) or veroeytotoxins.
+SLTs are categorized on the basis of antigenic similarity 10
+Shiga toxin, wth the eyiotoxi activity of SLT classified as type
+T(SLT-1) being neuteaized by polyclonal antibodies to Shiga
+toxin, while Shiga-like toxin type Tl (SLT-lI) activity is not
+neutralized by the antisera (30), Subsequently, SLT-T was
+shown tobe essentially identical to Shiga toxin, while & umber
+fof SLT-II toxin variants possess only ~$6% homology com-
+jared with Shiga toxin at the deduced amino acid sequence
+level (18),
+
+Despite efforts to improve sanitary hygiene, bacillary dysen-
+tery and postdiarrheal acute renal failure (hemolyticuremic
+syndrome) continue to cause excessive morbidity and mortality
+ia many developing nations. In 1993, the potential of entero-
+Ihemorchagie E. coli to cause widespread outbreaks of bloody
+diarrhea with progression to life-threatening sequelae was dra-
+‘matically highlighted in the western United States, when over
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Corresponding author. Phone: (409) 845-1313. Fax: (40) 845.
+3409, Flecronie mall address: vltestiGtamued,
+
+un
+
+ 
+
+ 
+
+ 
+
+700 people became ill following the ingestion of undercooked
+contaminated hamburgers. Approximately 27% of those with
+bloody diarthca were hospitalized, 89% developed systemic
+complications. and four children died (8). A common his-
+topathological finding in patients with postdiarrheal sequelae
+is the destruction of endothelial cclls lining small blood vessels
+in the colon, kidneys, and central nervous system (26). In vivo
+studies using a number of animal models demonstrated that
+purified Shiga toxin ancl SITs cause vascular damage in many
+of the samme target organs (for a review, see reference 9). In
+vitro studies utilizing human vascular endothelial cells (HVEC)
+from a numberof sites demonstrated a direct cytopathic effect
+‘mediated by the toxins, although in Some cases, the toxin co-
+centrations necessary to manifest cytotoxicity were orders of
+‘magnitude greater than that estimated to be circulating in the
+bloodstream of infected patients (23, 33). However, when
+HIVEC were cultured in the presence of the toxins and the
+proinflammatory cytokines tumor necrosis factor alpha
+(TNF-a) and interleukin If (IL-1B), cytotoxic doses were
+‘markedly reduced, suggesting thatthe cytokines sensitized the
+target cells to the toxie action of SLTs (19, 3). Subsequent
+
+van der Kar eta. (37) showed that TNF and (L-1B upregy
+late the expression of Gb, on HVEC. Obrig et al. (24) also
+showed that basal levels of Gb, expression on HVEC cultured
+from different sources ate variable and that small vessels i
+target organs may express higher levels of Gh. Collective!
+
+these data suggest that modolation of toxin receptor expres
+sion may be a eritcal determinant in disease progression. 10
+Order to manifest the profound vascular damage characters
+
+fof the hemolvticuremic syndrome, two signals may be needed:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+50564693
+

@@ -1,0 +1,175 @@
+ree-cleetron lasers are also characterized by unusually high
+power and efficiency.
+
+This article has attempted (0 treat a number of important
+topics in sufficient detail so as to be meaningful to a wide
+endership. It has not been possible to give a comprehensive
+treatment of the subject of light, for a more detailed treat-
+ment of both topics surveyed in this article and of the many
+topics that were omitted, see the Bibliography.
+
+ 
+
+1¢ also DIFFRACTION; ELECTROMAGNETIC RADIATION:
+Parapay Errect: Kerr Errecr, ELectao-Orricat:
+Lasers; MAXWELL’S EQUATIONS; PHOTONS: POLARIZED.
+Litt; REFLECTION; REFRACTION.
+
+     
+
+BIBLIOGRAPHY
+
+6 Bignbaum, Optical Masers. Academie Press, New York, 1964
+
+‘thorn and E, Wolf Principles of Optics th ed, Pergamon, New
+York. 1970.(A}
+
+i Ditchhurn, Light, 2nd ed, Wiley (Interscience), New York, 1963,
+
+ 
+
+w
+
+FA Jenkins and H. E. White, Fundamentals of Optics. MeGraw:
+Hill, New York, 1957. (0)
+
+M Kerker, The Seattring of Light and Other Electromagnetic Ra
+rion, Academis Press, New York, 1969.(A)
+
+1 Marshall, FreeElectron Laters. Macmillan Publishing Com
+
+fins, New York, 1985
+
+MG. Minaaert, The Nature of Light and Color inthe Open Air
+aver, New York, 1988. (E)
+
+1: Simmons and M.J. Guttman, States, Waves and Photons: a
+Modern Introduction 10 Light. Addison-Wesley, Reading,
+Mass. 1970. (A)
+
+> Tolansky, Curiosities of Light Rays and Light Waves. American
+Elsevier, New York, 1965. Revolution in Otis. Pelican Books,
+Harmondsworth, England, 1968. (E)
+
+ 
+
+Light Seattering
+KR. W. Detenbeck
+
+The scientific study of light scattering began in 1869 with
+the experiments of Tyndall, who sent a beam of white light
+through a suspension of fine particles. The scattered light
+‘sas bluish and, observed at right angles to the beam, was,
+hichly polarized. These effects suggested to Tyndall thatthe
+‘Nue color and polarization of ight from the sky are produced
+1m the scattering of sunlight by atmospheric dust. In a sub-
+sequent, theoretical treatment Rayleigh calculated the scat-
+‘ering from a random collection of small (compared with a
+\savclength), widely separated spheres. He predicted the ob-
+served polarization phenomena, as well as the inverse-
+fourth-power dependence of scattered intensity on wave-
+length which gives the sky its blue color. That the blue color
+an4 Polarization were most striking in the clearest skies led
+
+sleigh to conclude that the molecules of air itself, not
+“led dust particles, are responsible for the blue sky.
+
+Wavefronts propagate straightforward within a homoge-
+‘ous medium, and the effect of the medium is described
+{erm ofits average electromagnetic properties. Light se
+‘ers when it passes through a medium that contains inho-
+
+ 
+
+ 
+
+Light Scattering 635
+
+rogeneities on the scale of a wavelength, These may be
+embedded particles as in Tyndall's scattering experiments,
+‘or the molecules of the medium itself, as in Rayleigh’s theory
+Of the blue sky, However, Rayleigh’s molecular theory ap-
+plies only to gases, where itis proper to add the intensities
+of light scattered by individual molecules. In condensed mat-
+ter the medium is quite homogeneous on the scale of optical
+‘wavelengths, and the coherent addition of scattered ampli-
+tudes cancels radiation inal but the forward direction. Using
+2 different model suggested by Smoluchowski, Einstein in
+1910 described the weak light scattering from liquids in terms
+of thermodynamic density fluctuations within small volume
+elements of a continuous medium
+
+Descriptions of light-scattering phenomena can be clas
+sified as static or dynamic. Static descriptions include time-
+averaged angular distributions of scattered intensity and po-
+larization. One interesting case is the scattering of linearly
+polarized light from a single particle, ilustrated in Fig. 1. IF
+the scattering takes place within a surrounding medium of
+index re, and the vacuum wavelength of the incident light
+‘beam is Ao, the incident wave vector has magnitude ky =
+2ranlhy. The scattered light has wavelength As, and the mag-
+nitude of ts wave vector is ks = 2an/As. The incident beam
+propagates in the direction of the vector ko, and the scattered
+light travels from the particle to the detector inthe direction
+of ks. The two wave vectors determine the scattering plane,
+in which the scattering angle between them is denoted by 8.
+Inacommon arrangement the incident light is polarized with
+its electric field aligned along the normal to the scattering
+plane, often called the vertical direction and denoted here
+by the unit vector ey. The detector may select either the
+vertically polarized component or the horizontal component,
+with electric field aligned along ey.
+
+Electromagnetic scattering from a particle remains an in-
+teresting theoretical problem in itself. The exact solution for
+the scattering from an isolated sphere was obtained by Mie
+in 1908, but the only other exact solution fora finite particle,
+an ellipsoid of revolution, awaited the work of Asano and
+
+ 
+
+ 
+
+ 
+
+   
+   
+
+LIGHT
+
+SOURCE
+Dw
+% 4 DETECTOR
+s tS K
+
+Fic. 1. Light scattering from a single scattering center located at
+the origin ofthe coordinate system.
+
+250120310?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

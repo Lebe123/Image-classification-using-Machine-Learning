@@ -1,0 +1,199 @@
+ 
+
+Cel, Vo e2, 175-186, Jy 19, 890, Copyright © 1990 by Cet ross
+
+Growth Inhibition by TGF-B Linked to Suppression
+of Retinoblastoma Protein Phosphorylation
+
+Marikki Laiho James A, DeCaprio,t
+‘John W, Ludlow," David M., Livingston,?
+‘and Joan Massagué*
+
+“Howard Hughes Medical Institute
+
+‘and Cell Biology and Genetics Program
+Memarial Sloan-Kettering Cancer Cantar
+New York, New York 10021
+
+"Dana-Farber Cancer Insitute
+
+and Harvard Medical Schoo!
+
+Boston, Massachusetts 02115
+
+Summary
+
+‘The growth-suppressive function ofthe retinoblastoma
+Gene product, RB, has been ascribed to the under
+phosphorylated RB form that prevails during G1 phase
+{mn the cell cycle. Wo show that adaltion of the para-
+rine growth Inhibitor transforming growth factor bt
+(TGF-51) toMviLu lung epithelia colls in mid to late Gt
+Prevents phosphorylation of RB scheduled for this cell
+‘eycle stage and arrests cells In late Gt. Expression of
+'8V40 T antigen, a transforming protein that binds un-
+derphosphorylated AB, does not block the effect of
+‘TOF.p1 on RB phosphorylation but greatly reduces the
+‘growth-Inhlbitery response to TGF-31, TGF-O1 and RB
+‘appear to function in a common growth-inhibitory
+pathway In which TGEA1 acts to retain AB In the un-
+<derphosphoryleted, growth-suppressive state,
+
+ 
+
+  
+
+  
+
+Introduction
+
+Call proliferation can be restrained by limitations in the
+‘supply of mitogenic stimu, but also by the action of naga
+tive growth regulators. Evidence for paracrine growin
+hibitors ang intracellular growth suppressors is accumu:
+lating. Proposed or confirmed examples ofthis class of
+‘molecules include secretary palypemtide growin inhibitors
+lik transtorming growth factor 6 (TGF-8) and nuclear phos-
+‘phoprotans like tne retinoblastoma gene product. A ques
+tion that arises as different types of growth suppressors
+
+19 identi is whetner they could be part of com-
+‘mon growth.innibitory pathways.
+
+TGF. is a paracrine polypeptide found ubiquitously in
+vertebrates, and protoiypic ofa large family of metazoan
+Growth, citferontiation, and morphogenesis factors (lor
+Feviews see Massagué, 1987, 1990; Roberts ang Spor,
+1980). Wnin nis family, ta TOFS group incluces atleast
+three highly homologous genes (TGF-I, TGF-82, TOF63)
+present In humans and cther mammals, with additional
+‘Genes prosontin avian and ampnibian genomes (Osrynck
+
+al, 1885: Hanks ot al, 1968; ton Oj ot al, 1988;
+Lakoinlew ot al., 1988). Al TGES forms tested diay
+{rowth.nhibtory activity in normal or transformed epith
+
+I, endothelial, fibroblast, neuronal, lymphoid, and he
+‘matopoitic cell types (Tucker etal, 1984; Moses eal.
+1985; Roverts ot al, 1885; Kehr! ot al., 1986; Fre
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+   
+
+    
+
+50502604
+
+Schroder ot al, 1288, Ohta ot al, 1987; Kimehi at a.
+1988). Tho extont of the growth.inhibitory response to
+TOFS varies by call type, with lung epitnelial calls and
+keratinooy!es showing the strongest response, @ virtual
+‘growth arrest (Tucker ot al, 1984; Shipley etl. 1986). Un-
+{er certain conditions, txoblast cal lines and osteoblasts
+‘can be mitogenicaiy stimulated by TGF, and in some f-
+Droblasts this response appears to be secondary to pro:
+ucton o! autocrine mitegans (Shipley et al., 1985: Leot
+etal. 1986; Centrela tal, 1987) In adaition to hese ef-
+fects on col! proltration, TGF can positively or nega-
+tively affect the citferentiaton process or the expression
+of differentiated functions in colls of soveral lineages
+(Massague. 1930; Roberts and Sporn, 1990). Physiclog
+Cally, TGF 's implicated in morphogenesis, issue repair
+processes, anc fibrotic disorders. Some o! these actions
+‘may result in part trom tne abilty of TGF.) to regulate the
+expression of maitipie extracelisiar matrix proteins (ignotz
+fand Massagué, 1936; Roberts et a, 1985: Laiho at al.
+1986) and cai! acresion receptors (Ignetz and Massagud,
+1987; Heino et a. °969).
+
+The mechanism of growth inhibition by TOFD is vr-
+wally unknown. inhibited expression of growth-related
+genes (mc, XC. JE) by TGFB appears to play an impor.
+lant rte n certain endothelial. carcinoma, and keratino-
+‘70 els (Takonara tal, 1987; Farnander-Pol etal, 187,
+Coffey et a, 1988) but notin fibcoblasts (Chambard and
+Pouyssegur, 1988; Sorrentino and Bandyopachysy, 1989)
+‘The etfects of TGF on jun proto-oncogene expression do
+‘ot se0m to correlate with elfects on eal proliferation (Per-
+tovaara etal, 1989). TGS does net appaar n general,
+to inhioit ca growth by inactivating receptors fr growth:
+Promoting tactrs (Like and Massagué, 1986; Chambard
+‘and Pouyssegur, 1686), although this mechanism might
+‘operate in some cal types (Bryckaert otal, 1988; Gron-
+Wald et a., 1989). TGF binds with high aftiny to thes
+Call surface procoins (Cheifetz eta, 1987; Massagus et
+a, 1990}. Gonatic evidence has linked TOFD receptor
+'ypes | ang il to mediation of the growthinnbitory re-
+sponse to TGF. (Boyd and Massagué, 1989; M, L. and
+‘JM, unpudl'sned data). The third TGF-B Bining compo-
+ent, & membrane proteoglycan named betaglycan, has
+‘9 known lo in signal transduction (Cheitetz and Mas-
+‘agué, 1988; Anares ota, 1989).
+
+The reincblastoma gone (RBI) encodes @ procuct with
+Presumptive growth-suppressive activity This activity has
+been preciciea on 19 basis of tha phenolype of human
+familial retinoblastoma, a malignancy in which loss of
+function by m.tation or deletion of the two allees of the.
+tetinoblasioma gone is associated with oss of cel growth
+control (Knudson, 127%; Cavenee etal, 1983; Oryja ot a.
+1986; Friend st al, 1986; Fung et al, 1987; Leo ot al.
+19672). Detects in A131 In ether types of tumors, such as
+‘sarcomas and small cell lung carcinomas, indicate
+wider role for this gone in oncogenesis (Hansen et
+1985; Friend wt ai, 1986; Harbour etal, 1988; TAng et
+al, 1988; Horowitz et al, 1989; Bookstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+   
+
+ 
+
+    
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+   
+

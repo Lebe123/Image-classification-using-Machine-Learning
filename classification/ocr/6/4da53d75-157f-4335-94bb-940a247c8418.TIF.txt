@@ -1,0 +1,140 @@
+Developmen 12,472 (198)
+Prien Grol Btan The Company ol Bop Litas 194
+
+Mesoderm induction by acti
+
+ 
+
+Carole LaBonne and Malcolm Whitman*
+
+463
+
+requires FGF-mediated intracellular signals
+
+Program in Cell and Developmental Biology and Department of Cell Biology, Harvard Macical School, 25 Shattuck Street, Boston,
+
+MA 02118, USA.
+“Auer or eorespondonee
+
+‘SUMMARY
+
+We have examined the role of FGF signaling during
+activin-mediated mesoderm induction in Xenopus. Using
+‘dominant inhibitory mutants of FGF signal transducers to
+disrupt the FGF-signaling pathway at the plasma
+‘membrane or in the cytosol prevents animal eap blas-
+tomeres from expressing several mesodermal markers in
+response to exogenous activin. Dominant inhibitory
+‘mutants of the FGF receptor, e-ras or e-raf inhibit the
+ability of activin to induce molecular markers of both
+dorsal and ventral mesoderm including Xbra, Mix! and
+Xnot. Some transcriptional responses to activin such as
+
+ 
+
+INTRODUCTION
+
+During early Xenopus development, cells in the equatorial
+region of the embryo adopt a mesodermal fate in response to
+inductive signals emanating from the underlying endoderm. As
+‘mesodermal subtypes are regionally specified during this
+process and since mesoderm plays a critical role in gastrula
+‘movements and neural induction, undestanding the nature of
+the inductive signals and their response is erucial 19 under-
+standing the molecular basis of pattern formation.
+
+‘Several growth factors have been identified that can induce
+‘mesoderm in explanted animal pole cells (animal caps)
+(reviewed 1989; Whitman and Melton, 1989). Two
+such factors, bFGF and activin, are present in the embryo
+during the time of mesoderm induction (Asashima et a., 1991;
+Kimelman et al., 1988; Slack et al., 1987). In animal cap
+assays, both FGF and low concentrations of activin are capable
+of inducing ventrolateral mesoderm such as mesenchyme,
+kidney and muscle, while only high concentrations of activin
+can efficiently induce dorsal mesodermal tissues such as
+notochord (Green ct al, 1990; Slack et al., 1987; Sokol et al.,
+1990). A wide variety’ of mesodermal response genes have
+been identified during revent years, many of which can be
+induced by either PGF or activin, These include Xbra (Smith
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+etal, 1991), Xhox3 (Ruiz i Altaba and Melion, 1989), Xion
+(Costa et a, 1991) and Xn (von Dassow etal 1993)
+However, a subset of mesodermal marker genes, such as
+oosecoid (Cho etal, 1991) and Mex! (Rosa, 1989), appear 10
+respond only to activin. Marker genes that respond solely 10
+
+ 
+
+goosecoid and Xwni8 are inhibited less effectively than
+‘others, however, suxuesting that there may differing
+requirements for an FGF signal in the responses of
+mesoderm-specific genes to activin induction. Despite the
+requirement for this signaling pathway during activin
+induction, downstream components ofthis pathway are not
+activated in response to activin, suggesting that activin does
+not signal directly through this pathway.
+
+Key words: activin, FGF, mesoderm induction, signal transduction,
+Xenopus
+
+dermal markers, this suggests an apparent redundancy between
+PGF und low level activin signaling,
+
+‘The receptors for FGF and activin have been cloned and
+‘encode a protein tyrosine kinase and a protein serine/threonine
+kinase, respectively (Lee et al., 1989, Matthews and Vale,
+1991), Expression of dominant inbibitory mutants of these
+receptors has been shown to block ligand-mediated signaling,
+and this effect is rescued by co-expression of wild-type
+receptor, indicating that these receptors are indced responsible
+For inductive responses in embryonic cells (Amaya etal, 1991;
+Hemmati-Brivanlou and Melton, 1992). In embryos,
+expression of a dominant inhibitory PGF receptor percurbs
+posterior axial patterning (Amaya et al, 1991), while
+expression of a dominant inhibitory activin receptor can, in the
+most severe cases, completely block the formation of
+‘mesoderm (Hemmati-Brivaniou and Melton, 1992). The latter
+result is striking in light of the fact that FGF-signaling
+pathways are stil functional in these embryos, Indeed, animal
+cap explants expressing a dorninant inhibitory activin receptor
+show increased responsiveness to exogenous FGF (Hemmati-
+Brivanlou and Melton, 1992), making the lack of FGI
+mesoderm in embryos expressing the dominant inhibitory
+activin receptor puzzling. ‘These results suggest that although
+FGF is capable of inducing mesoderm in animal cap assays. it
+may not do so in whale embryos.
+
+‘One approach to elucidating the roles of FGF and activin
+during mesoderm induction is to examine and manipulate the
+cealy cytosolic responses to these growth factors. The activin
+receptor belongs t a novel family of (ransmembrane
+serine/threonine kinases and litte progress has becn made
+toward understanding how these receptors transmit signals
+
+  
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

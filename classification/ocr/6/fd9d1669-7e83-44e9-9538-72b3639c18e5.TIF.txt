@@ -1,0 +1,151 @@
+Reprinted fom Nature, Vel. 316, No. 6028, pp. 517-523, 8 August 1985
+© Mocmilon Journals Lid, 1985
+
+The murine T-cell receptor uses a limited repertoire
+of expressed V, gene segments
+
+Richard K. Barth’, Byung S. Kim’, Nancy C. Lan’, Tim Hunkapiller’,
+Nancy Sobieck’, Astar Winoto’, Howard Gershenfeld', Craig Okada’,
+Dan Hansburg', Irving L. Weissman’ & Leroy Hood”
+
+* Division of Blo, Clforia lnsiute of Techlogy, Pasadena, Caomia 1125, USA
+
+4 Department of Pathology Stanford Medical Schoo, Palo Alto, California 94304, USA
+| Department of Pathology, Fox Chase Cancer Cente, Philadelphis,Penasyvania 19311, USA,
+
+   
+
+   
+ 
+
+ 
+
+ 
+
+Only 10 different Vy gene segments were found when the sequences of 15 variable (Vg) genes of the mouse T-cell receptor
+were examined. From this analysis we calculate that the total number of expressed Vp gene segments may be 21 or fewer,
+which makes the expressed germline V, repertoire much smaller than that of the immunoglobulin heavy-chain or ligh-chain
+
+aenes. We suggest that B-chain somatic diversification is concentrated at the Vj-Dg-Jp junctions
+
+BOTH the Ticell receptor and the immunoglobulins are
+heterogeneous cell-surface glycoproteins that can recognize
+many antigens’. It is clear ftom genomic analysis that they
+share similar strategies for diversification, “T-cell receptor
+molecules are composed of o- and B-chains, each of which,
+like the immunoglobulin chains, is divided into variable (V) and
+constant (C) regions», The V regions together form the antigen-
+binding domain. The B-chain genes of the mouse are the most
+thoroughly. studied Tell" receptor genes. Like the
+immunozlobulin genes, they are divided imto separate Vp ver-
+sity (Dy and joining (J) gene segments that are assembled hy
+recombination during T-cell development to form a V, gene
+that is associated with ether of wo constant (Cpt and C42)
+aenes"®. There are six functional Jp gene scements clustered
+just upsiream of each Cp gene" and two Dy gene segments,
+‘Dgl.t, uostream of the Je! cluster, and D,2.1, upsteeam of the
+Jp2clister"*, The otal numberof Vp gene segments is unknown,
+Like immunoglobulins, the T-cell receptor Bechain has at its
+disposal three sources of diversity: a mulipliciy of germline
+gene segments’: combinational diversity through the assemb
+
+of diferent ¥, Dand J segments‘? a
+
+Immunoglobulin genes have three sources of somatic mutation:
+junctional fexbility atthe sites of gene-segment joining! "*:
+the addition of random aucleotides to either side of the D-gene
+Segment in the process of joining (N-region diversiy)"*: and
+Somatic hypermotation'®". Is known that chain genes use
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the first so processes but may not use the third",
+
+Tecell antigen recognition differs from that mediated by
+immunoglobulins in that T cells must recognize antigen in the
+context of a cell-surface molecule encoded by the major his-
+tocompatibilty complex (MHC), a phenomenon termed MHC.
+restiction’™'", T-cytotoxic (Te) cells, which ste capable of
+Killing virus-infected and tumour cells, are mainly restricted by
+class I gene products of the MHC™. T-helper (Ty) cells, which
+fare capable of enhancing B- or T-cell responses, are mainly
+restricted by class II MHC gene products T-cell receptor
+diversification mus therefore accommodate antigen recognition
+and recognition of highly polymorphic determinants on MHC
+molecules,
+
+‘To determine the extent of T-cell receptor diversity and its
+relationship to antigen MHC recognition, we analysed eight Vp
+genes from complementary DNA libraries of functional T ces
+fand thymocytes. We have compared these Vp gene sequences
+with seven from the literature and find that: (1) the expressed
+Vp gene ceperioite is probably small, pechaps less than 21
+members: (2) Vp protein segments are structurally similar to
+‘immunoglobulin V segments: and (3) there is no simple correla
+tion between antigen and MHC specificity and the use of par-
+tievlar chain gene segments
+
+ 
+
+    
+
+Expression of Vp gene segments
+We determined the nucleotide sequence of eight Vp genes
+‘obtsined from cDNA libraries that were constrcted from thy-
+mus cells, the Ty, hybridoma 19.2 specific for the eytochrome
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+le Charateitics and rigins of sequenced V, genes
+
+    
+
+ 
+
+Veaene Class ‘Swain Amipen/ MHC specify DB Reb
+234 1 BOA Cytochrome ¢/-ESE} 2 24
+192 tw IOATSR] AAMDASG/T-E® (ee ref. 22) in a :
+nasty cs7BLi6 enegglysozyme/I-A u Dow
+cs my corals Diniophenolovalbumin/1-A* a a)
+EL Ty BALBie Tenirophenol/1-A™ 4 Ho
+tee tr coAUe Chicken re blood cli/1-A* 2 nn)
+kos 1 BALE. He i feo
+ART % est i 1 Es :
+srt Thomoeste . u boy
+182 Tremoeste - z i :
+783 Taynoewte = 3 5
+
+TBI? Thymoene = or a :
+821 Tremocse : ‘
+TB2;Thsmoeyte = Nb
+BwS1s7 Tumour = s .
+“This paper.
+
+1 The three members ofthe VpR-subfamily ate denoted V8.1, ¥p:
+So litle of the Dy gene segment remais in the tearranged
+sequence. ND, wot determined
+
+ 
+
+nd Vp83.
+
+gene that iis imposible to know which Dy gene segment contributed the
+

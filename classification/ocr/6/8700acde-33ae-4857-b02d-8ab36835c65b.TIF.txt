@@ -1,0 +1,95 @@
+Lab Animal 20, 31-35 (laa) Sanuery
+
+A Transgenic Mouse
+Model for Genetic
+
+HE ROLE OF GENETIC TOXICITY testing |
+
+in hazard evaluation has varied
+cover the past 20 years. ly touted as a
+rapid, inexpeasive sereea for
+
+‘chemicals, icity is now considered a toxic effect
+in its own right: it is relevant to somatic mutations
+resulting in disease states such as artherosclerosis or
+‘immune dysfunction'®. Germ cell mutations result in
+dominant lethal effects, fetal wastage, and heritable reces-
+‘sive and dominant mutations’.
+‘The role of genetic toxicity testing as a predictor of
+is has been controversial; concordance stud-
+
+ 
+
+States.
+
+pesticides and drugs requires atleast a minimal battery of
+‘genetictests. Typically, such batteries consistofan Ames.
+‘est for mutation, atest for chromosome damage (citherin
+vitro of in vivo), and additional tests using cultured
+‘mammaliancell models. The cost of conducting abattery
+fora new compound would be approximately $20,000 to
+‘$50,000, depending on the tests included. The genotox-
+icity testing is of limited usefulness, though, because the
+data hearkens mostly from in vitro tests and cannot be
+used for mammalian hazard analysis. “Also, none of the
+‘common tests address the critical area of heritable genetic
+risk.
+
+Researchers never apply mammalian genetictesting to
+risk characterization relevant to somatic cell genetic
+disease or for heritable genetic risk assessment in hu-
+‘mans. Two primary reasons follow:
+
+ 
+
+ 
+
+ 
+
+Both authors are affiliated with Hazleton Laboratories.
+‘Send reprint requests to Brian Myhr at Hazleton Wash-
+ington, Inc., 5516 Nicholson Lane, Suite 400, Kensing-
+ton, MD 20895.
+
+Toxicology
+Studies
+
+ati ‘of chemical-
+genetic disease in mammalian
+species, cepecially humans, have not emerged,
+‘even with the aid of epidemiological studies.
+‘Mutation rate increases for recessive and domi-
+nant phenotypes only occur in pre-meiotic germ.
+‘ells of mice for a small number of highly reac-
+tiveagents. A few additional ageats are activein
+ost-meiotic germ cells of males**, Pre-meiotic
+‘ell mutation provides the greatest risk factor to
+the human population. It is also important to
+‘understand the contribution of both sexes to any
+riskcalculation. Itis noteasy toprovide answers
+to these issues using conventional technology;
+
+Risk
+
+Limitations of Animal Models—The current
+‘methods for measuring mutations in germ cells of
+‘mice are limited to a few procedures that require
+
+large numbers of animals and extended periods of 2)
+
+analysis’. With the exception of a very small
+‘number of agents, there is no information regard-
+
+ing dose-effective relationships*. Even thea, the
+results are not easy to characterize at the molecu-
+
+In level orto relate fo dooe levels approaching, &H
+those occurring in the environment.
+
+Because of the uncertainties involved with the end-
+point, and the extensive costs involved in screening
+
+31
+
+ 
+

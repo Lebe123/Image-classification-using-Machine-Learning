@@ -1,0 +1,121 @@
+An Automated Steam Distillation-Ultra Violet
+Absorption Method for the Determination of
+Nicotine Alkaloids in Tobacco and Smoke
+
+‘CORA W.AYERS
+
+Introd
+
+ 
+
+‘An automated procedure for the determination of
+nicotine alkaloids in tobacco and smoke is most
+desirable for a laboratory concerned with the rou-
+tine analysis of commercial tobaccos and cigarettes.
+
+‘The official, non-automated AOAC method (1),
+which is used in most laboratories concerned with
+the analysis of tobacco products, is precise and ac-
+curate; it mcorporates a steam distillation process
+to isolate the nicotine alkaloids followed by an ul-
+traviolet spectrophotometric assay. Automated
+methods (2, 3) have been developed for the deter-
+tion of nicotine alkaloids in tobacco, but these
+Ail javolve a colorimetric assay based on the react-
+
+ 
+
+   
+
+ 
+
+Figure 7
+
+ 
+
+ 
+
+Precenlea at the European Technicon Symposium,
+>Auiomauon in Analytical Chemistry, Paris, France,
+Nov 2,3, 4, 1966, by Cora W. Ayers, Research and
+Deveiopment Establishment, Britsh-American Tobacco
+Co. Lid, Southampton, England.
+
+ 
+
+107
+
+ 
+
+jon of nicotine with cyanogen bromide and this co
+Tour reaction is not as sensitive as the ultra-violet
+absorption measurement. In addition, in these pu
+Diished methods (3) the analyses are made on an
+aqucous extract of tobacco, without the preliminary
+steam distillation whichallows the nicotine alkaloids
+to_be isolated and freed from mostof the interfering
+substances. Whilst the steam distillation stage is not
+essential for some tobaccos, itis needed with to-
+bbaceos of low sugars contents and with all smoke
+solutions. It appeared worthwhile therefore, to de-
+velop an automated method, which is generally app-
+Ticable to both smoke and tobacco; such a method
+should incorporate a steam distillation to isolate the
+nicotine alkaloids, followed by an ultra-violet spec-
+trophotometric measurement.
+
+ 
+
+ 
+
+Apparatus
+
+A standard Technicon Sampler II and Proport-
+foning Pump are used. These are linked to a spe-
+cially designed steam distilation unit and to a
+Beckman DB spectrophotometer equipped with
+Alow-through cells which were also specially desig
+ned,
+
+‘Steam Disilation Unit
+
+‘The steam distillation unit consists of three main
+sections (Figure 1):—
+
+ 
+
+(1) a preheater;
+@) a heating unit;
+) a distilation unit.
+‘The preheater isa straight length of glass tubing,
+2 ft in length and 3/16 in (48 mm) O.D., and
+is connected to the heating unit by a glass U piece.
+The heating unit consists of a straight length of
+lass tubing 2 ft in length and 3/16 in. O.D., tightly
+
+ 
+
+ 
+
+The windings are interwound with asbestos paj
+and covered with two layers of woven asbestos tape
+to provide thermal insulation. Both the preheater
+and heating unit are mounted between asbestos end
+plates and enclosed in a metal jacket, (4 in.x4 in.
+cross-section), lined with asbestos. Power to the
+hheating unit is supplied via a Variac, set to give
+
+ 
+
+  
+
+ 
+
+ 
+
+Lbtscetosz
+
+ 
+
+ 
+

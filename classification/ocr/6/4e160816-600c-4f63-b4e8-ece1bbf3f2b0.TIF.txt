@@ -1,0 +1,127 @@
+Appendix = Nava Seoev
+
+Requirement of Nucleotide Exchange Factor for
+Ypt1 GTPase Mediated Protein Transport
+
+Sara Jones,* Robert J. Lit
+
+ 
+
+{,) Celeste J. Richardson,’ and Nava Segev**
+
+Departnents af “Pharmacological and Physiological Sciences, Molecular Geneties and Cel Biology und Biochemistry and
+Molecalar Biology, The University of Chicago, Chicago, Ilinois 60637
+
+Abstract. Small GTPases of the rab family are involved
+in the regulation of vesicular transport. Itis believed
+that cycling between the GTP- and GDP-bound forms,
+‘and accessory factors regulating thi cycling are crucial
+for rab function, However, an essential rote for rab mu-
+cleotide exchange factors has not yet been demon-
+strated, In this report we show the requirement of nu-
+cleotide exchange factor activity for Yptl GTPase
+‘mediated protein transport. The Yptl protein, a mem-
+ber ofthe rab family, plays a role in targeting vesicles to
+the acceptor compartment and i essential for the first
+two steps ofthe yeast secretory pathway. We use two
+YPTT dominant mutations that contain alterations in &
+highly conserved GTP-binding domain, N/2/F and
+DI2AN. YPTL-DI24N isa novel mutation that encodes
+a protein with nucleotide specificity modified from gun-
+nine to xanthine. This provides a tool for the study of
+an individual rab GTPase in crude extracts: a xan-
+
+thosine triphosphate (XTP)-dependent conditional
+dominant mutation, Both mutations confer growth in-
+hibition and a block in protein secretion when cx-
+pressed in vivo, The purified mutant proteins do not
+bind either GDP or GTP. Moreover, they completely
+inhibit the ability of the exchange factor to sti
+nucleotide exchange for wild type Yptt prote
+potent inhibitors of ER to Golgi transport in
+the vesicle targeting step. The inhibitory effects of the
+‘Yptl-D124N mutant protein on both nucleotide ex-
+change activity and protein transport in vitro can be re-
+lieved by XTP, indicating that it isthe nucleotide-free
+form of the mutant protein that is inhibitory. These re~
+sults suggest that the dominant mutant proteins inhibit
+protein transport by sequestering the exchange factor
+from the wild type Ypt] protein, and that this factor has
+an essential role in vesicular transport.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘way involves their orderly progression through ase~
+
+ries of membranous compartments (Palade, 1975).
+‘Transport between successive secretory compartments ap-
+pears to be mediated by vesicles (Jamieson and Palade,
+41067; Pfeffer and Rothman, 1987; Rothman, 1994). How.
+fever, the mechanisms that regulate the directionality and
+specificity ofthese vesicular transport steps are not known,
+‘The rab/¥ptl/See4 family of small GTPases has been
+shown to play a role in vesicular trafficking (Ferro-Novick
+nd Novick, 1993; Zerial and Stenmark, 1993). t hus been
+suagested that these proteins act at the different steps of
+the secretory pathway to ensure the fidelity of vesicular
+targeting (Bourne, 1988; Segev et al., 1988; Lian et al.,
+1984; Spgarrd et al, 1994). The ability of rab proteins to
+‘eycle between GTP- and GDP-bound forms is believed to
+be crucial for their function (Bourne, et al., 1990). The
+
+T: passage of proteins through the secretory path-
+
+ 
+
+ 
+
+ 
+
+‘TTowes end R. 3, Lit conelbuted equal 0 tis work
+
+‘Ate al cotespennce oN Seger, Dept of Prarmacologcal and
+geal Sclences 47 E, Sth Stee, Bon 271, Chicago, TL 0687
+eds G12) 723806 Fax (312) MDITH,
+
+0 The Rockeelle Unveiy Pes 002 88289091051711 $2.00
+Th houna Ce Bulgy, Vue 10, Naser 5, Septeber 1995 1081-106.
+
+shift from the GTP- to the GDP-bound form is accom
+plished by the endogenous GTPase activity of these pro-
+{eins, while the change from the GDP- to the GTP-bound
+form is achieved by nucleotide exchange. Most GTP-bind-
+ing proteins have slow intrinsic rates of guanine nucleotide
+eachange, and thus requite accessory factors to stimulate
+the exchange reaction
+
+“The importance of nucleotide exchange for function of
+rab-G TPases has been implied in several studies. Fist, rab
+proteins thet have a mutation analogous to ras-SI7N,
+Which tocks the GTPase in the GDP-bound form, have
+been shovn to inhibit protein transport in vivo and in vitro
+(Tisdale et al, 1992; Li and Stahl, 1993; Nuoffer et al,
+1994; Riederer et a, 1994; Stenmark et al. 1994), Second,
+the balk ofthe cytosolic pool of several rab proteins is ap
+parently in the GDP-bound state, since itis found in a
+Complex with GDP-dissociation inhibitory factor (GDI)!
+
+5. Atbrevitons sed thi paper CPY,crboxypeptise Y: EF. elongs-
+tion factor S FOA. $furo-ortc aid; CAP, GTPase-atvating aten
+GDS, GDP dissociation stimulators; GDL, GDP-dissociaton inibiory
+{bet Saffinos,syatheticrafinose, Yptp, Yptl protein: XTP,xan-
+shosine triphosphate
+
+ 
+
+1081
+
+ 
+

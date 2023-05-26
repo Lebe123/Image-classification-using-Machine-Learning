@@ -1,0 +1,115 @@
+ 
+
+The Effects of Smoking Policy
+
+on Indoor Air Quality '
+and Sick Building Syndrome
+
+in 18 Air-Conditioned Offices
+
+A. Hedge WA, Erickson
+
+ABSTRACT
+
+A study ofthe effets of smoking policy on indoor air qual-
+‘iy and sick building syndrome symptoms among 3,155 workers
+in I8 private sector air-conditioned office buildings is described.
+Five smoking policies were investigated: smoking prohibited,
+“smoking restricted to rooms with local filtration, smoking res-
+tricted to rooms with no local air treatment, smoking restricted
+{0 rooms with separate ventilation, and smoking restricted to
+the open-plan cubicle workstations and enclosed offices. Levels
+of carbon monoxide, carbon dioxide, respirable particulates,
+formaldehyde, ultraviolet particulate mass, nicotine, air tem
+perature, and relative humidity were measured at eight sample
+sites in each building. Approximately 30 workers at each of the
+eight somple sites completed an exiensive questionnaire on
+‘environmental conditions, sick building syndrome symptoms,
+{0b satisfaction, job stress, smoking history, and personal
+‘details. Indoor air quality measures met the current ASHRAE
+{92-1989 standard. Comparison of al open-office sites between
+policies showed no significant differences in levels of carbon
+‘monoxide, carbon dixide, formaldehyde, or respirable particu-
+lates. Levels of ultraviolet particulate mass and relative humid
+ity were significantly lower in buildings where smoking is
+prohibited, and ar temperature was significantly higher in these
+buildings, although on average this was <I°C. Among al bulld-
+‘ngs, air temperature was the only physical measure hat was sig-
+nificantly correlated with SBS symptoms. Smoking policy had
+ro significant effet on sick buildin syndrome symptoms.
+
+INTRODUCTION
+
+‘Tobacco smoking indoors has been identified asa source of
+‘a number of indoor air contaminants, especially particulate
+‘matter (Hodgson 1989; Van DeWiel etal. 1989) and combustion
+‘products (Godish 1990). Burning tobacco releases several thou-
+‘sand pollutants into theair, of which about 400 have been quan-
+tified (US, Surgeon General 1986). Environmental tobacco
+smoke (ETS) is an aerosol comprising vapor and particulate
+phases, both of which contain many organic and inorganic com
+pounds (Eatough etal. 1988). ETS is a combination of side-
+stream smoke ($8) from the burning cigarette and exhaled
+
+G. Rubin
+
+‘mainstream smoke (MS) from the smoker (Guerin et al. 1987;
+Reasor 1987). The exposure of nonsmokers to second-hand
+stoke is termed “passive smoking!” Passive smoking has been
+linked toa variety of health problems, including ung cancer and
+‘cardiovascular disease (OTA 1986; Samet eta. 1987).
+
+‘Throughout the past decade, concerns have grown about
+the association between indoor air quality AQ) in the work:
+place and a variety of health complaint, including symptoms of
+the “sick building” syndrome. The sick building syndrome
+(SBS) describes a collection of nonspecific symptoms, including
+eye, nose, and throat irritation, mental fatigue, headaches,
+nausea, dizziness, and skin irritation, which seem to be linked
+with occupancy of certain workplaces (WHO 1983; Burge etal.
+1987), SBS symptoms are experienced at work but are alleviated
+‘when away from work for any period of time. SBS complaints
+among office workers are thought to be caused by poor IAQ, but
+substantial empirical evidence suggests that SBS problems arise
+from the combined effects of a variety of environmental and
+nonenvironmental risk factors (Hedge 1989; Hedge et al. 1989).
+
+‘Tentative evidence of an association between passive smok-
+ing and SBS complaints in U.K. offices has been reported
+(Robertson et al. 1987), but this has not been systematically
+investigated. Indeed, SBS complaints are more frequent among
+smokers (Hodgson and Collopy 1989). In recent years, many
+‘companies have introduced a smoking-probibited policy, but
+since up to 30% of workers may be smokers, implementing such
+1 policy may not be the most cost-effective alternative. To
+balance the requirements of nonsmokers and smokers, other
+‘companies have implemented spatially restrictive smoking poi-
+cies, which confine smoking to certain areas of the building.
+Such polices attempt to minimize any widespread ai pollution
+{rom cigarette smoking through dilution ventilation, localized
+filtration, or separate ventilation.
+
+‘This paper summarizes findings from an ongoing research
+project investigating the effects of diferent smoking polices on
+IAQ and SBS complaints in air-conditioned private sector
+office buildings. Results for 18 office buildings using five dffer-
+‘ent smoking polices ae described.
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘Alan Hedge and William A. Erckcon are inthe Department of Design and Environmental Analysis, Cornell University, Ithaca, NY. Gall Rubia isin
+
+the Biometres Unit, Cornell University.
+
+BrOBOL Tg
+

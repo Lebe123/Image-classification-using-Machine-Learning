@@ -1,0 +1,75 @@
+Assessment of Conducting Polymer Odour Sensors
+for Agricultural Malodour Measurements
+
+Krishna C. Persaud, Soad Mohiaidin Khaffaf, Philip J. Hobbs" and Robert W. Sneath*
+
+ 
+
+iisge Research Institute, Wrest Park, Sisoe,
+
+tment of Instrumentation and Analytical Science, UMIST, Manchester M60 1QD, 'AFRC Institute of
+sand and Environmental Research, North Wyke Research Station, Okehampton, Devon EX20 25B and
+edfordshire MKAS 4HS, UK
+
+Correspondence to be sent to: K.C. Persaud, DIAS, UMIST, PO Box 88, Sackvile Street, Manchester MO 1QD, UK
+
+Abstract
+
+ 
+
+«2 major odoriferous components of fresh pig slurry were identified using gas chromatography coupled to mass
+spectrometry. From the analytca! data, a standard artifical slurry was reconstituted, The performance of conducting
+polymer odour sensor arays was evaluated using the individual chemical volatile components and the artificial slurry
+itself. Most ofthe components are discriminated fram each other, when presented singly to the sensor array. The
+sensors are not poisoned by the chemicals and give reproducible responses over a3 month period. The edour
+components being detected from an artificial alkaline pig slurry appear to be astoiated with patterns obtained from
+indole, skatole and ammonia. The intensity ofthe signalis proportional to the concentration ofthe volatiles
+~esented to the sensor. The results indicate that condlcting polymer sensor arays show promise for measurement
+
+ 
+
+introduction
+
+The practise of intensive livestock farming, and the
+problems associated with the treatment and disposal of
+cvs has raised public awareness of agricultural malodours
+2 vironmental pollutants (Jones, 1977; Shusterman,
+1992), Such odours may be released from ventilation
+sysems in farm buildings, waste storage aad slurry
+treatment systems, and the spreading of sluries on
+agricultural land. Matodours emanating from ow and pig
+slurries are an increasing source of eavironmental pollution
+(ONeill and Philips, 1991). Many substances produced
+daring the anaarobic digestion of faeces have very low
+1 san olfactory thresholds and so are perceived as odour
+Auisances even when their concentrations i ac ae very owe
+These include volatile fatty atid, preretol, amines
+
+© Oxford University Pres
+
+gricultural maledours, and may complement olfactometrc techniques. Chem. Senses 21: 495-508, 1996,
+
+sulphides, dislphides, mercaprans and many heterocyclic
+compounds (Schaefer, 1977; Willams, 1984). It has been
+reported that environmental odours greatly affect the
+Piysiological and psychologzal starus of @ human popula-
+tion. A recent study on the effet on a population exposed to
+aalodours ‘tom pig farms reports more tension, depression
+and anger, reduced vigour, increased fatigue and more
+confusion than a control population (Schiffman e ol,
+1995).
+
+The narure of very odourous compounds is such tha they
+are doteted by the human ose even when less odourous
+compounds are present at higher concentrations For an
+odorant, the peresived intensity of odour is proportional to
+a fractional power of the conceatration. Methods of odour
+
+ 
+
+ 
+
+ 
+
+89z%Ss2sz0z
+

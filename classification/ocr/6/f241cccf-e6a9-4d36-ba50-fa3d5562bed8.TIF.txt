@@ -1,0 +1,128 @@
+4
+
+DR. C.R.E. COGGING conn
+
+“TOXICOLOGY AND APPLIED PHOARMAGOLOGY TI
+%
+
+A Physiologically Based Pharmacokinetic Model for Nicotine Disposition
+in the Sprague-Dawley Rat
+
+Davin R. PLOWCHALK*+ MELVIN E, ANDERSEN, AND J. DONALD DEBETHIZY {*
+
+“Deke Univesity Mediect Comer, Itgrted Toicloay Program. Ha 3
+
+1005, DvlsonBuldng, Durham, Nor Carling 27710: Chemica dry
+
+Tse of Tricoigy, Rewarch Trinale Park. Nor Carelin: ond ¥R +. Reyoits Tobacco Company, Pharmacol Dion
+‘Buling 6302, Winston Salem, Now Carolina 27102
+
+Recsived September 3,
+
+A Physiologically Based Pharmacokinetic Made! for Nicotine
+Disposition in che Sprague-Dauiley Rat. PLowcwtk, D. Ro.
+ANDERSEN, M. E., AND DEBETHIZY, J.D. (1992). Toxicol. Appl,
+Pharmacol. 16, 177-188,
+
+A physiologically based pharmacokinetic (PRPK) mode!
+was developed to describe the disposition of nicotine in the
+Sprague-Dawley (SD) rat, Parameters for the model were
+cither obtained from the literature (blood flows, organ vol-
+umes) or determined experimentally (partition coefficients)
+Nicotine metabolism was defined in the liver compartsnent
+by the first-order rate constants Ki and Kp which control
+the rate of nicotine metabolism to cotinine and “polar me-
+tabolites” (PM), respectively. These rate constants were es-
+timated by optimizing the model fit to pharmacokinetic data
+‘obtained by administering an intraarterial ($)-[5-H] nicotine
+bolus of 0.1 mg/kg to 6 rats. Model simulations that optimized
+for the appearance of cotinine in plasma estimated Kyc and
+Kp to be 75.8 and 24.3 hr“*, respectively. Use of these con-
+stants in the model allowed us to accurately predict nicotine
+plasma kinetics and the fraction of the dose eliminated by
+rena) (8.5%) and ruetabolic (91.5%) clearance. To validate
+the model's ability 10 predict tissue kinetics of nicotine,
+21 male SD rats were administered 0.1 mg/ke (S)-I5-
+HiJnicotine intraarterially. At seven time points following
+treatment, 3 rats were euthanized and tissues were removed
+and analyzed for nicotine. Model-predicted nicotine tissue
+kinetics were in agreement with those determined experi-
+mentally in muscle, liver, skin, fat, and kidney, The brain,
+heact, and lung exhibited nonlinear nicotine elimination, sag
+‘esting that saturable nicotinic binding sites may be important
+in nicotine disposition in these organs. Inclusion of saturable
+receptor binding expressions in the mathematical description
+of these compartments resulted in better agreement with the
+experimental data, The Baa, and Ko estimated by model sim-
+ulations for these tissues were brain, 0.009 and 0.125 lung,
+0.039 and 2.0; and heart, 0.039 nmol/tissue and 0.12 ns,
+respectively. This PBPK model can successfully describe
+the tissue and plasma kineties of nicotine io the SD rat and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"To whom correspondence shoul! be aes
+
+991; acxped dune 2 1992
+will be a useful tool for pharmacologic studies in humans
+and experimental animals that require insight into the
+plasma or tissue concentration-effect relationship. © 192
+
+ 
+
+ 
+
+ 
+
+Human exposure to nicotine can occur through the con-
+sumption of tobacco products, exposure to environmental
+tobacco smoke (ETS), pharmaceuticals such as Nicorette
+sgum, use of nicotine-based insecticides, and dietary sources
+‘Sheen, 1988). Tobacco use represents the most substantial
+exposure 10 nicotine. Surveys by the Centers for Disease
+‘Control indicate that 26.5% ofthe adult US population are
+smokers (CDC, 1987). This extensive use of tobacco in our
+society has generated concern over the potential health risks
+associated with nicotine (DHHS, 1989). Accurately pre-
+dicting nicotine uptake and disposition in humans isa nec-
+essary step in assessing the potential adverse health effects
+of nicotine. Although plasma pharmacokinetics have been
+extensively documented in animals(Kyerematen eta. 1982,
+1987, 1988: Adir tal, 1976; Rotenberg et al. 1980) and
+‘humans (Rosenberg ea, 1980; Scherer eral, 1988; Kyee
+ematen «al, 1990), the relationship between plasmia con-
+centrations, tissue concentrations, and pharmacologic or
+toxicologc effects are not well understood,
+
+The principal pharmacologic actions of nicotine are me-
+ated through central and peripheral nicotinic receptors (Su,
+1982; Lippielo and Fernandes, 1986). These effets bave
+been reported tobe dose dependent znd include modulation
+of cardiac functions (Rosenberg etal, 1980), brain electro
+physiology (Clarke, 1990), and systemic vascular blood flow
+(Benowitz e a, 1990: Henrich eral, 1984). In addition,
+recent evidence that chronic nicotine administation results
+{nan increas in the density of nicotinic cholinergic receptors
+in the mammalian brain has resulted in. the experimental
+administration of nicotine to Alzheimer’s patients (New-
+house etal, 1988; Sahakian ef al, 1989). To understand
+how these pharmacologic effects are related (0 aiotine ex-
+
+” ont vonx2 $5.00
+orig © 192 by Aeatonie Pres ne
+‘nual preter nay oem pone
+
+BLeLS798
+

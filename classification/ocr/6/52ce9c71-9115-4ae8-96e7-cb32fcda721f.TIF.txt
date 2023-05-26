@@ -1,0 +1,164 @@
+Exp, Hematol. 18:89-93 (1990)
+(© 1990 Intemational Society for Experimental Hematology
+
+Experimental
+Hematology
+
+Selective Photosensitization of Human Leukemic Cells
+
+by a Pyrene-containing Fatty Acid
+
+Eitan Fibach,! Shimon Gatt,? and Eliezer A. Rachmilewitz"
+"Department of Hematology, Hadassah University Hospital, and "Department of Mesrane Biochemistry and Neurochemistry, The Hebrew
+
+University-Hadassah Schoo! of Medicine, Jerusalem, Israel
+
+(Received 2 February 1989; in revised form 29 March 1989; accepted $ July 1989,
+
+Abstract. radiation with long-wave UV light (LUV) at
+366 nm of cells that had been incubated with 12-(\-py-
+rene)dodecanoic acid (P12), a fatty acid derivative with
+covalently linked pyrene nucleus, resulted in cytotoxicity
+Using the in vitro established human cell ines HL-60 and
+1U-937, we demonstrated that these leukemic cells are much
+more susceptible to the photosensitizing effect of PI than
+normal bone marrow (BM); a 4-log reduction in the number
+of clonogenic leukemic cells was achieved under conditions
+‘where colony formation by normal hemopoietic progenitors
+was reduced by <40%, Moreover, the results of irradiating
+‘mixed populations of leukemic and normal cells indicated
+that phototoxicity of leukemic cells was not affected by the
+presence of a large excess of normal BM cells, nor was the
+survival of normal BM cells influenced by the presence of
+leukemic cells. These findings suggested that the procedure
+‘could be adapted for selective ex vivo elimination of malig-
+nantcells,i.¢,,purging of BM in remission prior to autologous
+transplantation.
+
+ 
+
+Key words: Purging — Autologous bone matrow transplantation
+Photodyoamic therapy
+
+   
+
+ 
+
+Methods for purging neoplastic cells from harvested marrow
+are being developed to increase the efficacy of autologous
+‘bone marrow (BM) transplantation (1-3). One approach is
+selective photosensitization, using sensitizing compounds and
+fight radiation (4, 5]. The variety of compounds shown to
+exert @ photosensitizing effect includes the hematoporphy-
+‘ins, phuthlocyanines, and meroeyanines [6-8]. These well-
+studied fluorescent compounds are taken up preferentially
+by tumor ceils and undergo photoexcitation when exposed
+toappropriate nonionizing radiation. We have recently shown,
+that 12-(L-pyreneytodecanoie acid (P12), fatty acd to which
+1 pyrene ring has becn covalently linked, isan eficent and
+selective photosensitizing agent [9]. Among the various py-
+rene-containing fatty acids studied, P12 was most effectively
+transported across the cell membrane and subsequently in-
+‘corporated into the cell's neutral-and phospholipids (10, 11}.
+Celis of different types and stages of maturation were found
+to vary in their rate of P12 uptake and incorporation {12]
+Incubation of cells with P12, followed by irradiation with
+long-wave UV light (LUV) at 366 nm resulted in cellular
+
+  
+
+ 
+
+“ares ofr requ 1: Dt Eibach Depa of Hem
+cia ei Givers Hospi, PO Bor 300, Jee
+SU
+
+ 
+
+ 
+
+50588593
+
+toxicity, which was related to the intensity of irradiation as
+‘well as fo the rateand extent of P12 uptake [9 13]. The latter
+could be influenced by modifying the incubation conditions,
+such as P12 concentration, addition of serum albumin, in-
+clusion of ronfluorescent fatty acids, or changing the tem-
+perature (1). Consequently, all these parameters also af-
+fected pho:osensitization of the cells. The procedure proved
+tobe efficient in selectively eliminating certain cell types and
+sparing other, more cesistant cells [9], The higher sensitivity
+of some undifferentiated leukemic cells, as compared with
+theiedifercatiated nomleukemic progeny, suggested that this
+procedure might be utilized for selective elimination af ms
+lignant cells trom bone marrow prior to autologous trans
+plaatation
+
+In the prosent study, we tested the potential usefulness of
+P12 as a pursing agent using human leukemic cell ines and
+normal bone marrow cells as model systems. The results
+demonstcated 2 preferential phototoxicity against leukemic
+cells under conditions in which normal hemopoietic progen-
+iors were preserved.
+
+  
+
+ 
+
+   
+
+ 
+
+ 
+
+Materials and methods
+
+Celis and cisre conditions. The HL-60 cell in, originally esta-
+lished trom :ne perpheral blood ofa paient with acute promyelo-
+‘ytic leukemia [1 5), and U-997, a monoblasic eel line established
+from a potent wath histioevtie ymapbome [16], were Taaitained in
+Alpha rhunital essential mediom supplemented wath 10% fetal bo-
+‘ine scrum (FBS, both from GIBCO, Grand Island, New Yoro,
+Cells mere subcultured every 3-4 days ata density of 23 » 10° cell’
+rain Gesh mediom and serum, and incubated at 37°C ina humidie
+fed atmosphere of $% CO. in air.
+
+‘Normal bore msrrow was obtained by aspiration from the pos
+terior hac crest of healthy donors ater informed written consent.
+BBM moncruclear cell were enriched by centnfugation ona Ficoll-
+Hypaqve gradient (1.077 g/em) and the low-density cells were col-
+lecteg, washed, and resuspended in alpha medium,
+
+ 
+
+Incabe:ion
+
+ 
+
+12. A solution of 1 mM PI2 (Molecular Probes
+‘Oregon) in ehloroform:methanot (2:1
+
+jer a stream of nitrogen and dissolved
+jn dimethslsufexide (DMSO) to a concentration of 4 mW. Fifty
+fnicriltes ofthis solution were added pr 1 ml FBS, admixed, and
+stat 8° for | fu Cells serumffee medi were added
+
+con continuing fran additional hour. Unless otherwise
+nal concentrations in the incubation mixture were:
+FBS, 10% P12, 20 wht and DMSO, 0.5%. Exposure
+(ofthe els 10 0.5% DMSO dusing incubation, followed by extensive
+no dsceribleefect on cel viability cloning efeency,
+
+ 
+
+ 
+  
+ 
+  
+
+ 
+
+ 
+
+ 
+

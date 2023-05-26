@@ -1,0 +1,59 @@
+Bacty's Igdvstrial Hygiene and Toxicology Vol:3A ch:07-202 The Fundamentais be
+
+2.2 The Fundamentals behind the TLVs
+
+The ACGIH TLVs and most other OELs are limits that refer to airborne concentrations of
+substances and represent conditions under which "it is believed that nearly all workers may be
+repeatedly exposed day-after-day without adverse health effects" ((4) ACGIH, 1992). It is important to
+recognize that unlike some exposure limits for ambient air pollutants, contaminated water, or food
+additives set by other professional groups or regulatory agencies, exposure to the TLV will not
+necessarily prevent discomfort or injury for everyone who is exposed ((7) Adkins et al., 1990). The
+ACGIH recognized long ago that because of the wide range in individual susceptibility, a small
+percentage of workers may experience discomfort from some substances at concentrations at or below
+the threshold limit and that a smaller percentage may be affected more seriously by aggravation of a
+preexisting condition or by development of an occupational illness (47) Cooper, 1973; (140) Omenn,
+1982; (4) ACGIH, 1992). This is clearly stated in the introduction to the ACGIH's annual booklet
+“Threshold Limit Values for Chemical Substances and Physical Agents and Biological Exposure
+Indices" ((4) ACGIH, 1992). :
+
+This limitation, although perhaps less than ideal, has been considered a practical one since
+airborne concentrations so low as to protect hypersusceptibles have traditionally been judged
+infeasible due to either engineering or economic limitations. This shortcoming in the TLVs has, until
+the past 4 years, not been considered a serious one. If society wishes to significantly reduce
+workplace exposures, by using engineering controls and personal protective equipment, it is now
+possible to do so. In light of the dramatic improvements of the past 10 years in our analytical
+capabilities, personal monitoring/sampling devices, biological monitoring techniques, and the use of
+robots as a plausible engineering control, we are now technologically able to consider more stringent
+occupational exposure limits. Whether we are willing to invest the financial resources needed to
+control workplace exposure to much lower levels or whether it makes good economic sense to do so is
+not yet known ((222) U.S. EPA SAB, 1990).
+
+ 
+
+Threshold limit values, like most other OELs used in other countries, are based on the best
+available information from industrial experience, experimental human and animal studies, and, when
+possible, from a combination of the three ((196) Smith and Olishifski, 1988; (4) ACGIH, 1992). The
+rationale for each of the values differs from substance to substance. For example, protection against
+impairment of health may be a guiding factor for some, whereas reasonable freedom from irritation,
+narcosis, nuisance, or other forms of stress may form the basis for others. The age and completeness
+of the information available for establishing most occupational exposure limits also varies from
+substance to substance; consequently, the precision of each particular TLV is subject to variation. The
+most recent TLV and its documentation should always be consulted in order to evaluate the quality of
+the data upon which that value was set.
+
+The background information and rationale for each TLV is published periodically in the
+Documentation of the Threshold Limit Values (ACGIH, 1989). Some type of documentation is
+‘occasionally available for OELs set in other countries. The rationale or documentation for a particular
+OEL should always be consulted before interpreting or adjusting an exposure limit, as well as the
+specific data considered in establishing it ((4) ACGIH, 1992).
+
+Even though all of the publications that contain OELs emphasize that they were intended for use
+only in establishing safe levels of exposure for persons in the workplace, they have been used at times
+in other situations. itis for this reason that all exposure limits should be interpreted and applied only by
+someone knowledgeable of industrial hygiene and toxicology. The TLV committee did not intend that
+they be used, or modified for use:
+
+2073095202
+
+John Wiley & Sons, Inc. 1998. ALL rights reserved. = a
+

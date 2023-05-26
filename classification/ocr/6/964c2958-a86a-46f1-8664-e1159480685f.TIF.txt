@@ -1,0 +1,55 @@
+Journ of Biologics! Rhythms, Vol. 5, No. 3, 1990, pp. 287-255
+
+Temporal Structure of In Vivo Adrenal Secretory E
+Activity Estimated by Deconvolution Analysis
+
+Johannes D. Veldhuis,*' Michael L. Johnson,t Ali Iranmanesh,t and
+
+German Lizarraldet
+
+*Interdisciplinary Graduate Biophysics Program, Divison of Endocrinology and
+Metabolism, Department of Internal Medicine, and ‘Sections of Biomathematics and
+Interdisciplinary Graduate Biophysics Program, Department of Pharmacology, University
+of Virginia Health Sciences Center, Charlottesville, Virginia 22908; *Division of
+Endocrinology, Department of Medicine, Salem Veterans Administration Hospital, Salem
+Virginia 24153
+
+Abstract Circadian and utadian shyms of plasm cotsol concentrations have been documen
+under physiological conditions in diverse animal species. Using novel, biophysical convolution model
+to remove subject-specific metabolic clearance rates, we have now estimated spontaneous ae
+secreory events in vive. The later were characterized by prominent ultadian rhythms of dis
+screory bursts with prides averaging 32, 46,76, and 130 mia. These ulzadian cortisol see.
+shyt represented a 17- to 240-fld larger faction of circadian seretory variations than dd contol
+‘concenttionshythms. We conclude that deconvolution analysis can unmask underlying ulead
+stythms in adrenal secretory activity én vivo.
+
+Physiological cicadian and ultradian rhythms in plasma cortisol concentrations have been
+recognized in a variety of animal species under various conditions of health and disease
+(Perkoff et al., 1959; Onh etal, 1967; Hellman et al., 1970; Weitzman ct al., 1971; Srivastva
+and Meier, 1972; Walter-Van Cauter et al., 1981; Ottenveller et al., 1986; Krieger ahd
+Aschoff, 1989). Such rhythms in the circulating concentrations of glucocorticoid hormone
+are associated with major adaptive responses of organisms to environmental cues, sre
+and other externally originating and intemally derived stimuli (Krieger and Aschoff, 198
+‘Variations in blood cortisol concentrations overtime are assumed to confer varying degrees
+‘of agonist exposure to the target cell. However, such temporal oscillations in plasma glu-
+<cocorticoid concentrations do not directly reveal the physiological nature of adrenal glandular
+secretory activity, since plasma hormone concentrations result from the combined operation
+of secretory events and endogenous subject-specific metabolic clearance rates (Veldhuis| et
+al., 1987; Urbanet al, 1988). Accordingly, despite the vast experimental literature describ
+
+th tegration cori] concent ht ae he wget lod te
+is relatively litle knowledge of the nyetohemeral and ultradian features of adrenal cortical
+secretory events per se. Such information is of interest, since regulation of endocrine glandular
+secretory rhythms can be anticipated in various settings.
+
+ 
+
+|. To whom al conespondesce shuld be addressed, at Box 202, Univeniy of Virginia Heath Seienes Cee,
+Chatonesil, Virginia 22908.
+
+7
+
+ 
+
+ 
+

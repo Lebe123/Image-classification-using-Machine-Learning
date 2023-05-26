@@ -1,0 +1,217 @@
+ 
+
+The Biosynthesis of Membrane-derived Oligosaccharides
+
+A MEMBRANE-BOUND PHOSPHOGLYCEROI.
+
+Barbara J. Jackson and Bugene P. Kennedy}
+
+ 
+
+(Mteceive for publication, September 21982)
+
+From the Department of Biological Chemistry, Harvard Medical Sol, Huston, Massachusetts 02118
+
+ 
+
+ved oligosnecharides, found in the
+Escherichia coli periplasmic space (Schulman, Hund
+Kennedy, B. P. (1979) J. Bacteriol. 137, 686-688), are
+composed of 8-10 units of glucose, the sole sugar, in
+3-2 and fil-+6 linkages (Schneider, J. F., Reinhold,
+\., Rumley, M. K., and Kennedy, E. P. (1978) J. Biol.
+Chem. 254, 10135-10188). Oligosaccharides in this fam-
+ily are variously substituted with succinyl ester resi-
+dues, ax well as with 6n-I-phosphoglycerol and
+phosphocthanolamine, both derived from membrane
+Phospholipids. These negatively charged oligoxwecha-
+Fides may function in cellular osmoregulation since
+their evnthesis is under osmotic control (Kennedy,
+P. (1982) Proc. Na U.S. A. 79, 1092-1095).
+
+‘We now report initial characterization of an enzyme
+catalyzing transfer of phosphoglycerol residuee from
+phosphatidylglycerol to membrane-derived oligosuc-
+charides or to synthetic f-glucoside acceptors. The
+products are en-1,2-diglyceride and f-glucoside-6-phos
+phoglyeerol. Localized in the inner membrane, th
+transferase has a requirement for divalent cations, of
+which manganese is most effective, and a pH optimum
+of 8.9 in vitro.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MDO' ate 8 family of compounds found in the periplasmic
+space of Escherichia coli and other Granvnegative bacteria
+(Q), Glucose, the sole sugar forms 8 branched backbone of &-
+120 units joined by 12 and f1-+6 linkages (2). The glucose
+backbones are substituted to varying derees with lipid-de:
+
+ved sn-l-phosphoglvcerol and phosphocthanolamine in
+phosphodiester linkage (3, 4), es well as with succinic ecid in
+ester linkage (6)
+
+"The aynthesis of MDO is regulated by the osmolarity of the
+mediom (6). When osmolarity is low, MDO may constitute
+7% of the calls! dry weight. Two proposed functions of MDO
+fare maintenance of the high periplasmic osmolarity and, with
+their net negative charge, generation of a Donnan potential
+‘cross the outer membrare (6, 7),
+
+‘A model outlining # possible pathway for the biosynthesis
+of MDO (Fig. 1) has been presented (8). In this model, an
+‘essential precursor is UDP-glucose (9), whose glucose residues
+are thought to be transferred to lipid carter. These nascent
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+“This work was supported by Grants GM 19822 and GM 22057
+{rom the National Institute of Generel Medial Sciences The costo!
+publication of this article were defrayed in art by the payment of
+page charges. This article must therefore be hereby marked “adver
+Tisement™ in accordance with 1€U S.C. Section 1794 solely t indicate
+thie fat,
+
+To whom correspondence and reprint requests should be
+ress,
+
+"The abbreviation used i: MDO, membrane-derived oligosaccha
+rides,
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘oligesaceharide chains may then serve as acceptors for sn)
+phosphoglycerol residues transferred from phosphatidylglyc
+‘rol by the membrane-bound transferase whose discovery is.
+described here. A second, periplasmic phosphoglyceroltrans-
+ferase has been partially purified and characterized (8). It has
+‘heen proposed that the periplasmic enzyme, which does not
+utilize phosphatidylglycerol as a source of phosphoglyceral
+residues, functions in the formation of multiply substituted
+soluble forms of MIJO in the periplasmic compartment (8)
+
+ 
+
+   
+
+MATEIUALS AND METHODS
+
+Iacteriad Struins—B, ev seaine TPR (arf pi) (10, N28,
+(elo gi ein pod) 1), sed ABNISS (12) weteguown at SC
+‘ith igorous aeration one rotary shiker
+‘Treparation of Entynt—DF2M was grown in low oamolarity
+rediums (6) mitog phase. Solsequent steps were cari oot at
+OAC. Cale harvested through centrifugation were washed once,
+resuspended in 00 H Trix chloride ule, pH 7, end disrupted a
+so Brench press. After unbroken cals were
+at 3200 > p, nenrares were pelleted st
+Wo. x g for 1h, They were resuspended wsing 8 Dounce homo
+nize O05 3 Techie butfer, pH 78, and fczen at ~20°C in
+‘eweral portions, Enzyme thawed mare than twice was not used
+TPhusphogiycerol Transferase Assay~—The mevbation mista i
+ffi! volume of 2 nl conteined OOo ¥¢Vricchloride butler PILE,
+[50 mi figlucoside, 10 mot 2-merceptocthanal, 025 mae NaC, 1
+mg/ml of sodium teuredeoxyehalate, and 40 nmol of racemic phos
+Thatidlelperol (Sigma pus Eelam [2-elycera labeled phos
+Dati glverol to ied specific exit of 2000-8000 cpanel of
+racemic phosphatidsigvceral. The Sigma product is produced by
+rsphosphatdylation of egg phosphatidleholne the principal ft
+leide of which are 160, 180, 161, ond 182. After addition of the
+rmensbrane enzyme (sutly about 0.1 mg of protein), the mixture was
+incubated for 2h al 37°C. The reaction was stopped by addition of
+(05 ml of NaOH (01 y) After 10 min at room temperature, 01 ml of
+bovine serom album (mg/m ene aed, tmmediatels followed
+by Ob yl of tihloroseetic aed (Q8 9). After 10 an ot ee, recipe
+tues were removed in en Eppendorf centrifuge, A portion (1 ra of
+‘ach supernatant was shshen with Of mt of a suspension of Nori A
+‘harcoal (0 mg/l for 15 mince an Bberback reciprocating shaker,
+‘The charcon was washed twice ty centeifuption with 1 mi prions
+cof water te remove unadsorbed radioactive substances. MDO and the
+sntheti eslucondes employed in this work wee srengly adsorbed
+‘nto chareoal under the conditions employed. The radioactive prod:
+tet formed ty the etaymic transfer of phosphoglserol ftom sn?
+“ajalyceroMabeled phosphatdslelycerl tothe glucoside acceptors
+vat then eloed by sheking the charcos with 12 mot henay alcohol
+{aturated water for Thor with 12 mal of 18 (0/4) aqueous psd
+‘ettnfugation, radiosetity ine portion of the eluate was
+mined witha scintillation counter. For calculations, equal epe
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+       
+
+ 
+
+    
+
+    
+
+  
+
+ 
+
+   
+
+ 
+
+‘ol was used as the basis forthe calelation of speifc
+tlthough ici possible tat onle the naturally eccoring phosphatiy)
+fn-Lglycerol isthe ezastically active stereoisomer.
+
+Recoveries measuted forthe radioactive €-phosphoelscerol deriv
+ative of various pluesies were as follows efter elution with equeous
+pyridine: eniteophenslfiglucaside, 7Y, ctv felucosiée. 78%,
+lmyedaln, 79%, and arbutn, 4 With vritrophersTf-suceside a=
+
+ 
+
+ 
+
+2394
+

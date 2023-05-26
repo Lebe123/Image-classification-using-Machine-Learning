@@ -1,0 +1,146 @@
+‘BTbRS by The American Sadi fr Biochem and Molar Big, Se
+
+Va 20 Ne 8, ef Pb 26, 3504-9681, 186
+
+Identification of a Protein with Homology to hsp90 That Binds the
+Type 1 Tumor Necrosis Factor Receptor*
+
+‘Received for publication, August 15, 1994, and in revised form, November 28, 1994)
+
+Ho Yeong Song, James D, Dunbar, Yuan Xin Zhang, Danqun Guo, and David B. Donner?
+rom the Department of Physiology and Biophysics and the Walther Oncology Center, Indiana University School of
+
+Medicine, Indianapolis Indiana 46202
+
+‘The yeast-based two hybrid has been used to identify
+a novel protein that binds to the intracellular domain of
+the type 1 receptor for tumor necrosis factor (TNFR-
+IC). The TNF receptor-associated protein, TRAP-1,
+shows strong homology to members of the 90-kDa family
+fof heat shock proteins. After in vitro transcription!
+translation and “*S labeling, TRAP-1 was precipitated
+using a fusion protein consisting of glutathione S-trans-
+ferase and TNFR-1IC, showing that the two proteins
+directly interact, The ability of deletion mutants of
+
+‘TRAP-1 was tested using the
+two hybrid system. This showed that the amino acid
+sequences that mediate binding are diffusely distrib-
+‘uted outside of the domain in the C terminus of TNFR-
+LIC that signals cytotoxicity. The 24-kilobase TRAP-1
+‘mRNA was variably expressed in skeletal muscle, liver,
+heart, brain, kidney, pancreas, lung, and placenta.
+‘TTRAP-1 mRNA was also detected in each of eight differ-
+cent transformed cell lines. Identification of TRAP-1 may
+be an important step toward defining how TNFR-1,
+‘which does not contain protein tyrosine kinase activity,
+‘transmits its message to signal transduction pathways.
+
+ 
+
+ 
+
+ 
+
+‘Tumor necrosis factor (TNF)* is produced predominantly by
+macrophages activated by infections or malignancies (1-3).
+‘This potent multifunctional cytokine was frst characterized by
+its ability to induce the hemorehagic necrosis and regression of
+cancers in animals and by the cytotoxic response that it ean
+clict from transformed cells in vitro. Subsequent studies have
+shown that through interactions with virtually every type of
+cell, TNF also promotes immunity, antiviral responses, inflam-
+‘mation, shock, and metabolic alterations, including cachexia,
+
+"This work was supported by a grant rom the Indiana Aline ofthe
+‘Ameria Disbotes Assaiation (to D. B.D.) hy a postdoctoral fellow-
+‘hip trom the Indiana Afiliats ofthe American Heart Assocation (10
+HLY. 8) by a postdoctoral llowship from tbe Walther Onclagy Cen-
+tar (io Y.%-2), and by a prodoctoral fllowship from the Indiana
+‘Afiate ofthe American Heart Association (0 D.G). The costs of
+‘ablation f tie aril were defrayed i pat bythe payment of
+‘harges, This article aut therefore be herby marked ‘adverdcement™
+{in artordance with 18 USC. Section 1754 slly to indicato this fact.
+
+‘The nucleotide sequences) reported in thie poper has Ben submited
+{othe GenBank™/ EMBL Data Bank with accion number(0) U12596,
+Tras96.
+
+{To whom correspondence should be addressed. Tel: 317-278-2158;
+Fae $17-274-9818.
+
+"the abbreviations sed are: TNF, tumor necroie fetor; TNFR-1,
+S56:kDa type 1 timor necrosis factor tecaptr, TNFR-2, T6Da type 2
+tumor necrosis feewe receptor; TNER-HG, intracslular domain of
+‘INFRA; TNFR-2IG, intracellular domain of TNFR-2; TRAP-L TNE
+receptoraseociated protei-1; TRAP-2, TNF receptor asscisted pro-
+teing; GALABD, the CALA binding, domain; GALA-AD, the GALA
+traneactivation damsin; GST, gitattione S-transferase; PAGE, pely-
+feylamide gel electrophoresis; Tu, troponin 7, PCR, plymerase chain
+‘reaction; kb, lobasete; RACE, rapid amplification of eDNA ends
+
+ 
+
+‘which accompany disease states (1-8). Such diverse and pro-
+foundly important functions have made TNF the subject of
+intense investigation.
+
+‘The fist step in TNF action is binding to specific receptors
+that are expressed on escentially all cells (4~7). Two TNF
+receptors have been identified as proteins of 55-kDa (the type 1
+receptor, TNFR-1) and 75-kDa (the type 2 receptor, TNFR-2)
+(8-11), and their DNAs have been cloned (12-14). The extra-
+cellular domains of the TNF receptors share homologies with
+‘one another and with a group of eell surface receptors that,
+include the FAS antigen, the low affinity NGF receptor, the
+‘murine cDNA clone 4-1BB from induced helper and cytolytic T
+call, the B cell surface antigen CD40, the OX40 antigen of
+activated CD4-positive rat lymphocytes, and the T2 antigen of
+the Shope fibroma virus (15). The intracellular domains do not
+display sequence similarities and couple to different signal
+transduction pathways, For this reason, the receptors induce
+distinct responses: TNFR-1 promotes cytotoxicity, fibroblast
+proliferation, antiviral responses, and the host defense against
+‘microorganisms and pathogens (10, 16-19), TNFR2 plays a
+role in cytotoxicity that ia sil being defined (2022), inhibits
+early hematopoiesis (28), is involved in the proliferation of
+‘monocytes (24), and promtotes the proliferation of cells (28).
+
+‘Neither TNF receptor contains intrinsic protein tyrosine ki-
+nase activity or any recognizable motif (1214), which suggests
+‘2 mechanism through which the signal inherent in the hor-
+‘mone-receptor complex can be transmitted to signaling mech-
+‘anisms, This may suggest that associated proteins, rather than
+‘the intracellular domain of either TNF receptor, act as essen-
+‘al elements in signal transmission, Such accessory molecules
+may be cytoplasmic tyrosine kinases, exemplified by JAK2,
+‘which interacts with the erythropoietin and other receptors
+(28), or non-tyrosine kinases, such as gp180, which associates
+with the interleukin-6 and other receptors (27). Consistent
+with the hypothesis that TRAPS may be important to TNF
+action are recent reports deseribing co-precipitation of TNFR-1
+‘vith a protein kinase activity (28, 29). The present studies were
+initiated to identify proteins that associate with the intracel-
+ular domain of TNFR-1 (TNFR-1IC) and might then initiate
+sljaal transduction.
+
+"To address this problem, we used the yeast-based two hybrid
+system, a method for studying protein-protein interactions (30,
+‘30. This method is based on the properties of the yeast GALA
+protein, which consists of separable domains that mediate
+DNA binding and transcriptional activation. Plasmids encod-
+ing two hybrid proteins, one consisting of the GALA binding
+domain (GALA-BD) fused to protein X and the other consisting
+of the GALA activation domain (GAL4-AD) fused to protein Y,
+are cotransformed into yeast. Interaction between these pro-
+teins permits transcriptional activation ofan integrated eopy of
+the GALAlacZ reporter gone.
+
+"To identify proteins that interact with TNFR-IIC, a plasmid
+
+ 
+
+ 
+
+3574
+

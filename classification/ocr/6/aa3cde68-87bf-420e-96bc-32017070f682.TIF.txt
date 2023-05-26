@@ -1,0 +1,107 @@
+Journal of Neuroscience Research
+
+Molecular Cloning and Expression of a
+5-Opioid Receptor From Rat Brain
+
+M.E, Abood, M.A. Noel, J.S. Farnsworth, and Q. Tao
+Department of Pharmacology and Toxicology, Medical College of Virginia, Virginia Commonwealth
+
+University, Richmond
+
+We have isolated and characterized a rat 8-opiold
+receptor. The deduced amino acid sequence (372 12)
+closely resembles the murine 8-opioid receptor,
+DOR-1. In fact, 97% of the amino acid residues are
+conserved between the two species, while 93% of the
+nucleic acid residues are identical. A 6 kb mRNA was
+detected in rat cortex using rat DOR-1 as a probe.
+‘When expressed in COS cells, the clone shows high-
+affinity opioid binding with selectivity for 8-opioids.
+‘The rat 8-opioid receptor cDNA clone will be a useful
+tool for studying the function of 8-oploid receptor in
+Fats, © 1994 Wiley-Liss, Inc.
+
+Key words: rat, @DNA-brain, DOR-1
+
+INTRODUCTION
+
+While well defined pharmacologically, the opioid
+receptors have until recently been refractory to molecular
+cloning. Opioid receptors have been classified into three
+‘groups, delta (6), mu (1), and kappa (x) (Lord et al.,
+1977; Martin ct al., 1976; Goldstein et al., 1971; Simon
+et al., 1973; Pert and Snyder, 1973; Terenius, 1973).
+‘The B-opioid receptor is selective for the endogenous
+opioid peptides met- and leu-enkephalin and for several
+synthetic peptides (Lord et al., 1977; Mosberg et al.,
+1983). Its distribution in the central nervous system has
+been mapped using receptor autoradiography; itis most
+dense in olfactory-related areas, cortex, caudate puta-
+‘men, nucleus accumbens, and amygdala (Mansour et al.,
+1987). The B-receptor is also found peripherally in the
+‘mouse vas deferens (Lord et a. 197). In addition, the
+B-opivid receptor is found on many neurally derived cell
+lines, including NG1O8-15 mouse neuroblastoma X rat
+glioma hybrid cells (Sharma et al., 1975), SK-N-SH
+cells (Yu et al., 1986), and PCI2h rat pheochromocy-
+toma cells (Inowe and Hatanaka, 1982; Abood and Eu-
+banks, 1993).
+
+‘The murine 8-opioid receptor has recently been
+cloned using expression techniques and shown to be a
+‘member of the G-protein-coupled receptor family (Evans
+etal., 1992; Kiefler ct al., 1992). The cloned receptor is
+a mouse cDNA clone isolated from the mouse neuroblas-
+
+© 1994 wa
+
+toma-rat glioma hybrid cell line NG108-15. We, along
+with many others, have been studying the function of
+B-opioid receptors in rats. The mouse clone can be used
+to detect B-opioid receptor mRNA in mouse and rat tis
+sues by Northern blot hybridization; however, there are
+some difficulties with using the mouse clone to detect
+S-receptor mRNA in other rodent species. In particular,
+anatomical localization by in situ hybridization in rat
+brain has not yet been demonstrated with the murine
+S-receptor clone. The goal of this study was to clone the
+rat homolog of the 8-opioid receptor. While this manu-
+script was under revision, a paper describing the cloning
+of a S-opioid receptor from Wistar rats was reported by
+Fukuda et al. (1993). The clones will be useful tools for
+studying the function of B-opioid receptors in rats.
+
+MATERIALS AND MI
+Library Screening
+
+A Sprague-Dawley rat olfactory bulb XZAP cDNA.
+
+ary prepared by a combination of random-priming.
+and oligo-dT priming was obtained from Stratagene (La
+Jolla, CA). The library was sereened with a random-
+primed probe prepared from the coding region of DOR-1
+(kindly provided by Dr. Chris Evans, UCLA) which was
+labeled to a specific activity >5 x’ 10 dpmvug (Sam-
+brook et al.. 1989). The first screen was at moderate
+stringency, $5°C overnight in 1 M NaCl, 1% SDS, 10%
+dextran sulfate, 50 mM TrisHCl, pH 8.0, and 100 jugim!
+denatured salmon sperm DNA. The filters (NEN colony
+sereen plus, Boston, MA) were then washed to a final
+stringeney of 2X SSC, 1% SDS, 55°C. Out of 1 x 10°
+ROB plaques screened, one positive partial clone was
+obtained, 14C1, This clone was used to screen the library
+at high stringency (60°C hybridization and 65°C washes
+in 0.1% SSC, 0.1% SDS) to isolate a clone, 19A1,
+
+HODS
+
+Received August 9, 1993: revised and avepted Seplemter 16, 1993,
+
+Addcess reprint requests to Mary E. Abood, Deparment of Pharm
+cology and Toxicology, Box 524 MCV Staton, Richmond, VA.
+23098,
+
+ 
+
+50656348
+

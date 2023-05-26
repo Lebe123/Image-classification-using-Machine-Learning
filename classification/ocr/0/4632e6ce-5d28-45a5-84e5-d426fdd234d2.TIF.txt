@@ -1,0 +1,55 @@
+ 
+
+RJR Interoffice Memorandum
+
+Subject: Highlights Date: April 28, 1992
+
+To: Brenda Hodge From: Robert A. Heckman
+
+Prelininary Assessments of Outside Laboratory Methods for Pesticides
+
+An unusually, large nunber of analytical methods were submitted to the CORESTA
+Pesticide Sub-Group for consideration at its recent meeting (meeting report to
+follow). Several of these methods were practiced by several menbers of my
+roup and myself in the months and weeks prior to the meeting which convened in
+famburg, Germany on April 20th. Sone of our findings, which were
+diplomatically disclosed at the meeting, are summarized below.
+
+§C Method for MH-30. Contributed by J. K. Renaud of Philip Morris Europe.
+‘This method entails a two-hr extraction of tobacco with 2N HCI containing a
+derivitizable internal standard {formerly barbital, but revised to
+G-methyluracil), followed by neutralization and in situ methylation with
+dimethyl sulfate. Not having access to barbital, I synthesized and
+Characterized the 0,N-dimethy] derivative of HH-30 and used it as external
+standard for GC analysis using NPD as prescribed. The recovery of MH-30 using
+‘this approach a derivitizable internal standard was 37%. Other
+concerns are the acute toxicity of dimethyl sulfate, relegation to use of a NPD
+detector, and responsiveness of the method to bound’residues of MH-30 that are
+cnown to exist.
+
+HPLC Method for HH-30. Contributed by G. Lionetti of the Italian Honopoly.
+This method involves a 2N HC) extraction of tobacco, followed by passage of the
+extract through C-18 and analysis by HPLC using a C-18 column. We practiced
+this method intensely several weeks prior to the meeting and found an
+interference in untreated tobacco in the amount of 89 ppm. This was
+communicated at the CORESTA Sub-Group meeting. Since the delegates from
+Zimbabwe also stated that the method "does not work," I doubt that this direct
+approach will receive further serious attention internationally.
+
+HPLC Method for Kethoprene. Contributed by S. S. Yang of Philip Morris USA.
+{big method involves a simple tsopropanol extraction of tobacco, followed >
+HPLC as described by RUR, but using diode array detection. This method, which
+has a limit of detection’of 1 ppm, was also practiced intensely by us pkior to
+the meeting. Although we have seen this approach used successfully at’ Dibril,
+we have not achieved satisfactory chromatographic performance in-house using
+conventional variable wavelength detection. Conversations with Dr.. Yang
+revealed that the method may be very sensitive to injection size. This direct
+approach for high levels of methoprene will be studied further by us and
+several other CORESTA affiliates.
+
+8
+e
+8
+
+ 
+

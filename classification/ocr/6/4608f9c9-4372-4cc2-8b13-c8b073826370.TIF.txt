@@ -1,0 +1,148 @@
+Cel, Vol 70, 491-42, August 7, 1992, Copyright © 1982 by Cot Press
+
+The SH2 and SH3 Domain-Containing Protein GRB2
+Links Receptor Tyrosine Kinases to ras Signaling
+
+E. J, Lowenstein,” R. J. Daly," A. @. Botzer,”
+W. Li,* B. Margolle,” R. Lammers,t A. Ullrich,t
+E. ¥. Skoinik,” D. Bar-Sagi,!
+
+and J. Schlessinger"
+
+“Department of Pharmacology
+
+New York University Medical Center
+
+Naw York, New York 10016
+
+‘Max-Planck Institut flr Biochemie
+
+‘Am Klopspitz 184
+
+8033 Marinsriod
+
+Germany
+
+Gold Spring Harbor Laboratories
+
+1 Bunglown Road
+
+Cold Spring Harbor, New York 11724
+
+Summary
+
+‘AcDNA clone encoding a novel, widely expressed pro-
+tein (called growth factor receptor-bound protein 2 or
+GRE2) containing one sre homology 2 (SH2) domain
+‘and two SHS domeins was Isolated. Immunoblotting
+‘experiments indicate that GRB2 associates with
+tyrosine-phosphorylated epidermal growth factor re-
+ceptors (EGFRs) and platelet-derived growth factor re-
+ceptors (PDGFRs) via its SH2 domain, Interestingly,
+GAB2 exhibits striking structural and functional ho-
+mology to the C. elegans protein sem-s. It has been
+shown that semr5 and two other genes called let-29,
+(EGFR like) and Jet 60 (ras like) lle along the same sig-
+nal transduction pathway controling. elegans vulval
+Induction. To examine whether GAB2 is also a compo-
+‘nent of ras signaling in mammalian cells, micrainjec-
+tion studies were performed. White injection of GRE2
+(of Has proteins alone into quiescent rat fibroblasts
+did not have mitogenic effect, microinjection of GRE2
+together with Hae protein stimulated DNA synthesis
+‘These results suggest that GRB2/sem-S plays acrucial
+role in a highly conserved mechanism for growth fac
+tor control of ras signaling.
+
+ 
+
+Introduction
+
+Polypeptide growth factors meciato their physiological re-
+sponses by binding oand acvatingcol surface receptors
+with intrinsic protein tyrosine kinase activities (reviewed in
+Ulich and Schlessinger, 1990) Both receptor activation
+‘and yrosine autophosphoryation wore shown tobe med
+
+josterie Intermolacular process (reviewed in
+1968). Receptor autophosphorylation ap-
+‘pears to bo essential for association witha group of cyto
+plasmic target protain (reviewed in Koch et al, 1991;
+Heldin, 1981; Margols, 1982). Following binding, cortin
+target proteins. such as phospholipase C-y (PLO-) be-
+‘come tyfosine phosphorylated and activated (Me'sen-
+elder etal, 1989; Wah at al, 1969; Margolis et a, 1989;
+Kazlauskas and Cooper, 1889; Kim st al, 1991). Other
+
+ 
+
+ 
+
+target proteins, such as phosphoinositide (P19) kinase.
+associated p85, function as adaptors or regulatory sub-
+‘nits to couple tyrosine kinase receptors to effector pro-
+‘sine (Cantey etal, 1991; Hu etal, 1992; MeGlade ot al.
+1992).
+
+The assoc'ation between signaling proteins and growth
+factor receptors strictly dependent upon tyrosine phos-
+phoryaton of specific short sequence motifs. short con:
+‘sensus sequonce was described inthe kinase insert r6-
+‘gon of the platelet-derived growth factor (POGF) and
+colony-stimulaing factor 1 receptors and shown to act as.
+binding site for PL3 kinase-associated p85 (Kaziauskas
+‘and Cooper, 1990; Cantley ot al, 1991; Escobedo otal,
+19912; Reed etal, 1982). Another sequence moti was.
+found inthe carboxy-terminal als of the fibroblast growth
+factor (FGF) and epidermal growth factor receptors
+(EGFRs) and shown to act as a binding sto for PLC»,
+(Margolis ot al.,1990a, 19900; Mohammadi et a, 1991,
+1992; Rotin et al, 1992a). These autophosphoryation
+sites in growth factor receptors represent recognition
+tructue® for speci target proteins containing sre ho:
+mology 2 (SH2} domains. SH2 domains are conserved
+‘sequences of approximately 100 2a found in various sig
+‘naling molecules and oncogenic proteins (reviewed in
+Koch et al, 1997; Heidin, 1991; Margolis, 1992). SH2 do-
+mains have been found in a diverse group of proteins,
+‘some containing enzymatic activities, such a5 PLC,
+‘GTP ase-actvating protein, and pp6o"™ (Stan ota, 1988
+‘Suh etal, 1988; Sadowsk ta, 1988; Vogel etal, 1988;
+Trahy et al., 1988), while others, such as nck, vcrk, and
+185 (Lehmann etal, 1990; Mayer etl, 1988, 1982; Sol
+niketal, 1991; Otsu et al, 1991: Escobedo etal, 1991b).
+lack any apparent enzymatic activity. Binding of SH2 co-
+‘mains to tyrosine-phosphoryated regions of growth factor
+receptors is thought to provid a common mechanism by
+‘which dverse enzymaticandreguiatory protelns caninter-
+‘act specially with growth factor receptors and thereby
+‘couple growth factor stimulation to multpl intracellular
+signaling pathways (reviewed in Koch et al, 1991; Heldin,
+1991; Margolis, 1992). SH2 damalns are often accompa-
+nied bya stretch of conserved sequence at approximately
+0a, termed SH3 domain, whose unctionisnotcutrently
+known,
+
+‘We have recently utilized the tyosine-autophosphory
+lated carboxy-terminal tai ol EGFR as a specific probe for
+direct expression/cloning of novel EGFR-binding proteins
+fom gt liorares in a method we refer to as cloning ot
+receptor targets (CORT). The fest growth factor receptor
+‘bound (GAB!) protein cloned by this method was shown
+to be the human counterpart of PS kinase-associated
+Su (Skolnik et al, 1991; Escobedo et al, 1981b; Otsu
+‘etal, 1991), We describe the cloningand characterization
+‘ofthe second protein clonedby the CORT method, GRBZ
+GRB2 isa small, widely expressed protein, whose entire
+sequence is composed o a single SH2 domain flanked by
+two SH3 domains. Hore we demonstrate GRB2 associa-
+tion with ligand-activated EGFRs and POGF receptors
+
+ 
+
+ 
+
+ 
+
+50633203
+

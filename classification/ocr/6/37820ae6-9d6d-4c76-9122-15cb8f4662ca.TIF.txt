@@ -1,0 +1,225 @@
+ 
+
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+
+Modulation of Cisplatin Sensitivity and Growth Rate of an Ovarian
+Carcinoma Cell Line by Bombesin and Tumor Necrosis Factor-c
+
+ 
+
+." Doreen K. Hom,* Alan Eastmar
+
+ 
+
+Soli Isonishi
+
+Franz B. Thiebout,* Randolph D. Christen,* and Stephen 8. Howell*
+Department of Gynecologic Oncology, Jikel University School of Medicine, Tokyo, Japan; *School of Medicine and the Cancer Center
+and! Department of Surgical Oncology, University of California San Diego, La Jella, California 92093;
+
+land "Department of Pharmacology, Darmouth Medical School, Hanover, New Hampshire 03755
+
+Abstract
+
+[A twofold change in the cisplatin (DDP) sensitivity of 2008
+hhuman ovarian carcinoma cells is sufficient to reduce tumor
+response in vivo. The DDP sensitivity of these cells can be
+enhanced by activation of the epidermal growth factor and pro-
+‘ein kinase C signal transduction pathways. We report here
+that two endogenous growth factors, bombesin and tumor ne-
+crosis factor alpha (TNFa), enhanced DDP sensitivity by fac-
+tors of 1.70.1 (SD)-fold and 1.80.1 (SD)-fold, respectively.
+Both agents also produced sensitization in an 11-fold DDP-re-
+sistant 2008 subline, Neither bombesin nor TNFa changed the
+accumulation of DDP, glutathione content, or glutathione-S-
+transferase activity in 2008 cells. However, a 2-h exposure to
+‘oth bombesin and TNFa was suficent to increase 2008 clon-
+ing efficiency by up to 2.60.1 (SD)-fold and 2.220.1 (SD)-
+fold, and it increased average colony size by 1.3520.1 (SD)-
+fold and 1.55+0.1 (SD)-fol, respectively. Bombesin increased
+intracellular free calcium, and this was blocked by the bombe-
+sin receptor-specific antagonist SC196, demonstrating that
+2008 cells have functional bombesin receptors. These results
+indicate that bombesin and TNFa can enhance sensitivity to
+DDP in both DDP sensitive and resistant variants of a human
+‘ovarian carcinoma and that both agents serve as growth factors
+for this tumor. (J. Clin, Invest, 1992. 90:1436-1442,) Key
+words drug resistance «signal transduction pathway +intracel-
+Ilr calciom + chemotherapy + mitogenesis « growth factor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Introduction
+
+Ligand binding toa variety of receptors triggers the rapid gener~
+ation of inositol triphosphate and diacylglycerol leading to the
+activation of protein kinase C (PKC)! (1). Bombesin, a tetra-
+
+ 
+
+‘Adéress correspondence and reprint requests to Stephen B. Howell,
+(M.D, Department of Medicine, 0812, University of Calfomia, San
+Diego, La Soll, CA 92093,
+
+‘Received fr publication 28 November 1990 and in revised form 13
+February 1992.
+
+1, Abbreviations used inthis poper(Ca* hy intracellular free calefums:
+DOP, ‘isdiamminedichloroplainum(Il); PHIDEP, cis-diebloro-
+(CH }-cthylenediamine)-pltinum(I1); EGF, epidermal growth (ac-
+tor; GST, glutathione S-transferase; mCB, monochlorobimane; PKC,
+protein Kinase C; TNF, tumor necrosis factoralpha; TPA, 12-O4e-
+tradecanoyiphortol13-acetate
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+J.Gin. vest.
+‘© The American Society for Clinical Investigation, Ie.
+021-9738/82/10/1436,07 $200
+
+Volume 90, Ocober 1992, 1436-1442
+
+41498 onishi,Jekunen, Hom, Eastman, Edelstein, Thebaut, Christen, and Howell
+
+50667326
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+   
+    
+  
+ 
+   
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+    
+  
+ 
+    
+  
+   
+   
+  
+  
+  
+  
+  
+   
+   
+  
+
+* Peter 8. Edolstein,*
+
+ 
+
+ 
+
+decapeptide originally isolated from frog skin (2), has been
+shown to act as a mitogen for Swiss 373 fibroblasts (3) and J
+Ihuman small cell lung carcinomas (4). This peptie also has
+
+potent pharmacological effects on pancreatic cells (5) and
+Clicts the release of other peptide hormones such 2s insulin |
+‘Since the administration ofthis hormone stimulates the release
+
+of other peptides, itis difficult to obtain evidence fora direct
+biological activity of bombesin. In Swiss 373 cells, high affinity
+receptors specific for this peptide have been demonstrated (6),
+and bombesin is able to directly activate PKC (7). Thereisalso
+indirect evidence that bombesin can activate PKC in human
+tumor cells based on its ability to generate inositol triphos-
+phates and increase intracellular free calcium {(Ca*}}(5, 8).
+
+‘Tumor necrosis factor-a (TNFa), secreted by macro-
+phages (9), isa cytokine with a wide range of regulatory actions
+‘on immune responses, inflammation, cell growth, and differ |
+‘entiation (10). TNFa has been reported to enhance the cyto-
+toxicity of cis-diamminedichloro-platinura(I1) (DDP) in vitro
+toa human stomach adenocarcinoma (11) and a human ovar-
+jan carcinoma cell line (12). In contrast, TNFa: does not dem-
+“onstrate en actual synergistic effect when combined with DDP
+in a human bladder transitional cal carcinoma in vivo (13).
+Furthermore, when TNFa was administered for the treatment
+of intraperitoneal ovarian cancer xenografts, although it pro
+longed survival in tumor-bearing mice (10), it also promoted
+‘the establishment of multiple subperitoneal tumors. Like 12-
+(O-tetradecanoyl-phorbol-13-acetate (TPA), TNFa activates
+PKCin some cell types and thisin turn may result in increased
+[AP-| activity and induction of AP-1-responsive genes (14).
+‘This is considered to be a key mechanism mediating at least
+some ofthe biological effects of TNFa mentioned above.
+
+‘We have previously reported that TPA activation of PKC
+increased DDP sensitivity by a factor of 2.5-fold in human
+ovarian carcinoma 2008 cells (15). Likewise, epidermal
+growth factor (EGF), another potent activator of PKC, en
+hhances DDP sensitivity by 3.1-f0ld in the same cel line (16).
+We report here that bombesin and TNFa, two endogenous
+ligands whose receptors have the potential of activating PKC,
+are also potent modulators of DDP sensitivity in 2008 cells
+‘and, moreover, are both mitogenic for this tumor.
+
+ 
+
+ 
+
+ 
+
+Methods
+
+“Materials. Bombesin was porchased from Sigma Chemical Co. (St
+‘Louis, MO). TNFa was purchased from Sigma Chemical Co. and
+‘Koll Pharmaceuticals (Whippany, NJ). DDP was obtained from the
+Drag Syathess and Chemistry Branch, Division of Cancer Treatment
+[National Cancer Insite (Bethesda, MD). Monochloobimse®
+(CB) was purchased from Molecular Probes, ne. (Eugene, OR). A
+Stock solution of mCB was prepared in ehaeol (20 mM) and was ke
+‘at 0-5°C, protected from light cs Dichloo((?H -<thylenediamine)~
+
+ 
+

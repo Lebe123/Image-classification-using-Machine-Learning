@@ -1,0 +1,128 @@
+CANCER RESEARCH 44,259.26, Jroy 1984)
+
+Specific Killing of Human T-Leukemia Cells by Immunotoxins Prepared
+with Ricin A Chain and Monoclonal Anti-Human T-Cell Leukemia
+Antibodies’
+
+Benk. Seoit
+
+epormen ct Molec mney, Ropu Park Memorial ste Bul, New Yok 14269
+
+ABSTRACT
+
+In this study, immunotoxins containing monoctonal ant human
+‘call leukemia antibodies are shown to be capabie of specie.
+kaling of tuna T-leukeria cel in vitro.
+
+These immunotoxins were prepared by conjugating rein A
+chain (RIA) wath our recently generated murine monoclonal ant
+boskes. SN1 and SN2, the latter of which was obtained trom @
+hhybxidoma clone N6/D11 described previously by Negoro and
+Seon (Cancer Res., 42: 4259-4262, 1982), directed to two
+‘nique human T-cel leukemia antigens. We have shown previ=
+‘us that these monoclonal antibadies do not react with non
+leukemia cets nor with vanous normal cells including normal T-
+cals, thymocytes, and bone marrow cells (Proc. Nat. Acad. So.
+U.S. A, 69: 845, 1989; Cancer Res., 42: 4259, 1982). Control
+‘conjugate was also prepared by conjugating RIA with a mutine
+monoclonal immunoglobulin G (IgG), the isotype of which is the
+‘Same as that of SNJ and SN2, Le, IgGt-s. In nial experiments,
+the cytotoxic activity of an SNI IgG-RIA conjugate preparation
+{and the control IgG conjugate preparation against leukemic T-
+Cet ines and normal B-cel ines was tested by two different test
+Procedures, 1e., by measuring direct Killing of the cells and by
+‘measuring inhibitory activity against protein synthesis inthe cells
+In each test. the SN1 conjugate showed specific cytotoxic actv-
+ity against T4eukemia cels, whereas the control conjugate was.
+‘ot cytotoxic against either T-eukemia cells or normal B-cels,
+"Nearly compete kiling of T-eukemia cols and inhibition of protein
+synthesis in T-leukemia cols were observed at the concentra:
+tions of 10°* to 10°” w of the SN1 IgG:RIA conjugate.
+
+{a subsequent experiments, another preparation of SN1
+IgGIRIA conjugate and an SN2 IgG:RIA conjugate preparation
+‘were tested indvidvaly and together for their inubitory activity
+‘aganst protein synthesis in T-eukemia cells and contro cel,
+With T-leukemia cels, specific inhibition was observed for both
+SNI IgGRRIA and SN2 IgGRIA. The combined use of these
+‘conjugates did not display a synergistic effect. Nevertheless, the
+combined use of diferent immunotoxins directed to oiferent
+antigen molecules will be important in cleical use, since uncu-
+{ured tumor cels derived freshly from patients, in general, dispay
+heterogeneity with respect to the expression of tumor-associ
+‘ated antigens. These immunotoxins may be useful forthe in vitro
+eradication of tumor cells inthe bone marrow taken from patients
+with T-cell leukemia. Such tumar celktree bone marrow spec
+‘mens wal be very useful in autologous marrow transplantation
+{o leukemia patients who have received aggressive high-dose
+‘chemotherapy and rachotnerepy.
+
+"na was supported patty USPHS ean A104 awarded te Natal
+coer
+
+A unto th New York Site Osperment ot Hein
+
+eceved Mach 2, 1983. acepteg Sener 28,198,
+
+JANUARY 1984
+
+INTRODUCTION
+
+‘Antibody carriers of toxins. termedimmunotoxins, have drawn
+‘considerable attention recently because oftheir promising poten-
+tian tumor therapy. Preparation of useful immunotoxins requires
+‘appropriate specie antibodies; thus, monocional antitumor an-
+tibodies will be very uselul. We have generated recently and
+characterized several MCAbs® that are directed to human T-cell
+leukemia antigens (14, 28), These MCAbs react with T-ALL ceils
+but do not react with various non-Teukemia cells nor with
+Various normal cell including normal - and B-cells, thymocytes,
+and bone marrow ces. In the present study, we selected 2 of
+these MCAbs, ie., SN1 and SN2, for preparing immunotoxins
+IMCAb SN2 was obtained from hybxidoma clone N6/D11 de.
+scribed previously (14)) These MCAbs define unique individual
+human T-cell leukemia antigons (14, 28) and ate dlrected to
+itferent antigen molecules as determined by specific immuno-
+Prociptation followed by SDS-PAGE.‘ Of the toxins, we chose
+icin, a plant toxin derived from the castor bean, since the
+Useluiness ofthe antibody: RIA conjugates forthe in vito kiting
+‘of tumor celis has been reported already by several groups of
+investigators (6, 8-11, 15, 18, 28). Tho rcin molecule consists
+‘of 2 subunits, an A and a 8 chain, which are inked by a dsulide
+bond (reviewed in Re. 16). The 8 chain is a lectin which is.
+pectic for galactose residues present on the surface of a wide
+variety of cells. The binding of the ricin B chain to mammalian
+Cells allows the ent of the entire rcin molecule, and conse-
+quently the RIA, into the cytoplasm whore the A ehain is spit
+from the 8 chain and acts on the 60S subunit of the iasome
+to.cause irreversible inhibition of protein synthesis and cell death,
+Isolated ncn 8 chain binds to cel surfaces butis nontoxic, while
+isolated RIA is not significantly toxic because ofits inabilty to
+<tficenty bind to cell surface and to traverse the cell membranes.
+Thus, conjugates of RIA with appropriate monocional ant tumor
+antibodies may provide immunotoxins specifically targeted on
+the tumor cels that react with the antibodies.
+
+(ur present immunotoxins of ant-Tleukeméa MCAbs and RIA
+showed specite kiling of Teukemia ces in vitro. Chnicaluiil-
+zation of such immunotoxins will be important in view of the
+facts that T-col leukemia is associated with poor prognosis (1,
+2,7. 17, 20, 22, 29) and that autologous marrow transplantation
+Using leukemia cel-free bone marrow has promising potenti in
+the cure of patents with T-cell leukemia (see “Discussion")
+
+2 The abrevatons vies are: MCAD. meno antbody, ALL seve
+btloste leas S05, ceaum socey! sults, PAGE. Bayard el
+(Gecroorerens. RIA. ven A chan. 'SPOP Naveen payee
+tholrononsie POS, phospatstiod sine, RPM Resmel Pak Nemora
+lest FCS. et ea serum, 1A. trecrncsi sod
+
+"BK Seon ard 5 Negro Human Tes arma ascocated cet sutace
+‘Yycopreten ened by mene ata), marge preparsian
+
+259
+
+ 
+
+50567187.
+

@@ -1,0 +1,91 @@
+406
+
+Differential Desensitization of A, Adenosine
+Receptor-Mediated Inhibition of Cardiac
+Myocyte Contractility and Adenylate
+Cyclase Activity
+Relation to the Regulation of Receptor Affinity and Density
+
+Bruce T. Liang and Leslie A. Donovan
+
+Effects of chronic exposure of cultured atrial myocytes to R-N*-(2-phenylisopropyl)-adenosine
+(APIA) on the A, adenosine receptor-mediated inhibition of adenylate cyclase activity and
+myocyte contractility were examined. Chronic exposure of atrial myocytes cultured trom
+14-day-old chick embryos to R-PIA desensitized the myocyte to the inhibitory effects of R-PIA,
+‘on contractility and adenylate cyclase activity in a time- and dose-dependent manner.
+Desensitization of the negative inotropic response was only partial, whereas the adenosine
+receptor-mediated inhibition of adenylate cyclase activity was almost completely absent after 24
+hours of R-PIA (1 1M) exposure, Furthermore, the contractile response to K-PIA desensitized
+‘more slowly than the desensitization of A, adenosine receptor-mediated inhibition of adenylate
+cyclase (f;;=11.4:0.7 hours versus 7.5:+1 hours, mean SEM, n=12 and 6, respectively). Thus,
+the two A, adenosine receptor-tinked functional responses desensitized differently in response
+to chronic exposure of the myocyte to R-PIA. Binding of the antagonist radioligand ['H)-
+8-cyclopentyl-1,3-dipropylxanthine (UHICPX) in membranes from myocytes preexposed to
+R-PIA demonstrated a time-dependent decrease in receptor density without any change in the
+affinity for the antagonist radioligand. Computer analyses of agonist competition with ['H]CPX
+binding in membranes from control and R-PIA-treated myocytes revealed a conversion of the
+high-affinity A, adenosine receptor to a low-affinity form such that after 24 hours of 1 M R-PIA
+‘exposure, all of the receptors were in a low-affinity form, On the other hand, downregulation of
+the receptor was partial, with nearly 60% of the receptor remaining after 24-hour treatment
+with 1 4M R-PIA. These data indicate that the mechanism of desensitization of the A,
+adenosine receptor-mediated negative inotropic response differs from that of the desensitiza-
+tion of the adenylate cyclase. Uncoupling of the A, adenosine receptor from a high-affinity state
+‘was closely associated with desensitization of the inhibition of adenylate cyclase; downregula-
+tion of the A; adenosine receptor appeared to parallel desensitization of the negative inotropic
+response, (Cireulation Research 1990;67:406~414)
+
+   
+
+ 
+
+ 
+
+|
+{
+
+ 
+
+ 
+
+ardiac actions of adenosine are mediated by
+specific adenosine receptors of the A, sub-
+
+type located on the surface of cardiac
+yocytes.? Previous studies have demonstrated that
+
+ 
+
+From the Cardiovascular Division, Department of Medicine,
+Brigham and Women’s Hospital and Harvard Medical School,
+Bosion, Mass, and the Universi of Pennsyvania ‘School of
+Medicine, Philadelphia, Ps
+
+Supported by grant HL-48188 fom the National ert, Lang, and
+‘Blood nstue, National Institutes of Health, and bya grantnaid
+{fom the Massachusetts Affliate ofthe American Heat Assocation,
+
+‘Adress for correspondence: Bruce T. Liang, MD, Departments
+‘of Medicine (Cardiology and Pharmacology, University of Penn
+Sylvania School of Medicine, 36th and Hamilton Walk, Philadel.
+Phis, PA 19104-«084,
+
+Received October 11,1989; accepted March 30,1980.
+
+‘A, adenosine receptors are present on spontaneously
+contracting cultured atrial myocytes and are nega-
+tively coupled to adenylate cyclase and to myocyte
+contractility.* Pretreatment of intact chick embryo
+with R-N"(2-phenylisopropyl)-adenosine (R-PIA)
+resulted in downregulation of the A, adenosine
+receptor and a concomitant desensitization of R-
+PIA-induced antagonism of forskolin-stimulated
+positive inotropic response in embryonic chick ven-
+tricular slices.!° Chronic subcutaneous administra-
+tion of R-PIA also attenuated adenosine receptor-
+mediated inhibition of adenylate cyclase activity in
+rat adipose tissues.!" However, the concentration of
+R-PIA to which the chick ventricle and rat adipose
+tissue in the intact animal were exposed is not known.
+
+ 
+

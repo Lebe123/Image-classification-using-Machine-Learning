@@ -1,0 +1,91 @@
+oc- us
+
+ournal of Chomarogrphy, 631 (1993) 19-50
+levee Science Publishers 8.V,, Amsterdam
+
+Gxt” Vane
+(CHROMSYMP, 2617 AFR
+Characterization of a Chiral-AGP capillary column
+coupled to a micro sample-enrichment system with UV
+and electrospray mass spectrometric detection
+
+Jérgen Hermansson and Inger Hermanson
+ChranTech AB, S-148 63 Norborg (Sweden)
+
+Jan Nordin
+Department of Clinical Phormocoley, Karolinska Intitte, Huddinge Unversity Hospi, $-141 8 Mudange (Sweden)
+
+ 
+
+ABSTRACT
+
+‘A.Chira AGP capillary column (150 * 0.18 mim 1.D. wat uted for the separation of enantiomers of raceme drugs. fow-raes of
+1-2 ulin, Small ample volumes (60 al) wer injected ditcelyon tothe capillary column, wheres larger sample volumes were injected
+by enrichment of the sume en  eapilary rapping column (48 * 0.25 mm LD). The tapping com andthe Chiral AGP capilary
+column were coupled together bya switching valve. A pH and slkent micro gradient was generated inthe trapping sytem. The miro
+
+raient could be used to compres the migrating bands onthe Chiral AGP capillary cluma. Thus, large sample vclumes could be
+Injected without a signifeam decrease in detection sensi, For some compounds, 45-50% higher detection snsitnty than with
+dee injection was eblained by injetion of large sample velumes ono the rapping column. Sample volumes as high #529 pl ould be
+Injeted using the sarple-enichment technique. This sample volume is 330 umes higher than the volume injected directly on 10 the
+column, The hydrophabiol ofthe trapping column infsences the band broadening. The bes tection sesitvity was obaind using
+the most hydrophilic rapping columns. The low fowerate used forthe Chiral AGP capillary column allows coupling wth amass
+speciromeler through an eleciospeay interface (ESI, The combination ofthe cally chiral column, the mero sumpeenrichment
+thd the ESI-MS tcehnigue penits the analyse of chiral eompounds at low coneeneations with high detection selectivity and high
+sensitivity.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INTRODUCTION In order to be able to study the disposition of
+Grug enantiomers in the body, analytical methods
+
+are required that permit the analysis of enantiomers
+
+ 
+
+‘The biochemical reactions in living organisms oc-
+
+cur on a three-dimensional basis as a result of the
+asymmetric nature of the macromolecules involved
+in such reactions. Enantiomers of drugs can be con-
+verted by the liver enzymes at
+rates or they can be converted into different metab-
+lites (I~). As drugs also interfere or participate in
+the biochemical reactions in the organism, large dif=
+ferences in pharmacodynamic properties can also
+bbe obtained for drug enantiomers (5-8).
+
+ 
+
+ 
+
+ 
+
+Correspondence 10:3. Hermansson, ChromTech AB, S-145 63
+Nonborg, Seeden
+
+present at very low concentrations in a complex ma-
+trix such as plasma and urine. [tis well known that
+all chiral columns give lower separation efficiencies
+than non-chiral columns. Another feature of chiral
+columns is that they tend to give low selectivity for
+structural analogues compared with non-chiral col-
+umn. Many drugs are tertiary amines and a com-
+mon metabolic pathway for tevtiary amines is N-
+dealkylation, which means that secondary and pri-
+rary amines are formed by the liver enzymes. Ow-
+ing to the lower selectivity for structural analogues,
+obtained by chiral columns compared with non-chi-
+
+0021.9673;93,50600 © 1993 Elsevier Science Publishers B.V. All ights reserved
+
+9eeesolosz
+

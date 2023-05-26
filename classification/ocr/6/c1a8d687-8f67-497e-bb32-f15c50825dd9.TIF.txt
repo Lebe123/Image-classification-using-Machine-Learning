@@ -1,0 +1,162 @@
+© 1994 Oxford University Press
+
+Nucleic Acids Research, 1994, Vol, 22, No. 25 S695~S701
+
+ 
+
+The fate of deleted DNA produced during programmed
+genomic deletion events in Tetrahymena thermophila
+
+ 
+
+Serge V.Saveliev and Michael M.Cox*
+
+Department of Biochemistry, University of Wisconsin, 420 Henry Mall, Madison. WI 53706, USA
+
+ 
+
+Recoved August 10, 1994; Revised and Accepted November 4, 1994
+
+GenBank accession nos: U12971 and U12972
+
+ 
+
+ABSTRACT
+
+Thousands of DNA deletion events occur during
+macronuclear development in the ciliate Tetrahymena
+thermophila. In two deleted genomic regions,
+designated M and R, the eliminated sequences form
+circles that can be detected by PCR. However, the
+Circles are not normal products of the reaction pathway.
+The circular forms occur at very low levels in
+conjugating cells, but are stable. Sequencing analysis
+showed that many of the circles (as many as 50% of
+those examined) reflected a precise deletion in the M
+and R regions. The remaining circles were either
+smaller of larger and contained varying lengths of
+Sequences derived from the chromosomal DNA
+surrounding the eliminated region. The chromosomal
+junctions left behind after deletion were more precise,
+although deletions in either the M or R regions can
+generate any of several alternative junctions (1). Some
+ew chromosomal junctions were detected in the
+present study. The results suggest that the deleted
+segment is released as a linear DNA species that is
+degraded rapidly. This species is only rarely converted
+to the stable circles we detect. The deletion mechanism
+is different from those proposed for deletion events in
+hypotrichous ciliates (2-4), and does not reflect a
+conservative site-specific recombination process such
+as that promoted by the bacteriophage \ integrase (5).
+
+ 
+
+INTRODUCTION
+
+Ciliated protozoa provide examples of multiple types of
+progratnmied genomic rearrangements (6). These organisms have
+‘wo nuclei, a micronucleus and a macronucleus, The
+‘mieromucleus is transeriptionaly inactive and isan analog of an
+inactive germ cell nucleus. The larger macronucleus is
+teanscriptionally active and is an analog of a somatic nucleus.
+
+‘Nutritional starvation induces cels of different mating types
+to undergo conjugation, The conjugants exchange haploid gametic
+nuclei to form diploid zygotic nuclei. Subsequent steps include
+mitotic divisions of zygotic nuclei the products of which give
+rise to new micronuclei and macronuclei. Old macronuclei are
+gradually degraded. In Tetrahymena thermophila, the entire
+process is completed in about 20 h.
+
+ 
+
+ 
+
+ 
+
+Macronuclear development in ciliates is accompanied by a
+variety of DNA rearrangements, including the elimination of 3
+substantial portion of the micronuclear genome (7). la
+T.thermophita, about 15% of the genome is eliminated in the
+form of about 6800 site-specific deletion events, averaging 2 Kop
+insize and scatered about the genome. A striking feature otis
+type of DNA rearrangement is its high efficiency and precision
+Deletion ofall the MIC (micronucleus)-specifie sequences occurs
+‘during a 2 period of macronuclear development, commencin
+about 10— 12 after mating is initiated. The mechanism expioited
+to bring about genomic deletions is unknown,
+
+‘Three site-specific deletions in T.shermophila have been
+characterized hy Yao and co-workers (6). They occur within &
+short genomic region and are designated L, M, and R for let
+‘middle, and right, respectively. The M region isthe best-stuied
+Here, two different deletion events may occur, deleting either
+600 or 900 bp (Figure 1B). The boundaries of the deleted
+segments are marked by S$ or 8 bp terminal direct ry
+although these have no identified role in the deletion process
+Short polypurine tracts, found about 45 bp distal w each temninal
+repeat, are required for deletion and represent the only cis-acting
+sequences defined to dute tora ciliate deletion reaction (8. 9)
+‘Their location defines the deetion erapoints inthe M region (9),
+The polypurine tracts are absent in the neighboring R region,
+hich also undergoes a deletion of 1.1 kbp (10)
+
+A promising direction in the investigation of the mechanism
+of genomic rearrangements in ciliates is analysis ofthe products
+fr byproducts that appear during the process. In Euplotes erassus
+the eliminated fragments derived from the deletion oi ES:
+elements or the transposon-like Tee and Tee? elements can be
+detected as circles (11 =13). The circle junctions contain 1wo
+copies of the terminal direct repeat separated by a short se
+of heteroduplex DNA derived from the chromosomal 1
+Nanking the eliminated segment (2. 3). The data permited the
+authors to propose a detailed mode! for the deletion mechanism
+The deleted TBEL elements of Osyzricha mifallax are also found
+as readly-detected circular species with defined structures (4)
+
+We have begun an investigation of genomic deletions in the
+M and Ro regions during macronuclear development in
+Thermophila. By weans of PCR techniques we have detected
+circular forms of the eliminated sequences. However. the citcles
+are found in much lower abundance than those observed in
+
+       
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+ 
+
+ 
+
+  
+
+ 
+
+“To stm core
+
+ 
+
+lens sok! be ares
+

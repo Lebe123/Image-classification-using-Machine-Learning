@@ -1,0 +1,69 @@
+lc
+
+Pre SOO lV meeting Rome Fa - 48S
+4B 9 Here
+THE SOD ACTIVITY VERSUS TOXICITY OF TERNARY COMPLEXES OF SOME COPPER COMPLEXES
+
+ 
+
+WITH DNA
+
+GIDON CZAPSKI AND SARA GOLDSTEIN
+Department of Physical Chemistry, The Hebrew University of Jerusalem, Jerusalem
+
+91904, IsraeT
+
+INTRODUCTION
+It has been demonstrated that degradation of double-stranded DNA occurs in the
+
+Presence of Cu(II) ions, 1,10-phenanthroline (OP), 8 reducing agent and 02 (1-2).
+The copper complex of 5-NO3-0P was found to be more effective than OP in cleav=
+ing DNA, white that of 2,2-bipyridy] (bipy) did not degrade NA under the same
+conditions (1-3)." The mechanism of the cleavage reaction was assumed to be
+through a site specific mechanism where the bound Cu(1) complex to DNA is oxi-
+dized by H,0, to form the OH" radical at the binding site. This mechanism ex-
+Plains the toxicity of the OH" formed as it is formed at the binding site and
+
+can hardly be scavenged.
+
+Discussion
+The reaction scheme for bound and free copper complexes (CuL3*, Cul},
+
+Cut3) include the following steps:
+
+ 
+
+puascuts*, oN
+
+ 
+
+  
+
+cuL§*or onazcurg* + 05 —+ cuts or pnazcutg + 0, a
+Cutg or DNAzCUL3 + 1,0, —» cuL3* or oNAzCuLZ* + OH” + On @
+DNA or DNA=CuL3* + OH" —+ damage «@)
+
+In addition the reoxidation of Cu(I1) by oD can occur:
+4)
+
++ cut + on + 2H* 2s ary
+CuLZ or DNASCUL} + 03 + 2H” —~ cuLZ* or vnazcuLs* + HZ02
+If we analyze the sequence of these reactions we find that reactions (1) and (2)
+describe the catalysis of the Haber-Weiss reaction which yields the deleterious
+
+OH", while reactions (1) and (4) describe the catalysis of the dismutation of 03
+
+and hence prevent the formation of OH". Thus a copper compound can serve either
+
+as a catalyst of the Haber-Weiss reaction or as a catalyst of the dismutation of
+
+03. It turns out that whether the copper compound catalyzes the dismutation of
+03 or catalyzes the Haber-Weiss reaction depends on the competition between re-
+actions (2) and (4), It has been shown that k4/kz > 10° for the various free
+copper complexes (4) and since in most biological systems [H202}/103}< 109 (5),
+the dismutation of 03 predominates and we do not expect any appreciable produc-
+tion of OH" through the Haber-wWeiss reaction and no toxicity is expected (6).
+The question is how is 03 toxic in the presence of these copper complexes? We
+
+PUBLICATIONS 010501
+

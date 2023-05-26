@@ -1,0 +1,219 @@
+ 
+
+ 
+
+©
+
+Mouecuian anp Crutucan BioLecy, Mar. 1991. p. 1607-1613
+0270'730691/031607.07803 000
+Copynent © 1991. Amencan Society for Microbiology
+
+337
+Fiuk copy)
+
+Identification of Domains of the v-crk Oncogene Product Sufficient
+for Association with Phosphotyrosine-Containing Proteins
+MICHIYUKI MATSUDA.t BRUCE J. MAYER, ano HIDESABURO HANAFUSA*
+
+The Rockefeller University, New York, New York 10021
+Received 6 September 1990'Accepied 1B December 1950
+
+‘The oncogene product of the avian sarcoma virus CTI, PA7™~", contains the SH2, $H2', and SH3
+domains and binds proteins in a phosphotyrosine (plyr/-dependent manner.
+
+the region of P47" cesential for binding to pist-conteinkig proteins. Mutant Pa™" proteins cxpressed
+
+2’ regions retsined the capacity to bind plyr-comtaining
+
+sre. The deletion of SH2 resulted in the loss of Binding
+
+4m Escherichia coli that have the Intact SH2 and SH
+proteins obtained from cells transformed by crk ond
+‘activity. Other mutants that have altered SH2 or SH2"
+
+lyr-contalning proteins.
+
+ 
+
+Many proteins involved in signal transduction have been
+shown to contain three conserved domains. designated the
+'SH3. SH2. and SH2" domains (SH represents arc homology)
+or the A. B. and C boxes, respectively (34, 40, 49). These
+domains. which we will refer to simply as SH2/3. were frst
+found among non-receptor-iype tyrosine kinases (4B). and
+they were subsequently identifed in the e7k oncogene prod
+LUct (34). "phosphatidylinositol- specific phospholipase
+(PLC) (12, 49, 50). 705 GTPase activator protein (GAP) (82
+54), and Nek protein. the function of which 1 not known
+27), The SH3 domain alone has been found alse m several
+Drotcins. some of which are associated with the membrane
+cytoskeleton (11. 27. 28, 30. 45. 31. 94, $8. 8).
+
+‘The SH2 domains are regulatory rather than cata
+domains. The SH2/3 domains are dispensable for the
+lyuc activity of PLC 02), GAP (31). and non- receptor.
+tyrosine kinases (3. 47). Mutations with the SH2 dor
+p60" and P130"~"* inhibit ther transforming acl
+produce transformation: defective. temperature-sensitiv
+host-dependent motanis (4. 7.9.10, 43, 48, 56). However,
+Fecent studies have shown that some mutations in the SHS
+domain may activate the transforming potential oF
+which is otherwise nontransforming (17. 39). Mutatvons i
+the SH3 domain have been known to actwate the catalytic
+and transforming activity of pear" and pls" (18. 14. 19
+20. 42). Morphological changes induced by 60°" are ihe
+‘modulated by the SH2/3 domains (1. 2-29).
+
+‘The oncogene product of the C110 virus. PAI", ay
+fusion protein of a retroviral wag protein and c-erk.
+consists almost entirely of the SH2 domaine ¢a¥a). Cell
+ransformed by Pa7*""""* have an elevated level of phospho
+{yrosine (pty) by a mechanisin that s yet tobe clarified (33),
+We have shown previously that Pa?"""""" mmunoprecipy
+fated by antegog or anticek antisera Is gssuciated Hh,
+nearly all ofthe cellular protems phosphorylated an tyra~ine
+residues mn CT10-transformed cells 35, 47), This
+‘was found to be due toa unique capacity of PA?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+  
+
+   
+
+ 
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to bind
+
++ Corresponding author
+1 Present address: Department of Pathology. National Insnte of
+Neath. Tokyo. Japan
+
+bound few. any
+‘mutants that bound ptyr-contalning proteins associated with tyrosine Kinase 8c
+
+polypeptides containing SH2, SH2’, and SH3 of pal" and p60
+from erk-transformed cells. Thus, the SH2 and SH2" domains of Pavt=r=s
+
+PUBLICATIONS
+
+ 
+
+I this study, we have determined
+
+oF the piye-containing proteins. Those
+. We also found thet
+
+i assoclated with plyr-containing proteins
+‘re responsible for thelr Binding 10
+
+   
+
+ 
+
+Plyr-containing proteins (33). To determine the region of
+Barer" easential for the association with plyr-containing
+proteins. we have studied the binding of various erk mutants
+expressed in Escherichia con. We also have shown that the
+
+ 
+
+ 
+
+ 
+
+ao" and per
+MATERIALS AND METHODS
+{Cells and viruses. Chicken embryo fibroblasts (CEE) were
+
+    
+
+tained. and Infected a+ described previous
+Kon of avian sarcoma virus C110, which em
+“tan helper virus URIA V (38) from molec:
+larly cloned DNA was desenbed elsewhere (36), Crk AY)
+(Nay and SR-AV1 CH cells are rat 8Y eels 2) transformed
+by \verk and v-are. respectively
+Plasmid consiructions. A plasmd carrying the genome
+DNA of CT10. pCTIO. and tis derivatrves were described
+ehewhere (33a, 36), Briefly. pi0-ASH2 lacks the SH2 and
+SH2" domains Kamo acids 208 10-338). p10-AS 43 lacks the
+carhouy! terminus of SH2" and the SH3 domain (amino aehd
+MO 1 end): ROCC. pCOC. und PCCO lack the SH? tamine
+acids 238 to M16). SH2" (417 10 368) and SH3 (266 to 420)
+Somams. respectively: plOBSP has a 12-hase insertion im
+the SH3 domain. which changes D386 to DRHAD in amine
+acid sequence. pl0-MH has a IScbase insertion between the
+SSH2" and SH3 domains (1-368 10 LTQAWV). p10-ESP has 3
+Iz-base imserion in the SH?’ domain (E838 to ELACQ),
+IO-SMH has 12-base msertion between the SH2 and SH¥
+omons «P86 so. PPSLGI. pI0-R244 and plO-N373 beth
+have 2-base substitutions in the SH? domain which change
+Hin-294 to Arg and Arga73 to Asn, respectively.
+Expression vectors were constructed as follows: th
+structures are summarized in Fig. 1 -The 160-bp.$au3Al
+Fragment of pCTIO wan merited into i BaonHi site of the
+ult expression vector pE TA 146) to generate PLT-SAB.
+‘Thvs 160-bp fragment starts from & buses upstream of the
+anstaion initiation codon of PAT" and contains the
+ope domain recognized by monoclonal antibody (MAP)
+3C2 141). The BumHT fragments of pCTIO ane its dena
+liven, which extend from pag tothe end of the e7k gene, were
+subcloned sate the BamHl site of pET-SAB downstream of
+
+Prepared. m:
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+016596
+

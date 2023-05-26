@@ -1,0 +1,87 @@
+Oncogene Reser, 1981, Vo. 6, pp. S343
+Reprints availabe diet from the publisher
+Photocopying permitted by Hcence ony
+
+(© 1991 Harwood Academic Publishers Gmblt
+Printed in the United Kingdom
+
+Characterization of Int-5, A Locus Associated With Early
+Events in Mammary Carcinogenesis
+
+ 
+
+V. L. MORRIS", T. R. RAO®, C. A. KOZAK? D. A. GRAY',F. C. M. LEE CHAN? T. J. CORNELL, C. B, TAYLORY,
+RF JONES*, and C. M. McGRATH
+
+“Department of Mcrabisloy end Immunology, University of Wester Ontario, London, Ontario, Canada NSA SCL;?Deprtment f OWGyn.
+University of Texas Health Since Cntr at Sen Antonis, San Antonia, TX 7828S; National state of Alergy an Infections Diseases, NIH,
+Bethesda, MD 20882; ‘Department f Mlicine, University of Otte, Oitaus,Ontris, Canada KIH 8M Michigon Cancer Pandtion, Detroit
+[ML48201;"GraceBo-Onesogy Laboratory end Inet, 900 Auburn Roo, Ponti 48057
+
+‘Three chemically-induced precancerous mammary hyperplasias, independently isolated in
+BALB/e mice, all contained mouse tumor virus (MMTV) proviral DNA integrated
+{nto a common region in chromosomal DNA, designated Int (Formerly Int-H, Gray et al,
+1986). This site was cloned from a hyperplastic outgrowth (D2) into lambda phage. A 1.7 Kb
+Hind Il DNA fragment, which flanks the 5 end of the MMTV insert, was generated from the
+cloned Int-5 region, This fragment was used as probe (IH.-2) to localize Int-5 to mouse
+chromosome 9. The IH-2 sequence was highly conserved in DNA of several mammalian
+species including man, in three other widely divergent vertebrate phyla, and in C. elegans.
+
+“The Int region, containing 5.6 Kb 5’ and 12.8 Kb 3' to the MMTV integration site in D2,
+‘was cloned in EMBL-3 from a BALB/c genomic DNA library. CDNA complementary to poly
+A” lactating mammary gland RNA, annealed with $st-1 fragments spanning most of the
+BALB/c Int clone. The highest level of In-5 specific poly A* mRNA was detected in D2
+tumor. Lactating mammary gland and D2 nyperplasic alveolar nodule contained 5-fold less
+Int-5 RNA while liver contained 8.fld less In!5 RNA. In-5 cDNA (TH-3) annealed with two
+RNA species of approximately 33 and 4.0Kb. These data are consistent withthe hypothesis
+that Int-$ contains an oncogene, different from any other previously described, involved in
+early events in some models of chemical carcinogenesis.
+
+KEYWORDS: Int, chomosome mapping, hyperplastic alveolar nodules, mouse mammary tumor virus
+
+INTRODUCTION of two distinct loci, Int-1_ and Int-2, located on
+
+‘mouse chromosomes 15 and 7 respectively (Nusse et
+
+Mammary cancer in mice can be induced by infec-
+tious mammary tumor viruses (MMTV) or by chemi-
+cals (including mammotrophic hormones, MTH)
+(Nandi and McGrath, 1973). The virus does not
+carry @ transduced oncogene but rather acts as an
+insertional mutagen (Cohen et al, 1979b; Nusse and
+‘Varmus, 1982; Peters et al, 1983); integration of the
+Provirus into chromosomal DNA of the host cell can
+specifically alter the expression of adjacent cellular
+{genes involved in growth regulation (Varmus, 1982)
+In the majority of MMTV- induced tumors of some
+mouse strains, a provirus can be detected in either
+
+ 
+
+*c thor: De of Mirsblology and Immo-
+nology, Unversity of Western Ontario, London, Ontario, Canada
+IN6A'8CI; Telephone (19) 661-3482
+
+ 
+
+al,, 1984; Peters et al, 1984). Each region spans at
+least 25 kilobases of DNA and includes a cellular
+gene whose expression is activated by the presence
+of a provirus (Dickson, 1984; Nusse et al, 1984; Van
+Coyen and Nusse, 1984). The insertion mutation of
+int-1 and Int-2 by MMTV provirus does not appear
+to be stage specific (Morris et al,, 1990), This muta-
+tion is observed at the earliest identifiable stages of
+adenocarcinoma development as well as during the
+progression to later stages of tumors
+(Mortis et al, 1990). Int-l and Int-2 are highly con-
+served genes (Casey et al, 1986; Rijsewijk et al,
+1987) and represent cellular proto-oncogenes with
+intriguing properties: Intl is homologous to the
+“wingless" gene in Drosophila and probably is
+involved in embryonic pattern formation (Rijsewijk
+
+8
+
+   
+
